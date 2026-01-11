@@ -71,7 +71,8 @@ const obtenerPlaylistPorID = (req, res) => {
 
 const obtenerPlaylistsPaginadas = (req, res) => {
     const from = parseInt(req.query.from);
-    
+    const paginacion = 10;
+
     if (isNaN(from)) {
         return res.status(400).json({ message: 'Parámetro "from" debe ser un número' });
     }
@@ -79,7 +80,7 @@ const obtenerPlaylistsPaginadas = (req, res) => {
     const playlists = loadPlaylists();
     playlists.sort((a, b) => a.id - b.id);
     const candidatas = playlists.filter(p => p.id > from);
-    const corte = candidatas.slice(0, 3);
+    const corte = candidatas.slice(0, paginacion);
 
     if (corte.length === 0) {
         return res.status(404).json({ message: 'No hay más playlists' });
@@ -87,7 +88,7 @@ const obtenerPlaylistsPaginadas = (req, res) => {
 
     const ultimaID = corte[corte.length - 1].id;
 
-    const hayMas = candidatas.length > 3;
+    const hayMas = candidatas.length > paginacion;
 
     res.json({ 
         message: 'Playlists obtenidas!', 
