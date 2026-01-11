@@ -1,0 +1,4350 @@
+{
+    "id": 21,
+    "images": [
+        {
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840d6b253c90172da4b230548a"
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737e2966b7a98d7c3723e53b21",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027e2966b7a98d7c3723e53b21",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517e2966b7a98d7c3723e53b21",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
+                        },
+                        "name": "Gulp!",
+                        "release_date": "1985-04-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Barbazul Versus el Amor Letal",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c451ed28353639e79b4d97d9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+                        },
+                        "name": "Canción Animal (Remastered)",
+                        "release_date": "1990-10-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6PqMi24DPibrFj9Ioc4hKL"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Canción Animal - Remasterizado 2007",
+                    "popularity": 61
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+                            },
+                            "name": "Gustavo Cerati"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a2ec3791d9fd51ad343cc885",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a2ec3791d9fd51ad343cc885",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a2ec3791d9fd51ad343cc885",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+                        },
+                        "name": "Amor Amarillo",
+                        "release_date": "1993-11-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Te Llevo para Que Me Lleves",
+                    "popularity": 62
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c451ed28353639e79b4d97d9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+                        },
+                        "name": "Canción Animal (Remastered)",
+                        "release_date": "1990-10-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "(En) El Séptimo Día - Remasterizado 2007",
+                    "popularity": 51
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c451ed28353639e79b4d97d9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+                        },
+                        "name": "Canción Animal (Remastered)",
+                        "release_date": "1990-10-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0nJrTGcXdJWkKz02UMQdzO"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Un Millón De Años Luz - Remasterizado 2007",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c451ed28353639e79b4d97d9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+                        },
+                        "name": "Canción Animal (Remastered)",
+                        "release_date": "1990-10-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sueles Dejarme Solo - Remasterizado 2007",
+                    "popularity": 55
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c451ed28353639e79b4d97d9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+                        },
+                        "name": "Canción Animal (Remastered)",
+                        "release_date": "1990-10-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Entre Caníbales - Remasterizado 2007",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+                            },
+                            "name": "Soda Stereo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028fd9b16eb6bdd20c95717258",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518fd9b16eb6bdd20c95717258",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+                        },
+                        "name": "Soda Stereo (Remastered)",
+                        "release_date": "1984-02-06"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Trátame Suavemente - Remasterizado 2007",
+                    "popularity": 77
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b14842a87b833bc0a9339f60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+                        },
+                        "name": "Clics Modernos",
+                        "release_date": "1983-11-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Nos Siguen Pegando Abajo",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b14842a87b833bc0a9339f60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+                        },
+                        "name": "Clics Modernos",
+                        "release_date": "1983-11-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5f3EtD85N6tTekD3HVja4j"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "No Soy Un Extraño",
+                    "popularity": 57
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b14842a87b833bc0a9339f60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+                        },
+                        "name": "Clics Modernos",
+                        "release_date": "1983-11-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "No Me Dejan Salir",
+                    "popularity": 61
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b14842a87b833bc0a9339f60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+                        },
+                        "name": "Clics Modernos",
+                        "release_date": "1983-11-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6BqgYMoeuiXk3buXaDvfGm"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Ojos De Video Tape",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a89f53c13537b933a43d2600",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a89f53c13537b933a43d2600",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+                        },
+                        "name": "Piano Bar",
+                        "release_date": "1984-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2MXqrO1RBfek6RoijghYYp"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Promesas Sobre El Bidet",
+                    "popularity": 63
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a89f53c13537b933a43d2600",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a89f53c13537b933a43d2600",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+                        },
+                        "name": "Piano Bar",
+                        "release_date": "1984-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7mnf5omGMUwSfpwZrt5AZ0"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Raros Peinados Nuevos",
+                    "popularity": 60
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+                            },
+                            "name": "Charly García"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a89f53c13537b933a43d2600",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a89f53c13537b933a43d2600",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+                        },
+                        "name": "Piano Bar",
+                        "release_date": "1984-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Cerca De La Revolucion",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+                            },
+                            "name": "Sui Generis"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273cbbc34888dc24063d2ce5713",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02cbbc34888dc24063d2ce5713",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851cbbc34888dc24063d2ce5713",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+                        },
+                        "name": "Vida",
+                        "release_date": "1972-06-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Canción para Mi Muerte",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736fc7cc6411b7a5e61f374f60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026fc7cc6411b7a5e61f374f60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516fc7cc6411b7a5e61f374f60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/142zw0mtdYv5FtVTIoNsvT"
+                        },
+                        "name": "Los Chicos Quieren Rock",
+                        "release_date": "1988-02-14"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5nWy9S5WNtRMfwZWzIfeBr"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Enlace",
+                    "popularity": 38
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737336cd0e6ce773d8345497ac",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027336cd0e6ce773d8345497ac",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517336cd0e6ce773d8345497ac",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4bfxADfRQyd6zUTcoS75g0"
+                        },
+                        "name": "Fieras Lunaticas",
+                        "release_date": "1991-12-16"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/47l1jnveIFnQKZ9T0wUoQo"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Ya Morí",
+                    "popularity": 40
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273126d7de59eb95e3db540d472",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02126d7de59eb95e3db540d472",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851126d7de59eb95e3db540d472",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+                        },
+                        "name": "Girando",
+                        "release_date": "2006-06-26"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sigue Girando",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737d032e1ed6d0bc6ed155cc27",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027d032e1ed6d0bc6ed155cc27",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517d032e1ed6d0bc6ed155cc27",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl"
+                        },
+                        "name": "Furtivos",
+                        "release_date": "1989-02-14"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Rock del Gato",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fc63f47dad1ae49e330bb0f0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fc63f47dad1ae49e330bb0f0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fc63f47dad1ae49e330bb0f0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7sEsTk23CAow4mVed6RlNR"
+                        },
+                        "name": "Hecho en Memphis",
+                        "release_date": "1993-12-16"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4Ez8iMf0WijQL8UowrVqKQ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Vicio",
+                    "popularity": 47
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+                            },
+                            "name": "Andrés Calamaro"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736afa0dce52c78cb440025b1a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026afa0dce52c78cb440025b1a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516afa0dce52c78cb440025b1a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1gMlnqXnzKfS1oPifkkIkq"
+                        },
+                        "name": "Inyectado de Rocanrol",
+                        "release_date": "2006-10-17"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ZahpCyZGFcisp28CWohSe"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Para Siempre",
+                    "popularity": 55
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733dd388be5dd7c8a977bb0952",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023dd388be5dd7c8a977bb0952",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513dd388be5dd7c8a977bb0952",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq"
+                        },
+                        "name": "Ratones Paranoicos",
+                        "release_date": "1986-06-27"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sucia Estrella",
+                    "popularity": 39
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+                            },
+                            "name": "Viejas Locas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273df3f8fd1d8e59db737afc889",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02df3f8fd1d8e59db737afc889",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851df3f8fd1d8e59db737afc889",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+                        },
+                        "name": "Especial",
+                        "release_date": "1999-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Me Gustas Mucho",
+                    "popularity": 67
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+                            },
+                            "name": "Viejas Locas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273df3f8fd1d8e59db737afc889",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02df3f8fd1d8e59db737afc889",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851df3f8fd1d8e59db737afc889",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+                        },
+                        "name": "Especial",
+                        "release_date": "1999-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Homero",
+                    "popularity": 64
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+                            },
+                            "name": "Viejas Locas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273df3f8fd1d8e59db737afc889",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02df3f8fd1d8e59db737afc889",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851df3f8fd1d8e59db737afc889",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+                        },
+                        "name": "Especial",
+                        "release_date": "1999-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Todo Sigue Igual",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+                            },
+                            "name": "Viejas Locas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731238d3577651992e399cbb22",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021238d3577651992e399cbb22",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511238d3577651992e399cbb22",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2aDSy4QxNA0fjFLYP7HpOg"
+                        },
+                        "name": "Viejas Locas",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3UL7KKa7HVOU8blvaVklXK"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lo Artesanal",
+                    "popularity": 62
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+                            },
+                            "name": "Fabiana Cantilo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734694fba71221a52a6c894a6c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024694fba71221a52a6c894a6c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514694fba71221a52a6c894a6c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
+                        },
+                        "name": "Hija del Rigor",
+                        "release_date": "2007"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Una Tregua",
+                    "popularity": 41
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+                            },
+                            "name": "Fabiana Cantilo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734694fba71221a52a6c894a6c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024694fba71221a52a6c894a6c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514694fba71221a52a6c894a6c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
+                        },
+                        "name": "Hija del Rigor",
+                        "release_date": "2007"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7GPB1kzfqfnjVZY3E9QbZd"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Hada Naranja",
+                    "popularity": 16
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+                            },
+                            "name": "Fabiana Cantilo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734694fba71221a52a6c894a6c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024694fba71221a52a6c894a6c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514694fba71221a52a6c894a6c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
+                        },
+                        "name": "Hija del Rigor",
+                        "release_date": "2007"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6hdhlwT5ilf9tr23Rj3CXk"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Brujos",
+                    "popularity": 9
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+                            },
+                            "name": "Fabiana Cantilo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734694fba71221a52a6c894a6c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024694fba71221a52a6c894a6c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514694fba71221a52a6c894a6c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
+                        },
+                        "name": "Hija del Rigor",
+                        "release_date": "2007"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7vvmjxI6o06zrjrUCDFRYT"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Hija del Rigor",
+                    "popularity": 20
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+                            },
+                            "name": "Fabiana Cantilo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27385380a515b4a7272a7a099f5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0285380a515b4a7272a7a099f5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485185380a515b4a7272a7a099f5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+                        },
+                        "name": "Inconsciente Colectivo",
+                        "release_date": "2005-07-26"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Fue Amor",
+                    "popularity": 51
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+                            },
+                            "name": "Celeste Carballo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733dbf765d375ef15b7e9144c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023dbf765d375ef15b7e9144c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513dbf765d375ef15b7e9144c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+                        },
+                        "name": "Celesteacustica",
+                        "release_date": "2001"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4Vhz2H7uDHX1lnfDkbUspZ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Me Voy al Oeste",
+                    "popularity": 13
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+                            },
+                            "name": "Celeste Carballo"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+                            },
+                            "name": "Ratones Paranoicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733dbf765d375ef15b7e9144c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023dbf765d375ef15b7e9144c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513dbf765d375ef15b7e9144c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+                        },
+                        "name": "Celesteacustica",
+                        "release_date": "2001"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5ltohAwL2iM6IAS0khHM5M"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sabemos Que Vuelvo Pronto",
+                    "popularity": 15
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+                            },
+                            "name": "Celeste Carballo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733dbf765d375ef15b7e9144c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023dbf765d375ef15b7e9144c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513dbf765d375ef15b7e9144c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+                        },
+                        "name": "Celesteacustica",
+                        "release_date": "2001"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1hVPHCzRy4X0O84ouOVY9Q"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Paloma",
+                    "popularity": 27
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+                            },
+                            "name": "Celeste Carballo"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+                            },
+                            "name": "Juanse"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733dbf765d375ef15b7e9144c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023dbf765d375ef15b7e9144c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513dbf765d375ef15b7e9144c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+                        },
+                        "name": "Celesteacustica",
+                        "release_date": "2001"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Una Canción Diferente",
+                    "popularity": 33
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c7c1ffa44473871a6f004786",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c7c1ffa44473871a6f004786",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c7c1ffa44473871a6f004786",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+                        },
+                        "name": "Oktubre",
+                        "release_date": "1986-01-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/04evy4QQAnYPMnIPmMDq72"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Preso en Mi Ciudad",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c7c1ffa44473871a6f004786",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c7c1ffa44473871a6f004786",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c7c1ffa44473871a6f004786",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+                        },
+                        "name": "Oktubre",
+                        "release_date": "1986-01-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Motor Psico",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736c8e6627c4284ce37835a9e5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026c8e6627c4284ce37835a9e5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516c8e6627c4284ce37835a9e5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
+                        },
+                        "name": "Un Baión para el Ojo Idiota",
+                        "release_date": "1988-09-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0HQMAExgp4BiKGq6UM3u9X"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Todo un Palo",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273eb35b5a4084fb41414b60d5b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02eb35b5a4084fb41414b60d5b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851eb35b5a4084fb41414b60d5b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+                        },
+                        "name": "¡Bang! ¡Bang!... Estás Liquidado",
+                        "release_date": "1989-07-04"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Esa Estrella Era Mi Lujo",
+                    "popularity": 1
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b746ff7b1232a2e242f8b439",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b746ff7b1232a2e242f8b439",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b746ff7b1232a2e242f8b439",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
+                        },
+                        "name": "Luzbelito",
+                        "release_date": "1996-10-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2ybNy7okIb11z8czxvxoEg"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Luzbelito y las Sirenas",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b746ff7b1232a2e242f8b439",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b746ff7b1232a2e242f8b439",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b746ff7b1232a2e242f8b439",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
+                        },
+                        "name": "Luzbelito",
+                        "release_date": "1996-10-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7h0wz5amgGNqbcGOo9ebXD"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Me Matan Limón!",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+                            },
+                            "name": "Patricio Rey y sus Redonditos de Ricota"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b746ff7b1232a2e242f8b439",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b746ff7b1232a2e242f8b439",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b746ff7b1232a2e242f8b439",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
+                        },
+                        "name": "Luzbelito",
+                        "release_date": "1996-10-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2i6bt0gKgRkCRZnPya54PS"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Mariposa Pontiac - Rock del País",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+                            },
+                            "name": "Estelares"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+                            },
+                            "name": "Jorge Serrano"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273eed3fde2877221155601b242",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02eed3fde2877221155601b242",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851eed3fde2877221155601b242",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+                        },
+                        "name": "Sistema Nervioso Central",
+                        "release_date": "2006-10-17"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Ella Dijo",
+                    "popularity": 68
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+                            },
+                            "name": "Vicentico"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732f9529f86173e83d12c917cf",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022f9529f86173e83d12c917cf",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512f9529f86173e83d12c917cf",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+                        },
+                        "name": "Vicentico 5",
+                        "release_date": "2012-09-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Creo Que Me Enamoré",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+                            },
+                            "name": "Babasonicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731e0cad1f554c9a1f02a058e3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021e0cad1f554c9a1f02a058e3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511e0cad1f554c9a1f02a058e3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+                        },
+                        "name": "Jessico",
+                        "release_date": "2001-07-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "El Loco",
+                    "popularity": 71
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+                            },
+                            "name": "Babasonicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273894cafe63e54743a07ece9d3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02894cafe63e54743a07ece9d3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851894cafe63e54743a07ece9d3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+                        },
+                        "name": "Mucho",
+                        "release_date": "2008-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Pijamas",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+                            },
+                            "name": "Babasonicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273894cafe63e54743a07ece9d3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02894cafe63e54743a07ece9d3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851894cafe63e54743a07ece9d3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+                        },
+                        "name": "Mucho",
+                        "release_date": "2008-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Como Eran Las Cosas",
+                    "popularity": 74
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+                            },
+                            "name": "Gustavo Cerati"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d543f7c7de880da5370922c0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+                        },
+                        "name": "Ahí Vamos",
+                        "release_date": "2006-04-04"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Crimen",
+                    "popularity": 72
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+                            },
+                            "name": "Gustavo Cerati"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d543f7c7de880da5370922c0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+                        },
+                        "name": "Ahí Vamos",
+                        "release_date": "2006-04-04"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Adiós",
+                    "popularity": 74
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+                            },
+                            "name": "Gustavo Cerati"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d543f7c7de880da5370922c0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+                        },
+                        "name": "Ahí Vamos",
+                        "release_date": "2006-04-04"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lago en el Cielo",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                            },
+                            "name": "Los Rodriguez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27385043aee35906b4ae5810d65",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0285043aee35906b4ae5810d65",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485185043aee35906b4ae5810d65",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+                        },
+                        "name": "Palabras más, palabras menos",
+                        "release_date": "1995-05-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6jGpzgCts67MiNCtrmBEvY"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Palabras más, palabras menos",
+                    "popularity": 46
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                            },
+                            "name": "Los Rodriguez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27385043aee35906b4ae5810d65",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0285043aee35906b4ae5810d65",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485185043aee35906b4ae5810d65",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+                        },
+                        "name": "Palabras más, palabras menos",
+                        "release_date": "1995-05-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Aquí no podemos hacerlo",
+                    "popularity": 55
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                            },
+                            "name": "Los Rodriguez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27385043aee35906b4ae5810d65",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0285043aee35906b4ae5810d65",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485185043aee35906b4ae5810d65",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+                        },
+                        "name": "Palabras más, palabras menos",
+                        "release_date": "1995-05-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/53l5Dr7WdBoBWsdrwOFYfV"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "En un hotel de mil estrellas",
+                    "popularity": 33
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                            },
+                            "name": "Los Rodriguez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27385043aee35906b4ae5810d65",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0285043aee35906b4ae5810d65",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485185043aee35906b4ae5810d65",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+                        },
+                        "name": "Palabras más, palabras menos",
+                        "release_date": "1995-05-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Diez años después",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                            },
+                            "name": "Los Rodriguez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273139d10e0ae979a7b4a811140",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02139d10e0ae979a7b4a811140",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851139d10e0ae979a7b4a811140",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t"
+                        },
+                        "name": "Sin Documentos",
+                        "release_date": "1993"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sin documentos",
+                    "popularity": 68
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+                            },
+                            "name": "Babasonicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734febc01367fbd2d1ec9f1d60",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024febc01367fbd2d1ec9f1d60",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514febc01367fbd2d1ec9f1d60",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+                        },
+                        "name": "Infame",
+                        "release_date": "2003-10-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Putita",
+                    "popularity": 68
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                            },
+                            "name": "Los Caballeros De La Quema"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732414564a86c98e1ddd03ae54",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022414564a86c98e1ddd03ae54",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512414564a86c98e1ddd03ae54",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+                        },
+                        "name": "Fulanos de Nadie",
+                        "release_date": "2000-06-27"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Fulanos de Nadie",
+                    "popularity": 52
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                            },
+                            "name": "Los Caballeros De La Quema"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732e2a1aaf3f51551e67c846c2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022e2a1aaf3f51551e67c846c2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512e2a1aaf3f51551e67c846c2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+                        },
+                        "name": "La Paciencia De La Araña",
+                        "release_date": "1998-07-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Avanti Morocha",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                            },
+                            "name": "Los Caballeros De La Quema"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732414564a86c98e1ddd03ae54",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022414564a86c98e1ddd03ae54",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512414564a86c98e1ddd03ae54",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+                        },
+                        "name": "Fulanos de Nadie",
+                        "release_date": "2000-06-27"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sapo de Otro Pozo",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                            },
+                            "name": "Los Caballeros De La Quema"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735914f5777d4e70bb0f1beee5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025914f5777d4e70bb0f1beee5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515914f5777d4e70bb0f1beee5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6cJE47NmdrNkqqwLmkHMyI"
+                        },
+                        "name": "Fulanos De Nadie",
+                        "release_date": "2001-08-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5nTWAtTvFk4gg36XECO8db"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Ni a la Esquina",
+                    "popularity": 17
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                            },
+                            "name": "Los Caballeros De La Quema"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+                            },
+                            "name": "Joaquín Sabina"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735914f5777d4e70bb0f1beee5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025914f5777d4e70bb0f1beee5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515914f5777d4e70bb0f1beee5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6cJE47NmdrNkqqwLmkHMyI"
+                        },
+                        "name": "Fulanos De Nadie",
+                        "release_date": "2001-08-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4RsabWsfMpO7EO6fLopF7K"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Otro Jueves Cobarde (feat. Joaquín Sabina)",
+                    "popularity": 46
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+                            },
+                            "name": "Turf"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739789a70a91e887a2057b5f70",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029789a70a91e887a2057b5f70",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519789a70a91e887a2057b5f70",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+                        },
+                        "name": "Para Mi para Vos",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Magia Blanca",
+                    "popularity": 63
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+                            },
+                            "name": "Las Pelotas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27342f9364ececa955e466a43c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0242f9364ececa955e466a43c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485142f9364ececa955e466a43c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+                        },
+                        "name": "Despierta",
+                        "release_date": "2010-11-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Personalmente",
+                    "popularity": 67
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+                            },
+                            "name": "Vicentico"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27334e63caa064cfc524f0afda4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0234e63caa064cfc524f0afda4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485134e63caa064cfc524f0afda4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+                        },
+                        "name": "Vicentico",
+                        "release_date": "2003-02-20"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Algo Contigo",
+                    "popularity": 67
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+                            },
+                            "name": "Luis Alberto Spinetta"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273217ce66ac32c161c7516228c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02217ce66ac32c161c7516228c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851217ce66ac32c161c7516228c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+                        },
+                        "name": "Peluson Of Milk",
+                        "release_date": "1991-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Seguir Viviendo Sin Tu Amor",
+                    "popularity": 68
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+                            },
+                            "name": "Luis Alberto Spinetta"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a1433832dffafcb82ad46936",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a1433832dffafcb82ad46936",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a1433832dffafcb82ad46936",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
+                        },
+                        "name": "Kamikaze",
+                        "release_date": "1982-04-08"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Barro Tal Vez",
+                    "popularity": 53
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+                            },
+                            "name": "Pescado Rabioso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27350db5a166ea23d5d6c4cd387",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485150db5a166ea23d5d6c4cd387",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+                        },
+                        "name": "Artaud",
+                        "release_date": "1973-05-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Todas las Hojas Son del Viento",
+                    "popularity": 54
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+                            },
+                            "name": "Pescado Rabioso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27350db5a166ea23d5d6c4cd387",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485150db5a166ea23d5d6c4cd387",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+                        },
+                        "name": "Artaud",
+                        "release_date": "1973-05-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0O9BqfU1Cdm7YqmD0TrT9i"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Cementerio Club",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+                            },
+                            "name": "Pescado Rabioso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27350db5a166ea23d5d6c4cd387",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485150db5a166ea23d5d6c4cd387",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+                        },
+                        "name": "Artaud",
+                        "release_date": "1973-05-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Cantata de Puentes Amarillos",
+                    "popularity": 51
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+                            },
+                            "name": "Pescado Rabioso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27350db5a166ea23d5d6c4cd387",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485150db5a166ea23d5d6c4cd387",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+                        },
+                        "name": "Artaud",
+                        "release_date": "1973-05-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Bajan",
+                    "popularity": 60
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+                            },
+                            "name": "Pescado Rabioso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27350db5a166ea23d5d6c4cd387",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0250db5a166ea23d5d6c4cd387",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485150db5a166ea23d5d6c4cd387",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+                        },
+                        "name": "Artaud",
+                        "release_date": "1973-05-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Las Habladurias del Mundo",
+                    "popularity": 53
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+                            },
+                            "name": "Almendra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ccf6d7a68e129185513921e8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ccf6d7a68e129185513921e8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
+                        },
+                        "name": "Almendra (50 Años)",
+                        "release_date": "1970"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6GPkBUXMrGSkwK3TrrHHXN"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Muchacha (Ojos de Papel)",
+                    "popularity": 55
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+                            },
+                            "name": "Almendra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ccf6d7a68e129185513921e8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ccf6d7a68e129185513921e8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
+                        },
+                        "name": "Almendra (50 Años)",
+                        "release_date": "1970"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2P2tl8JT698TJJ55ScKyku"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Ana No Duerme",
+                    "popularity": 44
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+                            },
+                            "name": "Almendra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ccf6d7a68e129185513921e8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ccf6d7a68e129185513921e8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
+                        },
+                        "name": "Almendra (50 Años)",
+                        "release_date": "1970"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5BgQb3f67Hnc9qTkL3wFc3"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Plegaria para un Niño Dormido",
+                    "popularity": 46
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+                            },
+                            "name": "Almendra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ccf6d7a68e129185513921e8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ccf6d7a68e129185513921e8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
+                        },
+                        "name": "Almendra (50 Años)",
+                        "release_date": "1970"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/20cWhGpoXZh9u3UZq2V97X"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "A Estos Hombres Tristes",
+                    "popularity": 54
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+                            },
+                            "name": "Almendra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ccf6d7a68e129185513921e8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ccf6d7a68e129185513921e8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
+                        },
+                        "name": "Almendra (50 Años)",
+                        "release_date": "1970"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1GUZSBYYU1QPbiDY4dLyiF"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Que el Viento Borró Tus Manos",
+                    "popularity": 45
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+                            },
+                            "name": "Fito Paez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273921417baf700cc9da1d43b80",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02921417baf700cc9da1d43b80",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851921417baf700cc9da1d43b80",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
+                        },
+                        "name": "Giros",
+                        "release_date": "1985-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "11 Y 6",
+                    "popularity": 70
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+                            },
+                            "name": "Fito Paez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b80f37385bd537d17f9be93a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b80f37385bd537d17f9be93a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+                        },
+                        "name": "El Amor Después del Amor",
+                        "release_date": "1992-02-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "El amor después del amor",
+                    "popularity": 67
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+                            },
+                            "name": "Babasonicos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737f947995d409ba37ef11b82d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027f947995d409ba37ef11b82d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517f947995d409ba37ef11b82d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+                        },
+                        "name": "Anoche",
+                        "release_date": "2005-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "El Colmo",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+                            },
+                            "name": "Turf"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739789a70a91e887a2057b5f70",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029789a70a91e887a2057b5f70",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519789a70a91e887a2057b5f70",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+                        },
+                        "name": "Para Mi para Vos",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Pasos Al Costado",
+                    "popularity": 70
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+                            },
+                            "name": "Turf"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273358ae2262f4fde5b4dd66ffc",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02358ae2262f4fde5b4dd66ffc",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851358ae2262f4fde5b4dd66ffc",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+                        },
+                        "name": "Turfshow",
+                        "release_date": "2001-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Yo No Me Quiero Casar, Y Ud?",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+                            },
+                            "name": "Turf"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739789a70a91e887a2057b5f70",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029789a70a91e887a2057b5f70",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519789a70a91e887a2057b5f70",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+                        },
+                        "name": "Para Mi para Vos",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "No Se Llama Amor",
+                    "popularity": 50
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+                            },
+                            "name": "Los Tipitos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739934f74a9f25f2d4d0d9509e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029934f74a9f25f2d4d0d9509e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519934f74a9f25f2d4d0d9509e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+                        },
+                        "name": "Armando Camaleón",
+                        "release_date": "2004-08-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Campanas en la Noche",
+                    "popularity": 68
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+                            },
+                            "name": "Los Tipitos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739934f74a9f25f2d4d0d9509e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029934f74a9f25f2d4d0d9509e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519934f74a9f25f2d4d0d9509e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+                        },
+                        "name": "Armando Camaleón",
+                        "release_date": "2004-08-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Brujería",
+                    "popularity": 52
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+                            },
+                            "name": "Divididos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738875cc2685c8d483e0e667f0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028875cc2685c8d483e0e667f0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518875cc2685c8d483e0e667f0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+                        },
+                        "name": "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+                        "release_date": "2000-02-14"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Spaghetti del Rock",
+                    "popularity": 63
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+                            },
+                            "name": "Divididos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738875cc2685c8d483e0e667f0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028875cc2685c8d483e0e667f0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518875cc2685c8d483e0e667f0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+                        },
+                        "name": "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+                        "release_date": "2000-02-14"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Par Mil",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+                            },
+                            "name": "Los Abuelos De La Nada"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27396b085332e815f36beec6a1e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0296b085332e815f36beec6a1e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485196b085332e815f36beec6a1e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
+                        },
+                        "name": "Himno De Mi Corazon",
+                        "release_date": "1994-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lunes Por La Madrugada",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+                            },
+                            "name": "Los Abuelos De La Nada"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27337d87946cc6a3ed79d72474c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0237d87946cc6a3ed79d72474c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485137d87946cc6a3ed79d72474c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+                        },
+                        "name": "1982-1987 - Himnos Del Corazón",
+                        "release_date": "1999"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Mil Horas",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+                            },
+                            "name": "Serú Girán"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27375b562e28c9cc7f4406d4ca2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0275b562e28c9cc7f4406d4ca2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485175b562e28c9cc7f4406d4ca2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
+                        },
+                        "name": "Serú Girán (2021 Remasterizado)",
+                        "release_date": "2021-12-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Seminare - 2021 Remasterizado",
+                    "popularity": 40
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+                            },
+                            "name": "Serú Girán"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735e73b5c3235f1dae08842ed4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025e73b5c3235f1dae08842ed4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515e73b5c3235f1dae08842ed4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5VxrZQkdX8rZaiPgXp23xT"
+                        },
+                        "name": "Peperina",
+                        "release_date": "1981-08-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4T9Elo8e4WcZzWm6PF3WgW"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Salir De La Melancolía",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+                            },
+                            "name": "Los Piojos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ea01aa9b64c008622bce6952",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ea01aa9b64c008622bce6952",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ea01aa9b64c008622bce6952",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+                        },
+                        "name": "Chac Tu Chac",
+                        "release_date": "1992-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Tan Solo",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+                            },
+                            "name": "Los Piojos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738ef0a8bde9750f9f219495d0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028ef0a8bde9750f9f219495d0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518ef0a8bde9750f9f219495d0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
+                        },
+                        "name": "Civilización",
+                        "release_date": "2007-08-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Bicho de Ciudad",
+                    "popularity": 1
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+                            },
+                            "name": "Las Pelotas"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273dc08c78d6beda90f5e818375",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02dc08c78d6beda90f5e818375",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851dc08c78d6beda90f5e818375",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx"
+                        },
+                        "name": "Brindando por Nada",
+                        "release_date": "2016-03-18"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Víctimas del Cielo",
+                    "popularity": 56
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+                            },
+                            "name": "Intoxicados"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+                            },
+                            "name": "Andrés Calamaro"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273cdd8ead7c7be9879e30e7cb0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02cdd8ead7c7be9879e30e7cb0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851cdd8ead7c7be9879e30e7cb0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+                        },
+                        "name": "Otro Día en el Planeta Tierra",
+                        "release_date": "2005"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Fuego",
+                    "popularity": 67
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+                            },
+                            "name": "Intoxicados"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733ee9a09c327e80b3f67ac003",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023ee9a09c327e80b3f67ac003",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513ee9a09c327e80b3f67ac003",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+                        },
+                        "name": "No Es Solo Rock And Roll",
+                        "release_date": "2003-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Esta Saliendo El Sol",
+                    "popularity": 65
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+                            },
+                            "name": "Guasones"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27380e9f4458a8e2f581a8f8cbe",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0280e9f4458a8e2f581a8f8cbe",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485180e9f4458a8e2f581a8f8cbe",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+                        },
+                        "name": "Toro Rojo",
+                        "release_date": "2005-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Reyes de la Noche",
+                    "popularity": 61
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+                            },
+                            "name": "Catupecu Machu"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736961872106b3ce3d9cf7d230",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026961872106b3ce3d9cf7d230",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516961872106b3ce3d9cf7d230",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+                        },
+                        "name": "El Número Imperfecto",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "A Veces Vuelvo",
+                    "popularity": 63
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+                            },
+                            "name": "Catupecu Machu"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736961872106b3ce3d9cf7d230",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026961872106b3ce3d9cf7d230",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516961872106b3ce3d9cf7d230",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+                        },
+                        "name": "El Número Imperfecto",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Magia Veneno",
+                    "popularity": 62
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+                            },
+                            "name": "Callejeros"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c2a9bdace7dc75d29cc6cd14",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c2a9bdace7dc75d29cc6cd14",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c2a9bdace7dc75d29cc6cd14",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+                        },
+                        "name": "Señales",
+                        "release_date": "2006-03-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "9 de Julio",
+                    "popularity": 65
+                }
+            }
+        ]
+    },
+    "name": "droga nacional",
+    "description": "el masterdoc de rock argentino"
+}

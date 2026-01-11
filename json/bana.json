@@ -1,0 +1,871 @@
+{
+    "id": 12,
+    "images": [
+        {
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841b19020d690f8d780f86707c"
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4bfcdbff8a840e9b864e558",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c4bfcdbff8a840e9b864e558",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c4bfcdbff8a840e9b864e558",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JlCI0tAtd3rlo3EJcZBmk"
+                        },
+                        "name": "GUERRA FUNK",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5ZLMiDBEQAIPa4zQBPDIjQ"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "GUERRA FUNK",
+                    "popularity": 21
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4bfcdbff8a840e9b864e558",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c4bfcdbff8a840e9b864e558",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c4bfcdbff8a840e9b864e558",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JlCI0tAtd3rlo3EJcZBmk"
+                        },
+                        "name": "GUERRA FUNK",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6Ez5JJepCCmP5CUfPLEyOu"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "GUERRA FUNK - Slowed",
+                    "popularity": 31
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4bfcdbff8a840e9b864e558",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c4bfcdbff8a840e9b864e558",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c4bfcdbff8a840e9b864e558",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JlCI0tAtd3rlo3EJcZBmk"
+                        },
+                        "name": "GUERRA FUNK",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2e2FCtOvfh4RjiadFghyDt"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "GUERRA FUNK - Super Slowed",
+                    "popularity": 9
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4bfcdbff8a840e9b864e558",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c4bfcdbff8a840e9b864e558",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c4bfcdbff8a840e9b864e558",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JlCI0tAtd3rlo3EJcZBmk"
+                        },
+                        "name": "GUERRA FUNK",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1HDRnpKIC8EdaptyVj3I6U"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "GUERRA FUNK - Ultra Slowed",
+                    "popularity": 9
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4bfcdbff8a840e9b864e558",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c4bfcdbff8a840e9b864e558",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c4bfcdbff8a840e9b864e558",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JlCI0tAtd3rlo3EJcZBmk"
+                        },
+                        "name": "GUERRA FUNK",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1rGUJ83ekUnsg0kxTwAWH4"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "GUERRA FUNK - Speed Up",
+                    "popularity": 9
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5c09464f3a636184b8f8afd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5c09464f3a636184b8f8afd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5c09464f3a636184b8f8afd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jIJD2iCxdcah6iISDCRiv"
+                        },
+                        "name": "MONTAGEM DUBAI",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4tFifBnG4uVjXrLJB6Ihw1"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "MONTAGEM DUBAI",
+                    "popularity": 40
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5c09464f3a636184b8f8afd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5c09464f3a636184b8f8afd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5c09464f3a636184b8f8afd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jIJD2iCxdcah6iISDCRiv"
+                        },
+                        "name": "MONTAGEM DUBAI",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7IRn7zgJqWignvvAt985b1"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "MONTAGEM DUBAI - Slowed",
+                    "popularity": 19
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5c09464f3a636184b8f8afd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5c09464f3a636184b8f8afd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5c09464f3a636184b8f8afd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jIJD2iCxdcah6iISDCRiv"
+                        },
+                        "name": "MONTAGEM DUBAI",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/00JMg9OTwMwYjasQ2nTpGb"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "MONTAGEM DUBAI - Super Slowed",
+                    "popularity": 16
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5c09464f3a636184b8f8afd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5c09464f3a636184b8f8afd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5c09464f3a636184b8f8afd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jIJD2iCxdcah6iISDCRiv"
+                        },
+                        "name": "MONTAGEM DUBAI",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3HdZgbJypiqOxGB8K1L32i"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "MONTAGEM DUBAI - Ultra Slowed",
+                    "popularity": 15
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1WBafn6SH2WoNivKyciITh"
+                            },
+                            "name": "Banaphonk"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/07M8PCNe6MY4YzndAZUI3S"
+                            },
+                            "name": "zEkO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s"
+                            },
+                            "name": "Matute Sureda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5c09464f3a636184b8f8afd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5c09464f3a636184b8f8afd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5c09464f3a636184b8f8afd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jIJD2iCxdcah6iISDCRiv"
+                        },
+                        "name": "MONTAGEM DUBAI",
+                        "release_date": "2025-10-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2t4kaHfcJJEvoJdKzKzCh3"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "MONTAGEM DUBAI - Speed Up",
+                    "popularity": 11
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732fa6153dbe8dfeec0550d64c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022fa6153dbe8dfeec0550d64c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512fa6153dbe8dfeec0550d64c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Wyk4Gmiz9Xs8IPmm1KYYP"
+                        },
+                        "name": "KULEANDO NARKOS",
+                        "release_date": "2023-07-16"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4z7fi0Ib6nIn2oHytUEJba"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "KULEANDO NARKOS",
+                    "popularity": 22
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273efb70b62f251d66112bded4e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02efb70b62f251d66112bded4e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851efb70b62f251d66112bded4e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7y4EKi9KQ8Nb2CTuFdz7En"
+                        },
+                        "name": "soy un virgen",
+                        "release_date": "2023-02-16"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7h3XEzNYzUrLvmAvlgKeDO"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "soy un virgen",
+                    "popularity": 12
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27330040cf36a9b58516ee9d527",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0230040cf36a9b58516ee9d527",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485130040cf36a9b58516ee9d527",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7jP7CxCI2vcLHbKmsx2o2h"
+                        },
+                        "name": "OUTLAST RAP",
+                        "release_date": "2022-09-18"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/35sfu2kzLI6Yc0igKT0SgC"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "OUTLAST RAP",
+                    "popularity": 8
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736002f31fa25341f9cf167623",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026002f31fa25341f9cf167623",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516002f31fa25341f9cf167623",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6oVJME7AuHXE6DNceho36g"
+                        },
+                        "name": "MI TIRADERA",
+                        "release_date": "2022-09-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1f2ztNonPnBmJIkTGs7ocI"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "MI TIRADERA",
+                    "popularity": 13
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273135f3f063fedbb82848e6bba",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02135f3f063fedbb82848e6bba",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851135f3f063fedbb82848e6bba",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2ZcC2Qx2NjprH1ryZ30uTj"
+                        },
+                        "name": "CHAKO",
+                        "release_date": "2022-07-06"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/512O1x9XrhasptcNGd3v7U"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "CHAKO",
+                    "popularity": 6
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1SnOuTAkFdlXvCPqvXZIPq"
+                            },
+                            "name": "crazyfr0g"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273851dcaa80966a0621d8fcaf8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02851dcaa80966a0621d8fcaf8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851851dcaa80966a0621d8fcaf8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3mszA2c0xbtoYAkTiqzynk"
+                        },
+                        "name": "CALIFORNIA",
+                        "release_date": "2022-06-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5qW7YOz6XpiGHUUhGQkGIX"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "CALIFORNIA",
+                    "popularity": 17
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3wAMOedPrzr3ZfvGhRxHKg"
+                            },
+                            "name": "Banatroll"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b3b099064ab60164c8f60d3f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b3b099064ab60164c8f60d3f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b3b099064ab60164c8f60d3f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6Qf0J6TFTjGLuc9qyt3dID"
+                        },
+                        "name": "El Rap de Pedir los Puntos",
+                        "release_date": "2022-06-21"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6Ij0qjYCbrNNPWYuAda0VZ"
+                    },
+                    "explicit": true,
+                    "preview_url": null,
+                    "name": "El Rap de Pedir los Puntos",
+                    "popularity": 11
+                }
+            }
+        ]
+    },
+    "name": "banatroll all songs",
+    "description": "duro"
+}

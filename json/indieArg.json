@@ -1,0 +1,2488 @@
+{
+    "id": 17,
+    "images": [
+        {
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c1f0c68e1305b70d22516c64"
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+                            },
+                            "name": "Felix Alvarez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738ba7938aea806abbca7a094c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028ba7938aea806abbca7a094c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518ba7938aea806abbca7a094c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5XC04LdWAbNO16rIOyMv4j"
+                        },
+                        "name": "Cada Primavera",
+                        "release_date": "2020-12-28"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6lQ68itS4jEcnTUUmPKdUs"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Cada Primavera",
+                    "popularity": 15
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W"
+                            },
+                            "name": "Martín Buscaglia"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732520be6bc3a0455669331144",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022520be6bc3a0455669331144",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512520be6bc3a0455669331144",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7qflL2TaoD6rLfRpq3ekrQ"
+                        },
+                        "name": "El Evangelio Según Mi Jardinero",
+                        "release_date": "2006-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1turHGwcas9lMBzgSsdMnI"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Trivial Polonio",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+                            },
+                            "name": "Sofía Alvez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27384b5ffeb144b85d8e727e772",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0284b5ffeb144b85d8e727e772",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485184b5ffeb144b85d8e727e772",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6hwgsxyih8Ybve0RDkoQlZ"
+                        },
+                        "name": "Ventilar",
+                        "release_date": "2018-06-28"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6Z28jkgBWmVnaQgGRo77po"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Rompí",
+                    "popularity": 37
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6z2mkjrbL8932UH0AczONu"
+                            },
+                            "name": "Nicolas Ibarburu"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734faf9aea667edb643ed9ec46",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024faf9aea667edb643ed9ec46",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514faf9aea667edb643ed9ec46",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4jRda4Apfjs0AWuKYZA8ar"
+                        },
+                        "name": "Casa Rodante",
+                        "release_date": "2016-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2gZrRGTA7uJb9c0dCLCBaQ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Mapa Tesoro",
+                    "popularity": 42
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+                            },
+                            "name": "Alan Sutton y las criaturitas de la ansiedad"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d8878328373cff1d26d2ae45",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d8878328373cff1d26d2ae45",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d8878328373cff1d26d2ae45",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+                        },
+                        "name": "Algo Tiene Que Cambiar",
+                        "release_date": "2023-05-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Bonsai",
+                    "popularity": 64
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735e0f3f0f6f6b01fc5e6aff0c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025e0f3f0f6f6b01fc5e6aff0c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515e0f3f0f6f6b01fc5e6aff0c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2y9mUXC1v4zM2NqDwtwy4b"
+                        },
+                        "name": "Amar la trama",
+                        "release_date": "2010-03-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ngM4BI3VW2fe0SzQX7Ouw"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Las transeúntes",
+                    "popularity": 49
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/121UaZBofpgTXFSEZojXh3"
+                            },
+                            "name": "Paisano"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f96fef101b3cdd25f12fc019",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f96fef101b3cdd25f12fc019",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f96fef101b3cdd25f12fc019",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2T8pb9okHNJ5LKt5Uh7eJq"
+                        },
+                        "name": "Parque Avellaneda",
+                        "release_date": "2020-03-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1X0pVvpz6SvgOCHrBWHz7V"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Parque Avellaneda",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC"
+                            },
+                            "name": "Luciano Supervielle"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27368863fb8f44ef6b0ae33cab3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0268863fb8f44ef6b0ae33cab3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485168863fb8f44ef6b0ae33cab3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2gnZSNJ18Xs9iBm7VJd7WQ"
+                        },
+                        "name": "Charco: Canciones del Río de la Plata",
+                        "release_date": "2017-08-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/35bUtk1405wm3ZR03FaXF1"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "El Tiempo Está Después",
+                    "popularity": 38
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+                            },
+                            "name": "Coti"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d428cc829c881ce0fb58e16f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d428cc829c881ce0fb58e16f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d428cc829c881ce0fb58e16f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Rjz3XhuHmVYCqKmkh3KJy"
+                        },
+                        "name": "Canciones Para Llevar",
+                        "release_date": "2004-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4SzU3loYAh5zOHat3CVoaI"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "La Suerte",
+                    "popularity": 39
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+                            },
+                            "name": "Vicentico"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f2c42eaf643db4bbc6439d8e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f2c42eaf643db4bbc6439d8e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f2c42eaf643db4bbc6439d8e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0uRw2nL0jx3WLWgf7bbv5h"
+                        },
+                        "name": "Los Pájaros",
+                        "release_date": "2006"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/40sSfXnquLkTDnFULKjpZX"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Felicidad",
+                    "popularity": 28
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+                            },
+                            "name": "Kevin Johansen"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734db8e5371d9fe81de56cbcae",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024db8e5371d9fe81de56cbcae",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514db8e5371d9fe81de56cbcae",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0xUtYEyks6eStMqschADeF"
+                        },
+                        "name": "Kevin Johansen + The Nada + Liniers: Vivo En Buenos Aires",
+                        "release_date": "2010-04-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/41SzpLz7X5bjzJaBC9LqP5"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "No Voy a Ser Yo",
+                    "popularity": 33
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dd7aa93d0f6dfae9669885f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dd7aa93d0f6dfae9669885f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dd7aa93d0f6dfae9669885f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi"
+                        },
+                        "name": "Bailar en la cueva",
+                        "release_date": "2014-03-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5kzfj7G1O9PGsLr3kAVOkC"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Bailar en la cueva",
+                    "popularity": 37
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+                            },
+                            "name": "Alan Sutton y las criaturitas de la ansiedad"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d8878328373cff1d26d2ae45",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d8878328373cff1d26d2ae45",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d8878328373cff1d26d2ae45",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+                        },
+                        "name": "Algo Tiene Que Cambiar",
+                        "release_date": "2023-05-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Más Sencillo",
+                    "popularity": 47
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dd7aa93d0f6dfae9669885f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dd7aa93d0f6dfae9669885f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dd7aa93d0f6dfae9669885f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi"
+                        },
+                        "name": "Bailar en la cueva",
+                        "release_date": "2014-03-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/36MoFIDN0D0Mvbo9kkjyhs"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "La luna de Rasquí",
+                    "popularity": 36
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+                            },
+                            "name": "Eydie Gormé"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+                            },
+                            "name": "Los Panchos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731882bb790ff01387342c9750",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021882bb790ff01387342c9750",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511882bb790ff01387342c9750",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+                        },
+                        "name": "Canta En Español Con Los Panchos",
+                        "release_date": "1964"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Piel Canela",
+                    "popularity": 64
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730fbd8d7f3f8746644d81ee66",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020fbd8d7f3f8746644d81ee66",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510fbd8d7f3f8746644d81ee66",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+                        },
+                        "name": "12 segundos de oscuridad",
+                        "release_date": "2006-09-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Inoportuna",
+                    "popularity": 59
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+                            },
+                            "name": "Kevin Johansen"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734db8e5371d9fe81de56cbcae",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024db8e5371d9fe81de56cbcae",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514db8e5371d9fe81de56cbcae",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0xUtYEyks6eStMqschADeF"
+                        },
+                        "name": "Kevin Johansen + The Nada + Liniers: Vivo En Buenos Aires",
+                        "release_date": "2010-04-09"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/66dzhHIgMcbi2Q51uHtMnZ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Fin de Fiesta",
+                    "popularity": 41
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+                            },
+                            "name": "Ruben Rada"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735e2ed465e36e57e2a6d135d0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025e2ed465e36e57e2a6d135d0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515e2ed465e36e57e2a6d135d0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5hhu80gs4IAxUFWkNRh9hM"
+                        },
+                        "name": "Richie Silver",
+                        "release_date": "2006-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0h0xy0Lu53vn8JFalDktw6"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Amandote",
+                    "popularity": 44
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+                            },
+                            "name": "Ruben Rada"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+                            },
+                            "name": "Fito Paez"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f9bf92231948200000a2a002",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f9bf92231948200000a2a002",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f9bf92231948200000a2a002",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3iYNEe0eYNFKIwCmBx3aV9"
+                        },
+                        "name": "11 y 6",
+                        "release_date": "2022-02-11"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0d8xQb9zET1Jt61CwLbA1o"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "11 y 6",
+                    "popularity": 34
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+                            },
+                            "name": "Alton Ellis"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27304f1af6e964fb8b1d2483421",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0204f1af6e964fb8b1d2483421",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485104f1af6e964fb8b1d2483421",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0"
+                        },
+                        "name": "Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973)",
+                        "release_date": "2004-11-23"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/32jxK9HGdGvm85Gt0w4rxn"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "(Baby) I'm Trying",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+                            },
+                            "name": "Devendra Banhart"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bcf2e51e254b5bdd336c6cd9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bcf2e51e254b5bdd336c6cd9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+                        },
+                        "name": "Mala",
+                        "release_date": "2013-03-08"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Mi Negrita",
+                    "popularity": 54
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+                            },
+                            "name": "Parcels"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d26bc8655d6132c9e243f82e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d26bc8655d6132c9e243f82e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+                        },
+                        "name": "Parcels",
+                        "release_date": "2018-10-12"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1hRQ0Kzy8gZXEikgrsOT9O"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Tape",
+                    "popularity": 49
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+                            },
+                            "name": "Matt Duncan"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a5282e1178910f2102f2badb",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a5282e1178910f2102f2badb",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a5282e1178910f2102f2badb",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0OLMUtL6pwJ4X4G1VTFq4C"
+                        },
+                        "name": "Soft Times",
+                        "release_date": "2013-01-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1s8NdAvVPL7MveFNADDkNj"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "The Keys",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+                            },
+                            "name": "Sig Ragga"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c8f252f2c8c2d5f3b73be0fe",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c8f252f2c8c2d5f3b73be0fe",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c8f252f2c8c2d5f3b73be0fe",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
+                        },
+                        "name": "SIG RAGGA (Remaster 2023)",
+                        "release_date": "2023-06-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0y5dgtZeHuQShRCvJHKRWP"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lo que has hecho siempre - Remaster 2023",
+                    "popularity": 25
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+                            },
+                            "name": "C. Tangana"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+                            },
+                            "name": "Eliades Ochoa"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d8ec0490534e13599f4c2a46",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d8ec0490534e13599f4c2a46",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d8ec0490534e13599f4c2a46",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+                        },
+                        "name": "El Madrileño",
+                        "release_date": "2021-02-26"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/740uwCK09xVPNPr4hFpcWW"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Muriendo De Envidia",
+                    "popularity": 58
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+                            },
+                            "name": "Alejandro y Maria Laura"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c712ff347b0d75dda154b792",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c712ff347b0d75dda154b792",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c712ff347b0d75dda154b792",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/63AhXYacnlHnitNe6qG334"
+                        },
+                        "name": "Madre Padre Marte",
+                        "release_date": "2023-04-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3UfGgch0cUOi3TtTI7DGej"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Algo tiene que estar mal",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+                            },
+                            "name": "Paul Higgs"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273457f4c0cd024eedbd1920f89",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02457f4c0cd024eedbd1920f89",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851457f4c0cd024eedbd1920f89",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2rnkMGJu8hiWTbDgPUCN1l"
+                        },
+                        "name": "Tridimensional",
+                        "release_date": "2022-08-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0fawSWysIAytYvgt8vvDQc"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sufro",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+                            },
+                            "name": "Perotá Chingó"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733a17db6fd7eaaafc0d423c44",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023a17db6fd7eaaafc0d423c44",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513a17db6fd7eaaafc0d423c44",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH"
+                        },
+                        "name": "Alabanza",
+                        "release_date": "2024-04-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Alabanza",
+                    "popularity": 24
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ffbb66eddb82445e0c9c6cb4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ffbb66eddb82445e0c9c6cb4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ffbb66eddb82445e0c9c6cb4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+                        },
+                        "name": "Sea",
+                        "release_date": "2000-12-29"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/736D1R1c4aoGcn7ZEmtyH4"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Horas",
+                    "popularity": 45
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+                            },
+                            "name": "Silva"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730b9e72feca49fcff32a2497c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020b9e72feca49fcff32a2497c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510b9e72feca49fcff32a2497c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7ajbsrUzsUoM4DfAEqTWAm"
+                        },
+                        "name": "Recomenzar",
+                        "release_date": "2024-05-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1g7fzq9FXgQ5LJYz1leYFF"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Recomenzar",
+                    "popularity": 30
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+                            },
+                            "name": "boy pablo"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273081ff2cd17da31768fef002e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02081ff2cd17da31768fef002e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851081ff2cd17da31768fef002e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+                        },
+                        "name": "Roy Pablo",
+                        "release_date": "2017-05-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/13G8lbgIdmdEeORgz4k36y"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Yeah (Fantasizing)",
+                    "popularity": 39
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j"
+                            },
+                            "name": "Tango Astral"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738f84f4ea9b8fcdd755f8867f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028f84f4ea9b8fcdd755f8867f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518f84f4ea9b8fcdd755f8867f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5U3A9qKOYbyXDkfDze7PAB"
+                        },
+                        "name": "Telepatía Animal",
+                        "release_date": "2024-05-24"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/67fm3w8yfTXVwIYb06U3Js"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Telepatía Animal",
+                    "popularity": 14
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+                            },
+                            "name": "Pedro Guerra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ca974fc192eff8c92889d293",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ca974fc192eff8c92889d293",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ca974fc192eff8c92889d293",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6GE91LZwvHlsJJ5Fdk7mUP"
+                        },
+                        "name": "Raiz",
+                        "release_date": "1999"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2yu8KEueD5INspLmDN59m7"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "La Lluvia Nunca Vuelve Hacia Arriba (Obra Inspirada en \"La Lluvia Nunca Vuelve Hacia Arriba)",
+                    "popularity": 30
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c943c87f0730e247a6fb027b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c943c87f0730e247a6fb027b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c943c87f0730e247a6fb027b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+                        },
+                        "name": "Eco",
+                        "release_date": "2005-03-08"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4rmGhm0lMAfEcR9Jg9PitW"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Polvo de estrellas",
+                    "popularity": 41
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+                            },
+                            "name": "Alejandro y Maria Laura"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+                            },
+                            "name": "El Kanka"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27348189166db2e8a42c5270e0f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0248189166db2e8a42c5270e0f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485148189166db2e8a42c5270e0f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+                        },
+                        "name": "Dos Hemisferios",
+                        "release_date": "2024-07-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lugar ideal",
+                    "popularity": 22
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY"
+                            },
+                            "name": "Manu Hattom"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c3de7fee5c27b9db892a2f34",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c3de7fee5c27b9db892a2f34",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c3de7fee5c27b9db892a2f34",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Bk3XnxU6Q7yqzM7SNMbYi"
+                        },
+                        "name": "Autopistas",
+                        "release_date": "2016-05-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2asURVdCuZksHqGC81mhGZ"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Cumbia Nena",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w"
+                            },
+                            "name": "Franny Glass"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e259fb21eb0824fd26a8a4ad",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e259fb21eb0824fd26a8a4ad",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e259fb21eb0824fd26a8a4ad",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3PzNGkr20expTc5qTtcNc2"
+                        },
+                        "name": "Planes",
+                        "release_date": "2014-08-31"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/191y21194BhYKQNeqnUL16"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "En Libertad y Obligado",
+                    "popularity": 20
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XVctrXv8nCielE4SmnRQK"
+                            },
+                            "name": "Gonzalo Deniz"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27314b8038afb75999b97296640",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0214b8038afb75999b97296640",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485114b8038afb75999b97296640",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5OhuNy1v0B1lDeDTjLHIHp"
+                        },
+                        "name": "Mientras Tanto, En Montevideo",
+                        "release_date": "2022-08-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6GFNsvs6rSiPEGEOGOGcwj"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Los Bichos de Luz",
+                    "popularity": 4
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+                            },
+                            "name": "Candelaria Zamar"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d063e96eb309d23dd96a3f58",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d063e96eb309d23dd96a3f58",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d063e96eb309d23dd96a3f58",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
+                        },
+                        "name": "Una Linterna",
+                        "release_date": "2019-07-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2E9SLRpuzbO5xZ5I4NgMCf"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Una Buena Cosa",
+                    "popularity": 9
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+                            },
+                            "name": "Kevin Johansen"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+                            },
+                            "name": "Natalia Lafourcade"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738a78eaacb043a0d90b24ec42",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028a78eaacb043a0d90b24ec42",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518a78eaacb043a0d90b24ec42",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2JzhuKTD1WpZPAavCCsccr"
+                        },
+                        "name": "Kevin Johansen + Liniers + The Nada: (Bi)vo en México",
+                        "release_date": "2014-08-12"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4MkDZKiVWLLL3TTEhJRHVk"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Desde Que Te Perdí (feat. Natalia Lafourcade) - En Vivo",
+                    "popularity": 37
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+                            },
+                            "name": "Natalia Lafourcade"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+                            },
+                            "name": "Los Macorinos"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27311f5f38824cdfb0a69c7fa07",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0211f5f38824cdfb0a69c7fa07",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485111f5f38824cdfb0a69c7fa07",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+                        },
+                        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+                        "release_date": "2017-05-05"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Soledad y el Mar (feat. Los Macorinos)",
+                    "popularity": 66
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+                            },
+                            "name": "Jorge Drexler"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273786dc7ae413fa43cf61a8fa7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02786dc7ae413fa43cf61a8fa7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851786dc7ae413fa43cf61a8fa7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+                        },
+                        "name": "Tinta y Tiempo",
+                        "release_date": "2022-04-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2oDgXEQpEqvVh29uunCasa"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Corazón Impar",
+                    "popularity": 43
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+                            },
+                            "name": "Ezequiel Borra"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27361e6c91de9d318c94c968dbc",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0261e6c91de9d318c94c968dbc",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485161e6c91de9d318c94c968dbc",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5UkZ3uAEY7HSRYAq3yHALH"
+                        },
+                        "name": "Lo Peor",
+                        "release_date": "2015-10-29"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6GWVh4M3YlCY84pe7ISnJz"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Lo Peor",
+                    "popularity": 30
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
+                            },
+                            "name": "The Chords"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731c58f5beb4c8740df65d8e6a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021c58f5beb4c8740df65d8e6a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511c58f5beb4c8740df65d8e6a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2IJYlROaxpYju3vcIgAxYL"
+                        },
+                        "name": "Life Could Be a Dream",
+                        "release_date": "2016-01-29"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0GqChhBLTIHEr07iKnbb3W"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Sh-Boom (Life Could Be a Dream)",
+                    "popularity": 54
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+                            },
+                            "name": "Lisandro Aristimuño"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273036b215b5789d8f868a7eea7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02036b215b5789d8f868a7eea7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851036b215b5789d8f868a7eea7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2QQ0Fc0sMh8OogDhJo5Ou4"
+                        },
+                        "name": "Ese Asunto de la Ventana",
+                        "release_date": "2005-11-03"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4oy7mhwuSUXmEDgp9rdy2q"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "La Última Prosa",
+                    "popularity": 21
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+                            },
+                            "name": "Lisandro Aristimuño"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27305ff7b1c76709b2803baa6b1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0205ff7b1c76709b2803baa6b1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485105ff7b1c76709b2803baa6b1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
+                        },
+                        "name": "Las Crónicas del Viento",
+                        "release_date": "2009-01-15"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Azúcar del Estero",
+                    "popularity": 27
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+                            },
+                            "name": "Alan Sutton y las criaturitas de la ansiedad"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c0eb3c75d2de8196473721b4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c0eb3c75d2de8196473721b4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c0eb3c75d2de8196473721b4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
+                        },
+                        "name": "Berrinche",
+                        "release_date": "2025-04-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/07p0secLbNfprCFso6h6OM"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Otra Vez",
+                    "popularity": 42
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+                            },
+                            "name": "Alan Sutton y las criaturitas de la ansiedad"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c0eb3c75d2de8196473721b4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c0eb3c75d2de8196473721b4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c0eb3c75d2de8196473721b4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
+                        },
+                        "name": "Berrinche",
+                        "release_date": "2025-04-10"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6qjvocMuQ2u5DQhFjr6MJD"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Estar Mejor",
+                    "popularity": 38
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+                            },
+                            "name": "Doble Valentina"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736cde9af38c5d486c2af0d3d0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026cde9af38c5d486c2af0d3d0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516cde9af38c5d486c2af0d3d0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3iDNLINuAis1e7HmuxPUzD"
+                        },
+                        "name": "Amar No Está de Moda",
+                        "release_date": "2025-06-12"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0nOYpA4xtMoJApfy8FExna"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Amar No Está de Moda",
+                    "popularity": 24
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+                            },
+                            "name": "SANTACRUZ"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+                            },
+                            "name": "Manu Piró"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731a47c8c96666f6e71527064c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021a47c8c96666f6e71527064c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511a47c8c96666f6e71527064c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/43Yf94ncPa1wN4C6IP3DtQ"
+                        },
+                        "name": "Nada De Nada",
+                        "release_date": "2025-02-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5i2PsmvTOoVYtEDUAe365B"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Nada De Nada",
+                    "popularity": 13
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD"
+                            },
+                            "name": "Lopsis"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731adafc1085070d08a449a373",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021adafc1085070d08a449a373",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511adafc1085070d08a449a373",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3PXBtGrHe5UmVJOYIGbCij"
+                        },
+                        "name": "No Me Malinterprete",
+                        "release_date": "2023-09-22"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2PvFOyINI7gvC3JMzz7CZb"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "No Me Malinterprete",
+                    "popularity": 21
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+                            },
+                            "name": "El Kanka"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737b71278a71489d9ec7af0ff7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027b71278a71489d9ec7af0ff7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517b71278a71489d9ec7af0ff7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/46Kvb0EStFShMeEUAyfHIQ"
+                        },
+                        "name": "Cosas de los vivientes",
+                        "release_date": "2023-01-20"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2N4WNSFN6BrzDruLGc98B9"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Eres",
+                    "popularity": 23
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6z2mkjrbL8932UH0AczONu"
+                            },
+                            "name": "Nicolas Ibarburu"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+                            },
+                            "name": "Carlos Aguirre"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734faf9aea667edb643ed9ec46",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024faf9aea667edb643ed9ec46",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514faf9aea667edb643ed9ec46",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4jRda4Apfjs0AWuKYZA8ar"
+                        },
+                        "name": "Casa Rodante",
+                        "release_date": "2016-01-01"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1QrH98y6mImng1wGwf5Ef3"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Si Te Escucho Cantar",
+                    "popularity": 32
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+                            },
+                            "name": "Ainda"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27372d2a0f95c06f7206a263ea7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0272d2a0f95c06f7206a263ea7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485172d2a0f95c06f7206a263ea7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE"
+                        },
+                        "name": "Uno",
+                        "release_date": "2013-09-07"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0JZFIIs9U62DkDaIrMpm4K"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Recuerdos de Ypacaraí",
+                    "popularity": 0
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/00jNlhouyTBL0nRboiJDyN"
+                            },
+                            "name": "Salandrú"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731264684cc421e0f1d9df5069",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021264684cc421e0f1d9df5069",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511264684cc421e0f1d9df5069",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5CcWrAJANLsyQw0IK76NX0"
+                        },
+                        "name": "Pinturas en lo alto",
+                        "release_date": "2016-07-19"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7yCJAI6h2HBpD84NecZP0A"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Mil maneras",
+                    "popularity": 33
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+                            },
+                            "name": "Zoe Gotusso"
+                        }
+                    ],
+                    "album": {
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a1e5a956c58bc52732bc6bc3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a1e5a956c58bc52732bc6bc3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a1e5a956c58bc52732bc6bc3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+                        },
+                        "name": "Cursi",
+                        "release_date": "2024-10-25"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7hk2fYVOXLhm6tuq1iVh2P"
+                    },
+                    "explicit": false,
+                    "preview_url": null,
+                    "name": "Vivir",
+                    "popularity": 41
+                }
+            }
+        ]
+    },
+    "name": "mate y el pantalón ese a rayitas",
+    "description": ""
+}
