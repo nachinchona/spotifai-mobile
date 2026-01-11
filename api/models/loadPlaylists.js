@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 
 function loadPlaylists() {
-    const rutaJsons = path.join(__dirname, '../json');
+    const rutaJsons = path.join(__dirname, '../public/json');
     const files = fs.readdirSync(rutaJsons);
     return files.map(file => {
         const filePath = path.join(rutaJsons, file);
