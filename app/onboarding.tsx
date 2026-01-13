@@ -10,12 +10,15 @@ export default function OnboardingScreen() {
   const handleFinishOnboarding = async () => {
     try {
       await AsyncStorage.setItem('hasSeenOnboarding', 'true');
-      router.replace("/index"); 
+      
+      // CORRECCIÓN: La ruta raíz es "/"
+      // "index" a veces falla, y "playlists" no existe.
+      router.replace("/"); 
+      
     } catch (error) {
       console.error(error);
     }
   };
-
   return (
     <LinearGradient
       colors={["#1DB954", "#121212"]}

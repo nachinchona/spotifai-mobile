@@ -1,7 +1,7 @@
 import { useColorScheme } from "@/hooks/use-color-scheme";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { DarkTheme, DefaultTheme, ThemeProvider } from "@react-navigation/native";
-import { Redirect, Stack } from "expo-router"; // <--- Importamos Redirect
+import { Stack, router } from "expo-router"; // Quitamos Redirect, usamos router
 import { StatusBar } from "expo-status-bar";
 import { useEffect, useState } from "react";
 import { ActivityIndicator, View } from "react-native";
@@ -9,17 +9,17 @@ import { ActivityIndicator, View } from "react-native";
 export default function RootLayout() {
   const colorScheme = useColorScheme();
   const [isLoading, setIsLoading] = useState(true);
-  const [showOnboarding, setShowOnboarding] = useState(false);
+  const [isFirstTime, setIsFirstTime] = useState(false);
 
   useEffect(() => {
     const checkOnboarding = async () => {
       try {
         const hasSeen = await AsyncStorage.getItem('hasSeenOnboarding');
         if (hasSeen !== 'true') {
-          setShowOnboarding(true);
+          setIsFirstTime(true);
         }
       } catch (error) {
-        console.error("Error cargando onboarding status:", error);
+        console.error("Error checking onboarding:", error);
       } finally {
         setIsLoading(false);
       }
@@ -27,7 +27,14 @@ export default function RootLayout() {
     checkOnboarding();
   }, []);
 
-  // 1. Pantalla de carga
+  // Efecto separado para navegar SOLO cuando terminamos de cargar
+  useEffect(() => {
+    if (!isLoading && isFirstTime) {
+      router.replace('/onboarding');
+    }
+  }, [isLoading, isFirstTime]);
+
+  // 1. Pantalla de carga (Spinner)
   if (isLoading) {
     return (
       <View style={{ flex: 1, justifyContent: "center", alignItems: "center", backgroundColor: "#000" }}>
@@ -36,19 +43,16 @@ export default function RootLayout() {
     );
   }
 
-  // 2. Redirección segura si necesita onboarding
-  if (showOnboarding) {
-    return <Redirect href="/onboarding" />;
-  }
-
-  // 3. App Principal
+  // 2. Renderizamos SIEMPRE el Stack
   return (
     <ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
       <Stack>
-        {/* Es importante tener 'index' si tu archivo principal se llama index.tsx */}
+        {/* Tu archivo principal se llama index.tsx, así que el nombre es "index" */}
         <Stack.Screen name="index" options={{ headerShown: false }} />
+        
         <Stack.Screen name="onboarding" options={{ headerShown: false }} />
-        <Stack.Screen name="playlists" options={{ headerShown: false }} />
+        
+        {/* ¡BORRÉ LA LÍNEA DE PLAYLISTS PORQUE ESE ARCHIVO NO EXISTE EN TU FOTO! */}
       </Stack>
       <StatusBar style="light" />
     </ThemeProvider>
