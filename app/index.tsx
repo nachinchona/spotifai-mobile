@@ -1,170 +1,210 @@
-"use client"
-import { LinearGradient } from "expo-linear-gradient"
-import { useRouter } from "expo-router"
-import { Image, Pressable, StyleSheet, Text, View } from "react-native"
-import { SafeAreaView } from "react-native-safe-area-context"
+import { useRouter } from "expo-router";
+import { useEffect, useState } from "react";
+import { ActivityIndicator, FlatList, Image, Pressable, StyleSheet, Text, View } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
+import { Playlist } from './interfaces/Playlist';
 
-export default function HomeScreen() {
+const PlaylistsScreen = () => {
   const router = useRouter()
+  const [playlists, setPlaylists] = useState<Playlist[]>([])
+  const [loading, setLoading] = useState(true)
+  const [ultimaID, setUltimaID] = useState(0)
+  const [error, setError] = useState<string | null>(null)
 
-  return (
-    <LinearGradient
-      colors={["#1DB954", "#121212"]}
-      style={styles.gradient}
-      start={{ x: 0, y: 0 }}
-      end={{ x: 0, y: 0.6 }}
-    >
+  const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
+  const PORT = "3000"
+  const IP_ADDRESS = IP ? `${IP}:${PORT}` : null
+
+  const fetchPlaylists = async () => {
+    if (!IP_ADDRESS) {
+      setError("Error: EXPO_PUBLIC_IP_ADDRESS no esta configurada")
+      setLoading(false)
+      return
+    }
+
+    try {
+      const response = await fetch(`http://${IP_ADDRESS}/api/playlist/?from=${ultimaID}`)
+
+      if (!response.ok) {
+        if (response.status === 404) {
+          setLoading(false)
+          return
+        }
+        throw new Error(`HTTP Error: ${response.status}`)
+      }
+
+      const data = await response.json()
+
+      if (data && data.playlists) {
+        setPlaylists((prev) => {
+          const nuevasUnicas = data.playlists.filter(
+            (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
+          )
+          return [...prev, ...nuevasUnicas]
+        })
+
+        setUltimaID(data.ultimaID)
+        setError(null)
+      }
+    } catch (error) {
+      console.error("Error al cargar datos:", error)
+      setError(`Error de conexion: ${error}`)
+    } finally {
+      setLoading(false)
+    }
+  }
+
+  useEffect(() => {
+    fetchPlaylists()
+  }, [])
+
+  const renderItem = ({ item }: { item: Playlist }) => (
+    <View style={styles.card}>
+      <Image source={{ uri: item.images?.[0]?.url }} style={styles.playlistImage} />
+      <View style={styles.textContainer}>
+        <Text style={styles.playlistName}>{item.name}</Text>
+        <Text style={styles.playlistDescription} numberOfLines={2}>
+          {item.description}
+        </Text>
+        <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
+      </View>
+    </View>
+  )
+
+  if (error) {
+    return (
       <SafeAreaView style={styles.container}>
-        <View style={styles.content}>
-          {/* Logo / Icono */}
-          <View style={styles.logoContainer}>
-            <View style={styles.logoCircle}>
-              {/* <CHANGE> Reemplazado emoji por imagen */}
-              <Image 
-                source={require("../assets/images/iconofaigrande.png")} 
-                style={styles.logoImage}
-                resizeMode="cover"
-              />
-            </View>
-          </View>
-
-          {/* Titulo y descripcion */}
-          <Text style={styles.title}>SpotiFai</Text>
-          <Text style={styles.subtitle}>Descubre y explora tus playlists favoritas en un solo lugar</Text>
-
-          {/* Features */}
-          <View style={styles.featuresContainer}>
-            <View style={styles.featureItem}>
-              <View style={styles.featureIcon}>
-                <Text style={styles.featureEmoji}>🎧</Text>
-              </View>
-              <Text style={styles.featureText}>Explora playlists</Text>
-            </View>
-            <View style={styles.featureItem}>
-              <View style={styles.featureIcon}>
-                <Text style={styles.featureEmoji}>📱</Text>
-              </View>
-              <Text style={styles.featureText}>Nueva Interfaz</Text>
-            </View>
-            <View style={styles.featureItem}>
-              <View style={styles.featureIcon}>
-                <Text style={styles.featureEmoji}>⚡</Text>
-              </View>
-              <Text style={styles.featureText}>Mas rapida</Text>
-            </View>
-          </View>
+        <View style={styles.header}>
+          <Pressable onPress={() => router.back()} style={styles.backButton}>
+            <Text style={styles.backButtonText}>← Volver</Text>
+          </Pressable>
+          <Text style={styles.headerTitle}>Mis Playlists</Text>
         </View>
-
-        {/* Boton principal */}
-        <View style={styles.buttonContainer}>
-          <Pressable
-            style={({ pressed }) => [styles.button, pressed && styles.buttonPressed]}
-            onPress={() => router.push("/Playlist")}
-          >
-            <Text style={styles.buttonText}>Ver Mis Playlists</Text>
+        <View style={styles.centerContainer}>
+          <Text style={styles.errorText}>{error}</Text>
+          <Pressable style={styles.retryButton} onPress={fetchPlaylists}>
+            <Text style={styles.retryButtonText}>Reintentar</Text>
           </Pressable>
         </View>
       </SafeAreaView>
-    </LinearGradient>
+    )
+  }
+
+  return (
+    <SafeAreaView style={styles.container}>
+      <View style={styles.header}>
+        
+        <Text style={styles.headerTitle}>Mis Playlists</Text>
+      </View>
+
+      {!loading && playlists.length === 0 ? (
+        <View style={styles.centerContainer}>
+          <Text style={styles.emptyText}>No hay playlists disponibles</Text>
+        </View>
+      ) : (
+        <FlatList
+          data={playlists}
+          renderItem={renderItem}
+          keyExtractor={(item) => item.id.toString()}
+          onEndReached={fetchPlaylists}
+          onEndReachedThreshold={0.5}
+          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" /> : null}
+          contentContainerStyle={{ paddingBottom: 20 }}
+        />
+      )}
+    </SafeAreaView>
   )
 }
 
 const styles = StyleSheet.create({
-  gradient: {
-    flex: 1,
-  },
   container: {
     flex: 1,
-    paddingHorizontal: 24,
+    backgroundColor: "#121212",
+    paddingHorizontal: 15,
   },
-  content: {
+  header: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginVertical: 20,
+    gap: 12,
+  },
+  backButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 12,
+    backgroundColor: "#1e1e1e",
+    borderRadius: 8,
+  },
+  backButtonText: {
+    color: "#1DB954",
+    fontSize: 14,
+    fontWeight: "600",
+  },
+  headerTitle: {
+    color: "white",
+    fontSize: 24,
+    fontWeight: "bold",
+    flex: 1,
+  },
+  card: {
+    flexDirection: "row",
+    backgroundColor: "#1e1e1e",
+    borderRadius: 8,
+    marginBottom: 15,
+    overflow: "hidden",
+    elevation: 3,
+  },
+  playlistImage: {
+    width: 100,
+    height: 100,
+  },
+  textContainer: {
+    flex: 1,
+    padding: 10,
+    justifyContent: "center",
+  },
+  playlistName: {
+    color: "white",
+    fontSize: 16,
+    fontWeight: "bold",
+  },
+  playlistDescription: {
+    color: "#b3b3b3",
+    fontSize: 12,
+    marginTop: 4,
+  },
+  trackCount: {
+    color: "#1DB954",
+    fontSize: 11,
+    marginTop: 8,
+    fontWeight: "bold",
+  },
+  centerContainer: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
   },
-  logoContainer: {
-    marginBottom: 32,
-  },
-  logoCircle: {
-    width: 120,
-    height: 120,
-    borderRadius: 60,
-    backgroundColor: "rgba(255, 255, 255, 0.15)",
-    justifyContent: "center",
-    alignItems: "center",
-    borderWidth: 2,
-    borderColor: "rgba(255, 255, 255, 0.3)",
-    overflow: "hidden", // <CHANGE> Agregado para recortar la imagen al circulo
-  },
-  // <CHANGE> Nuevo estilo para la imagen
-  logoImage: {
-    width: 120,
-    height: 120,
-    borderRadius: 60,
-  },
-  title: {
-    fontSize: 36,
-    fontWeight: "bold",
-    color: "#ffffff",
-    textAlign: "center",
-    marginBottom: 12,
-  },
-  subtitle: {
+  errorText: {
+    color: "#ff4444",
     fontSize: 16,
-    color: "rgba(255, 255, 255, 0.8)",
     textAlign: "center",
-    lineHeight: 24,
     paddingHorizontal: 20,
-    marginBottom: 48,
+    marginBottom: 20,
   },
-  featuresContainer: {
-    flexDirection: "row",
-    justifyContent: "space-around",
-    width: "100%",
-    paddingHorizontal: 10,
+  emptyText: {
+    color: "#b3b3b3",
+    fontSize: 16,
   },
-  featureItem: {
-    alignItems: "center",
-  },
-  featureIcon: {
-    width: 56,
-    height: 56,
-    borderRadius: 28,
-    backgroundColor: "rgba(255, 255, 255, 0.1)",
-    justifyContent: "center",
-    alignItems: "center",
-    marginBottom: 8,
-  },
-  featureEmoji: {
-    fontSize: 24,
-  },
-  featureText: {
-    fontSize: 12,
-    color: "rgba(255, 255, 255, 0.7)",
-    textAlign: "center",
-  },
-  buttonContainer: {
-    paddingBottom: 32,
-  },
-  button: {
+  retryButton: {
     backgroundColor: "#1DB954",
-    paddingVertical: 16,
-    paddingHorizontal: 32,
-    borderRadius: 50,
-    alignItems: "center",
-    shadowColor: "#1DB954",
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 8,
-    elevation: 5,
+    paddingVertical: 12,
+    paddingHorizontal: 24,
+    borderRadius: 25,
   },
-  buttonPressed: {
-    backgroundColor: "#1ed760",
-    transform: [{ scale: 0.98 }],
-  },
-  buttonText: {
-    color: "#000000",
-    fontSize: 18,
+  retryButtonText: {
+    color: "#000",
     fontWeight: "bold",
+    fontSize: 14,
   },
 })
+
+export default PlaylistsScreen
