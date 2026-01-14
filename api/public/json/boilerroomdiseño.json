@@ -1,8 +1,48 @@
 {
-    "id": 13,
+    "id": "3",
+    "name": "graphic design boiler room",
+    "description": "escuchar en aleatorio mientras diseñas a las 3am",
+    "genres": [
+        "acid techno",
+        "art pop",
+        "ballroom vogue",
+        "bass music",
+        "brazilian bass",
+        "breakcore",
+        "drift phonk",
+        "drum and bass",
+        "drumstep",
+        "dubstep",
+        "edm",
+        "electro",
+        "electronic",
+        "electronica",
+        "french house",
+        "gabber",
+        "glitch",
+        "hard techno",
+        "hip house",
+        "house",
+        "hyperpop",
+        "idm",
+        "jungle",
+        "miami bass",
+        "neoperreo",
+        "phonk",
+        "progressive trance",
+        "psytrance",
+        "speedcore",
+        "stutter house",
+        "techno",
+        "tekno",
+        "trance",
+        "witch house"
+    ],
     "images": [
         {
-            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ba855b3a995b4da83f61d742"
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ba855b3a995b4da83f61d742",
+            "width": null
         }
     ],
     "tracks": {
@@ -11,19 +51,20 @@
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
-                            },
-                            "name": "Alice Gas"
+                            "name": "Alice Gas",
+                            "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/28Uv1faP5J3s97NkhCyKWU"
-                            },
-                            "name": "Lucas Lex"
+                            "name": "Lucas Lex",
+                            "url": "https://open.spotify.com/artist/28Uv1faP5J3s97NkhCyKWU"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5KeayB0sxJd6RCeewzas7n"
+                        },
+                        "name": "Diamonds on Meee",
+                        "release_date": "2020-03-24",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27382689acfe345cc2579697623",
@@ -40,33 +81,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5KeayB0sxJd6RCeewzas7n"
-                        },
-                        "name": "Diamonds on Meee",
-                        "release_date": "2020-03-24"
+                        ]
                     },
+                    "name": "Diamonds on Meee",
+                    "popularity": 22,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3qgOnET9FIT3Uu2MDFBnpj"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Diamonds on Meee",
-                    "popularity": 22
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3"
-                            },
-                            "name": "LustSickPuppy"
+                            "name": "LustSickPuppy",
+                            "url": "https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4qF2TtpaBMzVTx1u2GiPSW"
+                        },
+                        "name": "Goatmeal",
+                        "release_date": "2020-05-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273f1cf4b11875d4a7dbebdcd96",
@@ -83,33 +121,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4qF2TtpaBMzVTx1u2GiPSW"
-                        },
-                        "name": "Goatmeal",
-                        "release_date": "2020-05-15"
+                        ]
                     },
+                    "name": "Goatmeal",
+                    "popularity": 38,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2X8sPolkXBmnjgtJkA03Vy"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Goatmeal",
-                    "popularity": 38
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/60GkTzyWHBrgEqJqw9FqAD"
-                            },
-                            "name": "Drainpuppet"
+                            "name": "Drainpuppet",
+                            "url": "https://open.spotify.com/artist/60GkTzyWHBrgEqJqw9FqAD"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7rWOAx9oDGHy4PtJk4GwYQ"
+                        },
+                        "name": "My Chakras Are Fast and Hype",
+                        "release_date": "2020-03-25",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c81c8746b70c76df75996276",
@@ -126,33 +161,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7rWOAx9oDGHy4PtJk4GwYQ"
-                        },
-                        "name": "My Chakras Are Fast and Hype",
-                        "release_date": "2020-03-25"
+                        ]
                     },
+                    "name": "My Chakras Are Fast and Hype",
+                    "popularity": 26,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/740qK9hU4tbBQ51Gvn7fNd"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "My Chakras Are Fast and Hype",
-                    "popularity": 26
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
-                            },
-                            "name": "Alice Gas"
+                            "name": "Alice Gas",
+                            "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5mzVvcba6gp9mGOhlOcIX8"
+                        },
+                        "name": "Sorry 4 Being Famous",
+                        "release_date": "2019-12-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2730b85e96756077c80f4d9e7e7",
@@ -169,33 +201,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5mzVvcba6gp9mGOhlOcIX8"
-                        },
-                        "name": "Sorry 4 Being Famous",
-                        "release_date": "2019-12-16"
+                        ]
                     },
+                    "name": "Ferrari",
+                    "popularity": 47,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Ferrari",
-                    "popularity": 47
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3"
-                            },
-                            "name": "LustSickPuppy"
+                            "name": "LustSickPuppy",
+                            "url": "https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS"
+                        },
+                        "name": "RIDE IT",
+                        "release_date": "2023-01-20",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273d041a6052c793fc05f786bbd",
@@ -212,33 +241,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS"
-                        },
-                        "name": "RIDE IT",
-                        "release_date": "2023-01-20"
+                        ]
                     },
+                    "name": "RIDE IT",
+                    "popularity": 38,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "RIDE IT",
-                    "popularity": 38
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1j9UZJ4ZN298RsP5rWtLGK"
-                            },
-                            "name": "DeadJxhn"
+                            "name": "DeadJxhn",
+                            "url": "https://open.spotify.com/artist/1j9UZJ4ZN298RsP5rWtLGK"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2h9nG3c3vRDOWN29NWmoBU"
+                        },
+                        "name": "Spaceyard",
+                        "release_date": "2021-08-03",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273ba4d9767a871ab6dd267f420",
@@ -255,33 +281,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2h9nG3c3vRDOWN29NWmoBU"
-                        },
-                        "name": "Spaceyard",
-                        "release_date": "2021-08-03"
+                        ]
                     },
+                    "name": "Spaceyard",
+                    "popularity": 38,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4SPxJVPg9U5DLqxaBMSvAt"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Spaceyard",
-                    "popularity": 38
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
-                            },
-                            "name": "plenka"
+                            "name": "plenka",
+                            "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2lTw0nwx5F0WywJh2V7ShD"
+                        },
+                        "name": "decadence",
+                        "release_date": "2021-12-26",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273792699b4d2f6f7fd62a9e3f1",
@@ -298,33 +321,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2lTw0nwx5F0WywJh2V7ShD"
-                        },
-                        "name": "decadence",
-                        "release_date": "2021-12-26"
+                        ]
                     },
+                    "name": "decadence",
+                    "popularity": 0,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7Lfhm2cH94ZzeHvquDmrxv"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "decadence",
-                    "popularity": 0
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1s7yEBXZWlCUwSQQ4Jljnc"
-                            },
-                            "name": "c678924"
+                            "name": "c678924",
+                            "url": "https://open.spotify.com/artist/1s7yEBXZWlCUwSQQ4Jljnc"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5p0jdAqW3vkJdMH5cGgONn"
+                        },
+                        "name": "678924",
+                        "release_date": "2021-06-26",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273614a077abe64d51378f0e50d",
@@ -341,33 +361,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5p0jdAqW3vkJdMH5cGgONn"
-                        },
-                        "name": "678924",
-                        "release_date": "2021-06-26"
+                        ]
                     },
+                    "name": "\\\\\\",
+                    "popularity": 0,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6eKSIGhYDpuaqRssFGclTs"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "\\\\\\",
-                    "popularity": 0
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-                            },
-                            "name": "Kim Petras"
+                            "name": "Kim Petras",
+                            "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+                        },
+                        "name": "TURN OFF THE LIGHT",
+                        "release_date": "2020-10-23",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c877df6d9a3fe603c85b2871",
@@ -384,45 +401,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
-                        },
-                        "name": "TURN OFF THE LIGHT",
-                        "release_date": "2020-10-23"
+                        ]
                     },
+                    "name": "<demons>",
+                    "popularity": 50,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4YhG0wYSsxcpe3RGeXgj9v"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "<demons>",
-                    "popularity": 50
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-                            },
-                            "name": "Mandragora"
+                            "name": "Mandragora",
+                            "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-                            },
-                            "name": "KVSH"
+                            "name": "KVSH",
+                            "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-                            },
-                            "name": "Samantha Machado"
+                            "name": "Samantha Machado",
+                            "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7pUcxqy1fGmQkIQQ64mt9d"
+                        },
+                        "name": "Disc 1",
+                        "release_date": "2018-07-30",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732f70bac829f9802be1963035",
@@ -439,39 +449,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7pUcxqy1fGmQkIQQ64mt9d"
-                        },
-                        "name": "Disc 1",
-                        "release_date": "2018-07-30"
+                        ]
                     },
+                    "name": "Bola De Good",
+                    "popularity": 27,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6rUWHjl3ybvD45Iuqvgtqw"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Bola De Good",
-                    "popularity": 27
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-                            },
-                            "name": "Mandragora"
+                            "name": "Mandragora",
+                            "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4c9iZC8ehx9ivr5TQBMiBk"
-                            },
-                            "name": "Groovaholik"
+                            "name": "Groovaholik",
+                            "url": "https://open.spotify.com/artist/4c9iZC8ehx9ivr5TQBMiBk"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5QUvJoxJP0IHABZDpNb9vt"
+                        },
+                        "name": "La Españolita",
+                        "release_date": "2015-06-05",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273a855096e396f2eba9cf83f9f",
@@ -488,33 +493,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5QUvJoxJP0IHABZDpNb9vt"
-                        },
-                        "name": "La Españolita",
-                        "release_date": "2015-06-05"
+                        ]
                     },
+                    "name": "Carousell - Original Mix",
+                    "popularity": 34,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2950OAvbXU95Qx85Yek02v"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Carousell - Original Mix",
-                    "popularity": 33
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-                            },
-                            "name": "Grimes"
+                            "name": "Grimes",
+                            "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
+                        },
+                        "name": "Miss Anthropocene (Rave Edition)",
+                        "release_date": "2021-01-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27369b607bbcd97b6087766aded",
@@ -531,33 +533,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
-                        },
-                        "name": "Miss Anthropocene (Rave Edition)",
-                        "release_date": "2021-01-01"
+                        ]
                     },
+                    "name": "4ÆM",
+                    "popularity": 33,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3ffanCUFD0osXTvEghxZR9"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "4ÆM",
-                    "popularity": 33
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-                            },
-                            "name": "Brutalismus 3000"
+                            "name": "Brutalismus 3000",
+                            "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
+                        },
+                        "name": "Eros Massacre",
+                        "release_date": "2022-04-29",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b092dfab00dcf0ca5daf59b8",
@@ -574,39 +573,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
-                        },
-                        "name": "Eros Massacre",
-                        "release_date": "2022-04-29"
+                        ]
                     },
+                    "name": "Romantika",
+                    "popularity": 61,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Romantika",
-                    "popularity": 61
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
-                            },
-                            "name": "Fiah"
+                            "name": "Fiah",
+                            "url": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6oYjWyIWkjX8Xx5Sb8PZXM"
-                            },
-                            "name": "Ygnacyo"
+                            "name": "Ygnacyo",
+                            "url": "https://open.spotify.com/artist/6oYjWyIWkjX8Xx5Sb8PZXM"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5Y0qERKsELlaeIVRNcywmB"
+                        },
+                        "name": "Put It",
+                        "release_date": "2023-11-02",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2736834f8ee44f7d8882f104d47",
@@ -623,33 +617,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5Y0qERKsELlaeIVRNcywmB"
-                        },
-                        "name": "Put It",
-                        "release_date": "2023-11-02"
+                        ]
                     },
+                    "name": "Put It",
+                    "popularity": 35,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6cNYMR00j2fVeNi0odq0vF"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Put It",
-                    "popularity": 35
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-                            },
-                            "name": "Charli xcx"
+                            "name": "Charli xcx",
+                            "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+                        },
+                        "name": "BRAT",
+                        "release_date": "2024-06-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37",
@@ -666,33 +657,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-                        },
-                        "name": "BRAT",
-                        "release_date": "2024-06-07"
+                        ]
                     },
+                    "name": "Club classics",
+                    "popularity": 69,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Club classics",
-                    "popularity": 69
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-                            },
-                            "name": "Charli xcx"
+                            "name": "Charli xcx",
+                            "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+                        },
+                        "name": "BRAT",
+                        "release_date": "2024-06-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37",
@@ -709,33 +697,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-                        },
-                        "name": "BRAT",
-                        "release_date": "2024-06-07"
+                        ]
                     },
+                    "name": "365",
+                    "popularity": 75,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "365",
-                    "popularity": 75
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-                            },
-                            "name": "Azealia Banks"
+                            "name": "Azealia Banks",
+                            "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM"
+                        },
+                        "name": "1991 - EP",
+                        "release_date": "2012-05-28",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2734c17473b5cdeed952815289f",
@@ -752,33 +737,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM"
-                        },
-                        "name": "1991 - EP",
-                        "release_date": "2012-05-28"
+                        ]
                     },
+                    "name": "Liquorice",
+                    "popularity": 61,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Liquorice",
-                    "popularity": 61
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-                            },
-                            "name": "Charli xcx"
+                            "name": "Charli xcx",
+                            "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+                        },
+                        "name": "how i'm feeling now",
+                        "release_date": "2020-05-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd",
@@ -795,33 +777,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-                        },
-                        "name": "how i'm feeling now",
-                        "release_date": "2020-05-15"
+                        ]
                     },
+                    "name": "pink diamond",
+                    "popularity": 56,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "pink diamond",
-                    "popularity": 56
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-                            },
-                            "name": "Charli xcx"
+                            "name": "Charli xcx",
+                            "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+                        },
+                        "name": "how i'm feeling now",
+                        "release_date": "2020-05-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd",
@@ -838,33 +817,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-                        },
-                        "name": "how i'm feeling now",
-                        "release_date": "2020-05-15"
+                        ]
                     },
+                    "name": "visions",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "visions",
-                    "popularity": 52
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
+                        },
+                        "name": "v.i.p. - very important pony",
+                        "release_date": "2025-01-24",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732f0e337a055ee56cf94378ce",
@@ -881,33 +857,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
-                        },
-                        "name": "v.i.p. - very important pony",
-                        "release_date": "2025-01-24"
+                        ]
                     },
+                    "name": "materiaL hor$e",
+                    "popularity": 46,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "materiaL hor$e",
-                    "popularity": 46
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-                            },
-                            "name": "Mietze Conte"
+                            "name": "Mietze Conte",
+                            "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5yPh8kBP139pDobFcpumCP"
+                        },
+                        "name": "nanana",
+                        "release_date": "2022-12-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c05580dbdc3782ffcf874f52",
@@ -924,45 +897,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5yPh8kBP139pDobFcpumCP"
-                        },
-                        "name": "nanana",
-                        "release_date": "2022-12-16"
+                        ]
                     },
+                    "name": "nanana",
+                    "popularity": 51,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "nanana",
-                    "popularity": 51
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-                            },
-                            "name": "MCR-T"
+                            "name": "MCR-T",
+                            "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-                            },
-                            "name": "Six Sex"
+                            "name": "Six Sex",
+                            "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker"
+                        },
+                        "name": "GIIRLSWORLD",
+                        "release_date": "2025-09-11",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2736a4255df8ef2e6bbe8860b2f",
@@ -979,33 +945,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker"
-                        },
-                        "name": "GIIRLSWORLD",
-                        "release_date": "2025-09-11"
+                        ]
                     },
+                    "name": "GIIRLSWORLD",
+                    "popularity": 51,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "GIIRLSWORLD",
-                    "popularity": 51
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-                            },
-                            "name": "Skrillex"
+                            "name": "Skrillex",
+                            "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
+                        },
+                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+                        "release_date": "2010-12-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2730d9a6a2a68b4010c5b21a38c",
@@ -1022,39 +985,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
-                        },
-                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
-                        "release_date": "2010-12-21"
+                        ]
                     },
+                    "name": "Kill EVERYBODY",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1u1Ps262k227FPAm5BVUjd"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Kill EVERYBODY",
-                    "popularity": 51
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-                            },
-                            "name": "Skrillex"
+                            "name": "Skrillex",
+                            "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
-                            },
-                            "name": "Sirah"
+                            "name": "Sirah",
+                            "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
+                        },
+                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+                        "release_date": "2010-12-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2730d9a6a2a68b4010c5b21a38c",
@@ -1071,33 +1029,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
-                        },
-                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
-                        "release_date": "2010-12-21"
+                        ]
                     },
+                    "name": "Weekends!!! (feat. Sirah)",
+                    "popularity": 35,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3Doc0i6JsXK3N1DhhYvmmV"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Weekends!!! (feat. Sirah)",
-                    "popularity": 35
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-                            },
-                            "name": "Skrillex"
+                            "name": "Skrillex",
+                            "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
+                        },
+                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+                        "release_date": "2010-12-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2730d9a6a2a68b4010c5b21a38c",
@@ -1114,51 +1069,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
-                        },
-                        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
-                        "release_date": "2010-12-21"
+                        ]
                     },
+                    "name": "Rock 'n' Roll (Will Take You to the Mountain)",
+                    "popularity": 53,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6TbYnMMWfdUZXQm6tZ6vib"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Rock 'n' Roll (Will Take You to the Mountain)",
-                    "popularity": 53
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-                            },
-                            "name": "Skrillex"
+                            "name": "Skrillex",
+                            "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-                            },
-                            "name": "Swae Lee"
+                            "name": "Swae Lee",
+                            "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-                            },
-                            "name": "Siiickbrain"
+                            "name": "Siiickbrain",
+                            "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
-                            },
-                            "name": "Posij"
+                            "name": "Posij",
+                            "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+                        },
+                        "name": "Quest For Fire",
+                        "release_date": "2023-02-17",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2736382f06498259682f91cf981",
@@ -1175,45 +1121,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
-                        },
-                        "name": "Quest For Fire",
-                        "release_date": "2023-02-17"
+                        ]
                     },
+                    "name": "TOO BIZARRE (juked)",
+                    "popularity": 46,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1NacL1muYFdpo0Ejuj363q"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "TOO BIZARRE (juked)",
-                    "popularity": 46
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-                            },
-                            "name": "Fred again.."
+                            "name": "Fred again..",
+                            "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-                            },
-                            "name": "Skrillex"
+                            "name": "Skrillex",
+                            "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-                            },
-                            "name": "Four Tet"
+                            "name": "Four Tet",
+                            "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+                        },
+                        "name": "Baby again..",
+                        "release_date": "2023-03-17",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2738170b4ad7333efd476380396",
@@ -1230,45 +1169,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
-                        },
-                        "name": "Baby again..",
-                        "release_date": "2023-03-17"
+                        ]
                     },
+                    "name": "Baby again..",
+                    "popularity": 63,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Baby again..",
-                    "popularity": 63
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
-                            },
-                            "name": "food house"
+                            "name": "food house",
+                            "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
-                            },
-                            "name": "Gupi"
+                            "name": "Gupi",
+                            "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-                            },
-                            "name": "Fraxiom"
+                            "name": "Fraxiom",
+                            "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
+                        },
+                        "name": "food house",
+                        "release_date": "2020-10-29",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2731812ebf4481cd0142857f85b",
@@ -1285,39 +1217,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
-                        },
-                        "name": "food house",
-                        "release_date": "2020-10-29"
+                        ]
                     },
+                    "name": "8 now",
+                    "popularity": 49,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3lzX0mU3pfXOQRnH0ryZJR"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "8 now",
-                    "popularity": 49
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-                            },
-                            "name": "Fred again.."
+                            "name": "Fred again..",
+                            "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-                            },
-                            "name": "CA7RIEL & Paco Amoroso"
+                            "name": "CA7RIEL & Paco Amoroso",
+                            "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2TRLrNiG7UR2CjnGs2GI8T"
+                        },
+                        "name": "Beto's Horns",
+                        "release_date": "2025-11-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273e010cf46bf6b5b5a27251dcb",
@@ -1334,33 +1261,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2TRLrNiG7UR2CjnGs2GI8T"
-                        },
-                        "name": "Beto's Horns",
-                        "release_date": "2025-11-07"
+                        ]
                     },
+                    "name": "Beto’s Horns - fred remix",
+                    "popularity": 64,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Beto’s Horns - fred remix",
-                    "popularity": 65
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-                            },
-                            "name": "Daft Punk"
+                            "name": "Daft Punk",
+                            "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
+                        },
+                        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+                        "release_date": "2010-12-03",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
@@ -1377,39 +1301,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
-                        },
-                        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
-                        "release_date": "2010-12-03"
+                        ]
                     },
+                    "name": "Derezzed",
+                    "popularity": 58,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7hqlHZIXhwAzpWQxm9KzBd"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Derezzed",
-                    "popularity": 58
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-                            },
-                            "name": "MCR-T"
+                            "name": "MCR-T",
+                            "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel"
+                        },
+                        "name": "Farm Fantasies",
+                        "release_date": "2022-03-04",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273808c27ab45dced6e56244cbd",
@@ -1426,39 +1345,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel"
-                        },
-                        "name": "Farm Fantasies",
-                        "release_date": "2022-03-04"
+                        ]
                     },
+                    "name": "My Little White Pony",
+                    "popularity": 62,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "My Little White Pony",
-                    "popularity": 62
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-                            },
-                            "name": "MCR-T"
+                            "name": "MCR-T",
+                            "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
+                        },
+                        "name": "My Barn My Rules",
+                        "release_date": "2023-06-13",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27338dd342a4740731f23cb5c2b",
@@ -1475,33 +1389,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
-                        },
-                        "name": "My Barn My Rules",
-                        "release_date": "2023-06-13"
+                        ]
                     },
+                    "name": "My Barn My Rules",
+                    "popularity": 58,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "My Barn My Rules",
-                    "popularity": 58
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
+                        },
+                        "name": "eat, sleep, slay, 🔁",
+                        "release_date": "2024-09-12",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273187edcb7bc97cf65e91b0683",
@@ -1518,39 +1429,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
-                        },
-                        "name": "eat, sleep, slay, 🔁",
-                        "release_date": "2024-09-12"
+                        ]
                     },
+                    "name": "eat, sleep, slay, 🔁",
+                    "popularity": 53,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "eat, sleep, slay, 🔁",
-                    "popularity": 53
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-                            },
-                            "name": "Namasenda"
+                            "name": "Namasenda",
+                            "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
+                        },
+                        "name": "v.i.p. - very important pony",
+                        "release_date": "2025-01-24",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732f0e337a055ee56cf94378ce",
@@ -1567,33 +1473,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
-                        },
-                        "name": "v.i.p. - very important pony",
-                        "release_date": "2025-01-24"
+                        ]
                     },
+                    "name": "giirL math",
+                    "popularity": 42,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2vkkkaDiOamN4sNcCgsTE1"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "giirL math",
-                    "popularity": 42
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-                            },
-                            "name": "horsegiirL"
+                            "name": "horsegiirL",
+                            "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/65AKa5iHBNTbI149UsDknq"
+                        },
+                        "name": "Starsiigns",
+                        "release_date": "2022-08-05",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27302fee5db1f333cea1a4452b3",
@@ -1610,24 +1513,16 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/65AKa5iHBNTbI149UsDknq"
-                        },
-                        "name": "Starsiigns",
-                        "release_date": "2022-08-05"
+                        ]
                     },
+                    "name": "Starsiigns",
+                    "popularity": 40,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6hqCWyeLeVVOfRFugWbP21"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Starsiigns",
-                    "popularity": 40
+                    "explicit": false
                 }
             }
         ]
-    },
-    "name": "graphic design boiler room",
-    "description": "escuchar en aleatorio mientras diseñas a las 3am"
+    }
 }

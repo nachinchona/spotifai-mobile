@@ -1,8 +1,29 @@
 {
-    "id": 11,
+    "id": "2",
+    "name": "2016 manija",
+    "description": "para cuando las chicas no quieran salir",
+    "genres": [
+        "argentine trap",
+        "chilean trap",
+        "dancehall",
+        "dembow",
+        "latin",
+        "latin hip hop",
+        "latin r&b",
+        "merengue",
+        "reggaeton",
+        "riddim",
+        "rkt",
+        "trap",
+        "trap latino",
+        "turreo",
+        "urbano latino"
+    ],
     "images": [
         {
-            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a5c9ac80a187e01453cb521"
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a5c9ac80a187e01453cb521",
+            "width": null
         }
     ],
     "tracks": {
@@ -11,19 +32,20 @@
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-                            },
-                            "name": "Tali Goya"
+                            "name": "Tali Goya",
+                            "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
-                            },
-                            "name": "Arcangel"
+                            "name": "Arcangel",
+                            "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
+                        },
+                        "name": "Flow Cabron",
+                        "release_date": "2015-08-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2730c7847f82ff1ceac23aedd7f",
@@ -40,39 +62,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
-                        },
-                        "name": "Flow Cabron",
-                        "release_date": "2015-08-21"
+                        ]
                     },
+                    "name": "Flow Cabron",
+                    "popularity": 0,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Flow Cabron",
-                    "popularity": 0
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+                        },
+                        "name": "Me Acostumbre (feat. Bad Bunny)",
+                        "release_date": "2017-04-11",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273e4593a7e8147f25147480a51",
@@ -89,57 +106,46 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-                        },
-                        "name": "Me Acostumbre (feat. Bad Bunny)",
-                        "release_date": "2017-04-11"
+                        ]
                     },
+                    "name": "Me Acostumbre (feat. Bad Bunny)",
+                    "popularity": 71,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Me Acostumbre (feat. Bad Bunny)",
-                    "popularity": 71
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-                            },
-                            "name": "Alex Gargolas"
+                            "name": "Alex Gargolas",
+                            "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
+                        },
+                        "name": "Tacos Altos",
+                        "release_date": "2017-11-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273fe8dff7124a28e1aeb9e776e",
@@ -156,69 +162,54 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
-                        },
-                        "name": "Tacos Altos",
-                        "release_date": "2017-11-16"
+                        ]
                     },
+                    "name": "Tacos Altos",
+                    "popularity": 59,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Tacos Altos",
-                    "popularity": 59
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-                            },
-                            "name": "Ñengo Flow"
+                            "name": "Ñengo Flow",
+                            "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-                            },
-                            "name": "DJ Luian"
+                            "name": "DJ Luian",
+                            "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-                            },
-                            "name": "Mambo Kingz"
+                            "name": "Mambo Kingz",
+                            "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+                        },
+                        "name": "Diles",
+                        "release_date": "2016-08-26",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
@@ -235,33 +226,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
-                        },
-                        "name": "Diles",
-                        "release_date": "2016-08-26"
+                        ]
                     },
+                    "name": "Diles",
+                    "popularity": 87,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Diles",
-                    "popularity": 87
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+                        },
+                        "name": "Odisea",
+                        "release_date": "2017-08-25",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
@@ -278,33 +266,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-                        },
-                        "name": "Odisea",
-                        "release_date": "2017-08-25"
+                        ]
                     },
+                    "name": "Se Preparó",
+                    "popularity": 82,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Se Preparó",
-                    "popularity": 82
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+                        },
+                        "name": "Odisea",
+                        "release_date": "2017-08-25",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
@@ -321,33 +306,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-                        },
-                        "name": "Odisea",
-                        "release_date": "2017-08-25"
+                        ]
                     },
+                    "name": "Dile Que Tu Me Quieres",
+                    "popularity": 81,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Dile Que Tu Me Quieres",
-                    "popularity": 81
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+                        },
+                        "name": "Odisea",
+                        "release_date": "2017-08-25",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
@@ -364,33 +346,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-                        },
-                        "name": "Odisea",
-                        "release_date": "2017-08-25"
+                        ]
                     },
+                    "name": "El Farsante",
+                    "popularity": 80,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "El Farsante",
-                    "popularity": 80
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+                        },
+                        "name": "Odisea",
+                        "release_date": "2017-08-25",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
@@ -407,39 +386,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-                        },
-                        "name": "Odisea",
-                        "release_date": "2017-08-25"
+                        ]
                     },
+                    "name": "Si No Te Quiere",
+                    "popularity": 70,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Si No Te Quiere",
-                    "popularity": 70
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+                        },
+                        "name": "Pa Ti",
+                        "release_date": "2017-01-02",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273660c5caa0c4dd308f940aca1",
@@ -456,51 +430,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-                        },
-                        "name": "Pa Ti",
-                        "release_date": "2017-01-02"
+                        ]
                     },
+                    "name": "Pa Ti",
+                    "popularity": 74,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Pa Ti",
-                    "popularity": 74
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-                            },
-                            "name": "Trap Capos"
+                            "name": "Trap Capos",
+                            "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-                            },
-                            "name": "Almighty"
+                            "name": "Almighty",
+                            "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
+                        },
+                        "name": "Amigos y Enemigos (Remix)",
+                        "release_date": "2017-02-06",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732ce1db757b216a3d5a885a41",
@@ -517,39 +482,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
-                        },
-                        "name": "Amigos y Enemigos (Remix)",
-                        "release_date": "2017-02-06"
+                        ]
                     },
+                    "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
+                    "popularity": 75,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
-                    "popularity": 75
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-                            },
-                            "name": "Jory Boy"
+                            "name": "Jory Boy",
+                            "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
+                        },
+                        "name": "No Te Hagas",
+                        "release_date": "2017-03-11",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273adbec4a817a4d1bb1f237adc",
@@ -566,51 +526,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
-                        },
-                        "name": "No Te Hagas",
-                        "release_date": "2017-03-11"
+                        ]
                     },
+                    "name": "No Te Hagas",
+                    "popularity": 79,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "No Te Hagas",
-                    "popularity": 79
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
-                            },
-                            "name": "Sixto Rein"
+                            "name": "Sixto Rein",
+                            "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-                            },
-                            "name": "Lary Over"
+                            "name": "Lary Over",
+                            "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ"
-                            },
-                            "name": "EZ El Ezeta"
+                            "name": "EZ El Ezeta",
+                            "url": "https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3YPSCNYPDkceKVkstEH4ew"
+                        },
+                        "name": "Trepate",
+                        "release_date": "2017-04-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273bc82119b8fdd5a26fd2d4716",
@@ -627,81 +578,62 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3YPSCNYPDkceKVkstEH4ew"
-                        },
-                        "name": "Trepate",
-                        "release_date": "2017-04-07"
+                        ]
                     },
+                    "name": "Trepate",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/54Jbp9l25XPwT0hXvpULRh"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Trepate",
-                    "popularity": 52
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-                            },
-                            "name": "Mambo Kingz"
+                            "name": "Mambo Kingz",
+                            "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-                            },
-                            "name": "DJ Luian"
+                            "name": "DJ Luian",
+                            "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-                            },
-                            "name": "Almighty"
+                            "name": "Almighty",
+                            "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-                            },
-                            "name": "Baby Rasta"
+                            "name": "Baby Rasta",
+                            "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-                            },
-                            "name": "Brytiago"
+                            "name": "Brytiago",
+                            "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
+                        },
+                        "name": "Me Mata",
+                        "release_date": "2017-04-11",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273da715f86aef7d0e7d716ef94",
@@ -718,39 +650,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
-                        },
-                        "name": "Me Mata",
-                        "release_date": "2017-04-11"
+                        ]
                     },
+                    "name": "Me Mata",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Me Mata",
-                    "popularity": 73
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-                            },
-                            "name": "Brytiago"
+                            "name": "Brytiago",
+                            "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
+                        },
+                        "name": "Netflixxx",
+                        "release_date": "2017-06-29",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b0f3efaba85ded275d984fd7",
@@ -767,33 +694,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
-                        },
-                        "name": "Netflixxx",
-                        "release_date": "2017-06-29"
+                        ]
                     },
+                    "name": "Netflixxx",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Netflixxx",
-                    "popularity": 74
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+                        },
+                        "name": "Tu No Metes Cabra",
+                        "release_date": "2017-07-06",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273cbd84f7b3d3dab7743cfa88e",
@@ -810,39 +734,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
-                        },
-                        "name": "Tu No Metes Cabra",
-                        "release_date": "2017-07-06"
+                        ]
                     },
+                    "name": "Tu No Metes Cabra",
+                    "popularity": 69,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Tu No Metes Cabra",
-                    "popularity": 69
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                            },
-                            "name": "Daddy Yankee"
+                            "name": "Daddy Yankee",
+                            "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+                        },
+                        "name": "Vuelve",
+                        "release_date": "2017-09-29",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273ec748231035512e229a1376e",
@@ -859,51 +778,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-                        },
-                        "name": "Vuelve",
-                        "release_date": "2017-09-29"
+                        ]
                     },
+                    "name": "Vuelve",
+                    "popularity": 77,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Vuelve",
-                    "popularity": 77
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-                            },
-                            "name": "KHEA"
+                            "name": "KHEA",
+                            "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-                            },
-                            "name": "Cazzu"
+                            "name": "Cazzu",
+                            "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
+                        },
+                        "name": "Loca Remix",
+                        "release_date": "2018-03-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27360a1b828beab034f65ad785b",
@@ -920,51 +830,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
-                        },
-                        "name": "Loca Remix",
-                        "release_date": "2018-03-16"
+                        ]
                     },
+                    "name": "Loca - Remix",
+                    "popularity": 69,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Loca - Remix",
-                    "popularity": 69
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-                            },
-                            "name": "Alex Rose"
+                            "name": "Alex Rose",
+                            "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-                            },
-                            "name": "Cazzu"
+                            "name": "Cazzu",
+                            "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-                            },
-                            "name": "Rauw Alejandro"
+                            "name": "Rauw Alejandro",
+                            "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-                            },
-                            "name": "Lenny Tavárez"
+                            "name": "Lenny Tavárez",
+                            "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/41Ji5KmFdqEGcLH8Yi7RVh"
+                        },
+                        "name": "Toda (Remix)",
+                        "release_date": "2018-06-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27317a99dce47dadd516d225b26",
@@ -981,63 +882,50 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/41Ji5KmFdqEGcLH8Yi7RVh"
-                        },
-                        "name": "Toda (Remix)",
-                        "release_date": "2018-06-01"
+                        ]
                     },
+                    "name": "Toda - Remix",
+                    "popularity": 0,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7nD2JPaxIKUdxd2UWgnaGL"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Toda - Remix",
-                    "popularity": 0
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-                            },
-                            "name": "DJ Luian"
+                            "name": "DJ Luian",
+                            "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-                            },
-                            "name": "Mambo Kingz"
+                            "name": "Mambo Kingz",
+                            "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-                            },
-                            "name": "De La Ghetto"
+                            "name": "De La Ghetto",
+                            "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                            },
-                            "name": "Anuel AA"
+                            "name": "Anuel AA",
+                            "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
+                        },
+                        "name": "La Ocasión",
+                        "release_date": "2018-03-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273eeaaa69786db98d2bf2771eb",
@@ -1054,57 +942,46 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
-                        },
-                        "name": "La Ocasión",
-                        "release_date": "2018-03-16"
+                        ]
                     },
+                    "name": "La Ocasión",
+                    "popularity": 76,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "La Ocasión",
-                    "popularity": 76
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-                            },
-                            "name": "Revol"
+                            "name": "Revol",
+                            "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-                            },
-                            "name": "Cosculluela"
+                            "name": "Cosculluela",
+                            "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-                            },
-                            "name": "Brytiago"
+                            "name": "Brytiago",
+                            "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
+                        },
+                        "name": "Me Ama Me Odia",
+                        "release_date": "2016-09-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2734084b39ae3c80401165696a1",
@@ -1121,57 +998,46 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
-                        },
-                        "name": "Me Ama Me Odia",
-                        "release_date": "2016-09-01"
+                        ]
                     },
+                    "name": "Me Ama Me Odia",
+                    "popularity": 76,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Me Ama Me Odia",
-                    "popularity": 76
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                            },
-                            "name": "Maluma"
+                            "name": "Maluma",
+                            "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-                            },
-                            "name": "Trap Capos"
+                            "name": "Trap Capos",
+                            "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-                            },
-                            "name": "Juhn"
+                            "name": "Juhn",
+                            "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8"
+                        },
+                        "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
+                        "release_date": "2016-10-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2739aaa796c11497e3e61bdcff0",
@@ -1188,39 +1054,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8"
-                        },
-                        "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
-                        "release_date": "2016-10-07"
+                        ]
                     },
+                    "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
+                    "popularity": 82,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
-                    "popularity": 82
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-                            },
-                            "name": "Gigolo Y La Exce"
+                            "name": "Gigolo Y La Exce",
+                            "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+                        },
+                        "name": "Sexto Sentido (feat. Bad Bunny)",
+                        "release_date": "2017-08-17",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c9b7513e8e9a2a75a2ad93b6",
@@ -1237,51 +1098,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-                        },
-                        "name": "Sexto Sentido (feat. Bad Bunny)",
-                        "release_date": "2017-08-17"
+                        ]
                     },
+                    "name": "Sexto Sentido (feat. Bad Bunny)",
+                    "popularity": 68,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Sexto Sentido (feat. Bad Bunny)",
-                    "popularity": 68
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-                            },
-                            "name": "Mambo Kingz"
+                            "name": "Mambo Kingz",
+                            "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-                            },
-                            "name": "DJ Luian"
+                            "name": "DJ Luian",
+                            "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
+                        },
+                        "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+                        "release_date": "2016-09-30",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2739bf23abed0a1e730a90d3490",
@@ -1298,87 +1150,66 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
-                        },
-                        "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
-                        "release_date": "2016-09-30"
+                        ]
                     },
+                    "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+                    "popularity": 79,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
-                    "popularity": 79
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N"
-                            },
-                            "name": "Pepe Quintana"
+                            "name": "Pepe Quintana",
+                            "url": "https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0DGnuyY5NGB6vLsXTjq3wX"
-                            },
-                            "name": "Alexis La Bestia"
+                            "name": "Alexis La Bestia",
+                            "url": "https://open.spotify.com/artist/0DGnuyY5NGB6vLsXTjq3wX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                            },
-                            "name": "Anuel AA"
+                            "name": "Anuel AA",
+                            "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-                            },
-                            "name": "KEVIN ROLDAN"
+                            "name": "KEVIN ROLDAN",
+                            "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-                            },
-                            "name": "Ñejo"
+                            "name": "Ñejo",
+                            "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-                            },
-                            "name": "Ñengo Flow"
+                            "name": "Ñengo Flow",
+                            "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
+                        },
+                        "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo) [Remix]",
+                        "release_date": "2016-07-31",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732a47799dbdb1e0876a4eb573",
@@ -1395,57 +1226,46 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
-                        },
-                        "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo) [Remix]",
-                        "release_date": "2016-07-31"
+                        ]
                     },
+                    "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo) - Remix",
+                    "popularity": 72,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo) - Remix",
-                    "popularity": 72
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-                            },
-                            "name": "Rvssian"
+                            "name": "Rvssian",
+                            "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-                            },
-                            "name": "Nicky Jam"
+                            "name": "Nicky Jam",
+                            "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
-                            },
-                            "name": "Kosa"
+                            "name": "Kosa",
+                            "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
+                        },
+                        "name": "Si Tu Lo Dejas",
+                        "release_date": "2017-08-03",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732bc2159ea560f816d355ad97",
@@ -1462,51 +1282,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
-                        },
-                        "name": "Si Tu Lo Dejas",
-                        "release_date": "2017-08-03"
+                        ]
                     },
+                    "name": "Si Tu Lo Dejas",
+                    "popularity": 67,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Si Tu Lo Dejas",
-                    "popularity": 67
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-                            },
-                            "name": "Alex Rose"
+                            "name": "Alex Rose",
+                            "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-                            },
-                            "name": "Lenny Tavárez"
+                            "name": "Lenny Tavárez",
+                            "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-                            },
-                            "name": "Chris Wandell"
+                            "name": "Chris Wandell",
+                            "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-                            },
-                            "name": "Quimico Ultra Mega"
+                            "name": "Quimico Ultra Mega",
+                            "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
+                        },
+                        "name": "Percocet (Remix)",
+                        "release_date": "2017-05-10",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273bdcad0f482abc977e80696ee",
@@ -1523,51 +1334,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
-                        },
-                        "name": "Percocet (Remix)",
-                        "release_date": "2017-05-10"
+                        ]
                     },
+                    "name": "Percocet - Remix",
+                    "popularity": 1,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Percocet - Remix",
-                    "popularity": 1
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-                            },
-                            "name": "Trap Capos"
+                            "name": "Trap Capos",
+                            "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
+                        },
+                        "name": "Trap Capos II",
+                        "release_date": "2018-04-13",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732c7e9d7b58aaad136d862686",
@@ -1584,51 +1386,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
-                        },
-                        "name": "Trap Capos II",
-                        "release_date": "2018-04-13"
+                        ]
                     },
+                    "name": "De las 2 (feat. Bad Bunny & Arcángel)",
+                    "popularity": 79,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "De las 2 (feat. Bad Bunny & Arcángel)",
-                    "popularity": 79
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-                            },
-                            "name": "Lary Over"
+                            "name": "Lary Over",
+                            "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
-                            },
-                            "name": "Frank Miami"
+                            "name": "Frank Miami",
+                            "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
+                        },
+                        "name": "Carbon Fiber Hits",
+                        "release_date": "2018-12-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2733f86fe0198607fe8a4bfd1a8",
@@ -1645,69 +1438,54 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
-                        },
-                        "name": "Carbon Fiber Hits",
-                        "release_date": "2018-12-21"
+                        ]
                     },
+                    "name": "Diabla (Official Remix)",
+                    "popularity": 54,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Diabla (Official Remix)",
-                    "popularity": 54
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-                            },
-                            "name": "Wisin"
+                            "name": "Wisin",
+                            "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-                            },
-                            "name": "De La Ghetto"
+                            "name": "De La Ghetto",
+                            "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-                            },
-                            "name": "Almighty"
+                            "name": "Almighty",
+                            "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+                        },
+                        "name": "Victory",
+                        "release_date": "2017-12-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27364b4e6b3c120c3d4c7a71910",
@@ -1724,51 +1502,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-                        },
-                        "name": "Victory",
-                        "release_date": "2017-12-01"
+                        ]
                     },
+                    "name": "Escápate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arcángel, Noriel & Almighty) - Remix",
+                    "popularity": 66,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5YY7ht3PCArlLjLbcTiAvh"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Escápate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arcángel, Noriel & Almighty) - Remix",
-                    "popularity": 66
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-                            },
-                            "name": "Mambo Kingz"
+                            "name": "Mambo Kingz",
+                            "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-                            },
-                            "name": "DJ Luian"
+                            "name": "DJ Luian",
+                            "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-                            },
-                            "name": "Luigi 21 Plus"
+                            "name": "Luigi 21 Plus",
+                            "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
+                        },
+                        "name": "Me Reclama",
+                        "release_date": "2016-01-23",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2731e305237dcf442b57030c9d5",
@@ -1785,57 +1554,46 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
-                        },
-                        "name": "Me Reclama",
-                        "release_date": "2016-01-23"
+                        ]
                     },
+                    "name": "Me Reclama",
+                    "popularity": 72,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Me Reclama",
-                    "popularity": 72
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                            },
-                            "name": "Anuel AA"
+                            "name": "Anuel AA",
+                            "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                            },
-                            "name": "Daddy Yankee"
+                            "name": "Daddy Yankee",
+                            "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-                            },
-                            "name": "Zion & Lennox"
+                            "name": "Zion & Lennox",
+                            "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                            },
-                            "name": "Farruko"
+                            "name": "Farruko",
+                            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-                            },
-                            "name": "Wisin"
+                            "name": "Wisin",
+                            "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
+                        },
+                        "name": "Sola (Remix)",
+                        "release_date": "2016-12-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273a66def7d649149464edc8f1e",
@@ -1852,33 +1610,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
-                        },
-                        "name": "Sola (Remix)",
-                        "release_date": "2016-12-01"
+                        ]
                     },
+                    "name": "Sola (Remix)",
+                    "popularity": 82,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Sola (Remix)",
-                    "popularity": 82
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-                            },
-                            "name": "J Alvarez"
+                            "name": "J Alvarez",
+                            "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
+                        },
+                        "name": "Timeless",
+                        "release_date": "2011",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273e93cfba8e8b807ad53171216",
@@ -1895,39 +1650,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
-                        },
-                        "name": "Timeless",
-                        "release_date": "2011"
+                        ]
                     },
+                    "name": "La Pregunta",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "La Pregunta",
-                    "popularity": 73
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-                            },
-                            "name": "Yandel"
+                            "name": "Yandel",
+                            "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                            },
-                            "name": "Bad Bunny"
+                            "name": "Bad Bunny",
+                            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+                        },
+                        "name": "#Update",
+                        "release_date": "2017-09-08",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273a6fa856d2b032f6a11fcc0dd",
@@ -1944,51 +1694,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-                        },
-                        "name": "#Update",
-                        "release_date": "2017-09-08"
+                        ]
                     },
+                    "name": "Explícale (feat. Bad Bunny)",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Explícale (feat. Bad Bunny)",
-                    "popularity": 73
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-                            },
-                            "name": "Chris Jedi"
+                            "name": "Chris Jedi",
+                            "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                            },
-                            "name": "J Balvin"
+                            "name": "J Balvin",
+                            "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+                        },
+                        "name": "Ahora Dice",
+                        "release_date": "2017-03-17",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273f2c71d7425a7afba2a3a42c1",
@@ -2005,39 +1746,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-                        },
-                        "name": "Ahora Dice",
-                        "release_date": "2017-03-17"
+                        ]
                     },
+                    "name": "Ahora Dice",
+                    "popularity": 78,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Ahora Dice",
-                    "popularity": 78
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
-                            },
-                            "name": "Klasico"
+                            "name": "Klasico",
+                            "url": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
+                        },
+                        "name": "Los Que Gustan",
+                        "release_date": "2016-02-12",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b61585d93d9e690fb21dc5d6",
@@ -2054,39 +1790,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
-                        },
-                        "name": "Los Que Gustan",
-                        "release_date": "2016-02-12"
+                        ]
                     },
+                    "name": "Corazon De Seda (feat. Ozuna)",
+                    "popularity": 74,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Corazon De Seda (feat. Ozuna)",
-                    "popularity": 74
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-                            },
-                            "name": "Brytiago"
+                            "name": "Brytiago",
+                            "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-                            },
-                            "name": "Darell"
+                            "name": "Darell",
+                            "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
+                        },
+                        "name": "Asesina",
+                        "release_date": "2018-05-01",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27318b40c232440426da343c271",
@@ -2103,33 +1834,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
-                        },
-                        "name": "Asesina",
-                        "release_date": "2018-05-01"
+                        ]
                     },
+                    "name": "Asesina",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Asesina",
-                    "popularity": 73
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                            },
-                            "name": "Ozuna"
+                            "name": "Ozuna",
+                            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7azq3plJ1x80tMRD5IzUbk"
+                        },
+                        "name": "En la Intimidad",
+                        "release_date": "2016-08-06",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2736d308739fc725bc4edba9c92",
@@ -2146,33 +1874,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7azq3plJ1x80tMRD5IzUbk"
-                        },
-                        "name": "En la Intimidad",
-                        "release_date": "2016-08-06"
+                        ]
                     },
+                    "name": "En la Intimidad",
+                    "popularity": 67,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/45qvBgXbCxkmRYKNJQFm3g"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "En la Intimidad",
-                    "popularity": 67
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                            },
-                            "name": "Maluma"
+                            "name": "Maluma",
+                            "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+                        },
+                        "name": "Pretty Boy, Dirty Boy",
+                        "release_date": "2015-10-30",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
@@ -2189,33 +1914,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-                        },
-                        "name": "Pretty Boy, Dirty Boy",
-                        "release_date": "2015-10-30"
+                        ]
                     },
+                    "name": "Borro Cassette",
+                    "popularity": 85,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Borro Cassette",
-                    "popularity": 84
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                            },
-                            "name": "Maluma"
+                            "name": "Maluma",
+                            "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+                        },
+                        "name": "Pretty Boy, Dirty Boy",
+                        "release_date": "2015-10-30",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
@@ -2232,51 +1954,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-                        },
-                        "name": "Pretty Boy, Dirty Boy",
-                        "release_date": "2015-10-30"
+                        ]
                     },
+                    "name": "Sin Contrato",
+                    "popularity": 74,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Sin Contrato",
-                    "popularity": 74
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                            },
-                            "name": "J Balvin"
+                            "name": "J Balvin",
+                            "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-                            },
-                            "name": "Pharrell Williams"
+                            "name": "Pharrell Williams",
+                            "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-                            },
-                            "name": "BIA"
+                            "name": "BIA",
+                            "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-                            },
-                            "name": "Sky Rompiendo"
+                            "name": "Sky Rompiendo",
+                            "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+                        },
+                        "name": "Energía",
+                        "release_date": "2016-06-24",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273734b36a0655aae40d78d70f4",
@@ -2293,33 +2006,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-                        },
-                        "name": "Energía",
-                        "release_date": "2016-06-24"
+                        ]
                     },
+                    "name": "Safari",
+                    "popularity": 75,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Safari",
-                    "popularity": 75
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                            },
-                            "name": "J Balvin"
+                            "name": "J Balvin",
+                            "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+                        },
+                        "name": "Energía",
+                        "release_date": "2016-06-24",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273734b36a0655aae40d78d70f4",
@@ -2336,45 +2046,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-                        },
-                        "name": "Energía",
-                        "release_date": "2016-06-24"
+                        ]
                     },
+                    "name": "Ginza",
+                    "popularity": 75,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Ginza",
-                    "popularity": 75
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0Lvb0REREEhoj4mFcnkcI2"
-                            },
-                            "name": "NahueMC"
+                            "name": "NahueMC",
+                            "url": "https://open.spotify.com/artist/0Lvb0REREEhoj4mFcnkcI2"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8"
-                            },
-                            "name": "808god"
+                            "name": "808god",
+                            "url": "https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5eHEWeD5UQOPsE8l1Bq7yy"
+                        },
+                        "name": "Ready For The Night",
+                        "release_date": "2017-05-18",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273405342c8ac0cdc45ff8956d3",
@@ -2391,33 +2094,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5eHEWeD5UQOPsE8l1Bq7yy"
-                        },
-                        "name": "Ready For The Night",
-                        "release_date": "2017-05-18"
+                        ]
                     },
+                    "name": "Ready For The Night",
+                    "popularity": 50,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4upHMKDxm9HMlK4B74i9NR"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Ready For The Night",
-                    "popularity": 50
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/02QHwD2wg92evujaugpL48"
+                        },
+                        "name": "Si Te Sentis Sola",
+                        "release_date": "2018-02-23",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273bb00c0298a2a35e9ab754f08",
@@ -2434,33 +2134,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/02QHwD2wg92evujaugpL48"
-                        },
-                        "name": "Si Te Sentis Sola",
-                        "release_date": "2018-02-23"
+                        ]
                     },
+                    "name": "Si Te Sentis Sola",
+                    "popularity": 64,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7Kf6WE45fNBoyRkAuQKfrA"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Si Te Sentis Sola",
-                    "popularity": 64
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+                        },
+                        "name": "Hello Cotto",
+                        "release_date": "2018-03-08",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2736b43ad890ad0d010e3e2a6d6",
@@ -2477,33 +2174,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
-                        },
-                        "name": "Hello Cotto",
-                        "release_date": "2018-03-08"
+                        ]
                     },
+                    "name": "Hello Cotto",
+                    "popularity": 69,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Hello Cotto",
-                    "popularity": 69
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
+                        },
+                        "name": "Rockstar",
+                        "release_date": "2018-03-09",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732f405d5d63a07b98ced1521a",
@@ -2520,39 +2214,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
-                        },
-                        "name": "Rockstar",
-                        "release_date": "2018-03-09"
+                        ]
                     },
+                    "name": "Rockstar",
+                    "popularity": 70,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Rockstar",
-                    "popularity": 70
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-                            },
-                            "name": "KHEA"
+                            "name": "KHEA",
+                            "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
+                        },
+                        "name": "She Don't Give a Fo",
+                        "release_date": "2018-03-12",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2733ba92b218fbc97d244235a21",
@@ -2569,45 +2258,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
-                        },
-                        "name": "She Don't Give a Fo",
-                        "release_date": "2018-03-12"
+                        ]
                     },
+                    "name": "She Don't Give a Fo",
+                    "popularity": 73,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "She Don't Give a Fo",
-                    "popularity": 73
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-                            },
-                            "name": "Neo Pistea"
+                            "name": "Neo Pistea",
+                            "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
+                        },
+                        "name": "Quavo #Mododiablo",
+                        "release_date": "2018-03-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273bb21435b63f2caf3970799ac",
@@ -2624,45 +2306,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
-                        },
-                        "name": "Quavo #Mododiablo",
-                        "release_date": "2018-03-16"
+                        ]
                     },
+                    "name": "Quavo #Mododiablo",
+                    "popularity": 60,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Quavo #Mododiablo",
-                    "popularity": 60
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-                            },
-                            "name": "C.R.O"
+                            "name": "C.R.O",
+                            "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
+                        },
+                        "name": "Hijo de la Noche",
+                        "release_date": "2018-04-20",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27360a385a07d66f74cbb744028",
@@ -2679,39 +2354,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
-                        },
-                        "name": "Hijo de la Noche",
-                        "release_date": "2018-04-20"
+                        ]
                     },
+                    "name": "Hijo de la Noche",
+                    "popularity": 62,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Hijo de la Noche",
-                    "popularity": 62
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0B9wPB6XyIwCXZ3OUkJfCE"
-                            },
-                            "name": "DICC"
+                            "name": "DICC",
+                            "url": "https://open.spotify.com/artist/0B9wPB6XyIwCXZ3OUkJfCE"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1UZdjHY0di4YgpGHkBazIG"
+                        },
+                        "name": "Ferrari",
+                        "release_date": "2018-06-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273b13def42756bebe5e676a58b",
@@ -2728,51 +2398,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1UZdjHY0di4YgpGHkBazIG"
-                        },
-                        "name": "Ferrari",
-                        "release_date": "2018-06-15"
+                        ]
                     },
+                    "name": "Ferrari",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/76mgiVDDa9X2DTEbkithf4"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Ferrari",
-                    "popularity": 52
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0ulX41eWF9mhfeAhOu4EU0"
-                            },
-                            "name": "Modo Diablo"
+                            "name": "Modo Diablo",
+                            "url": "https://open.spotify.com/artist/0ulX41eWF9mhfeAhOu4EU0"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-                            },
-                            "name": "Neo Pistea"
+                            "name": "Neo Pistea",
+                            "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7d8xXvHfxeYeAVUb6rSMxB"
+                        },
+                        "name": "TRAP.N.EXPORT (feat. Duki, Ysy A & Neo Pistea)",
+                        "release_date": "2019-02-08",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2735b37cf5c9c199e48fe7d56e1",
@@ -2789,33 +2450,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7d8xXvHfxeYeAVUb6rSMxB"
-                        },
-                        "name": "TRAP.N.EXPORT (feat. Duki, Ysy A & Neo Pistea)",
-                        "release_date": "2019-02-08"
+                        ]
                     },
+                    "name": "TRAP.N.EXPORT (feat. Duki, Ysy A & Neo Pistea)",
+                    "popularity": 59,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3aozFlnbP7zhcJKi9O0FUz"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "TRAP.N.EXPORT (feat. Duki, Ysy A & Neo Pistea)",
-                    "popularity": 59
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1eQomagmHnnDzHyG28CqsY"
+                        },
+                        "name": "Casi un G",
+                        "release_date": "2018-08-09",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273a374de70daf238d31856afdc",
@@ -2832,33 +2490,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1eQomagmHnnDzHyG28CqsY"
-                        },
-                        "name": "Casi un G",
-                        "release_date": "2018-08-09"
+                        ]
                     },
+                    "name": "Casi un G",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1wY7YlavH2C0U1HfR07XvZ"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Casi un G",
-                    "popularity": 52
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/04fwnwi4UNEcXPCWmd4dU7"
+                        },
+                        "name": "Pastel Con Nutella",
+                        "release_date": "2018-08-20",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2737f20d4657186f1a064fe1f1a",
@@ -2875,45 +2530,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/04fwnwi4UNEcXPCWmd4dU7"
-                        },
-                        "name": "Pastel Con Nutella",
-                        "release_date": "2018-08-20"
+                        ]
                     },
+                    "name": "Pastel Con Nutella",
+                    "popularity": 63,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2ksvWFIlW7QgXuvk2MA1FT"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Pastel Con Nutella",
-                    "popularity": 63
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-                            },
-                            "name": "Neo Pistea"
+                            "name": "Neo Pistea",
+                            "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd"
-                            },
-                            "name": "0-600"
+                            "name": "0-600",
+                            "url": "https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-                            },
-                            "name": "CLUB HATS"
+                            "name": "CLUB HATS",
+                            "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0jxnzcB8aYb5NjGs4p8ReD"
+                        },
+                        "name": "Medusa",
+                        "release_date": "2016-12-16",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273ffdf74af49a31a5938f27fbc",
@@ -2930,87 +2578,66 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0jxnzcB8aYb5NjGs4p8ReD"
-                        },
-                        "name": "Medusa",
-                        "release_date": "2016-12-16"
+                        ]
                     },
+                    "name": "Medusa",
+                    "popularity": 38,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4hSHbagV828laWkMeG9bcr"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Medusa",
-                    "popularity": 38
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-                            },
-                            "name": "Neo Pistea"
+                            "name": "Neo Pistea",
+                            "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-                            },
-                            "name": "C.R.O"
+                            "name": "C.R.O",
+                            "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
-                            },
-                            "name": "Obie Wanshot"
+                            "name": "Obie Wanshot",
+                            "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-                            },
-                            "name": "YSY A"
+                            "name": "YSY A",
+                            "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-                            },
-                            "name": "Cazzu"
+                            "name": "Cazzu",
+                            "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-                            },
-                            "name": "KHEA"
+                            "name": "KHEA",
+                            "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-                            },
-                            "name": "Lucho SSJ"
+                            "name": "Lucho SSJ",
+                            "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7"
-                            },
-                            "name": "Coqeéin Montana"
+                            "name": "Coqeéin Montana",
+                            "url": "https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I"
-                            },
-                            "name": "Marcianos Crew"
+                            "name": "Marcianos Crew",
+                            "url": "https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
+                        },
+                        "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) [Remix]",
+                        "release_date": "2019-03-27",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2732f4d67b8878fdea022596e29",
@@ -3027,39 +2654,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
-                        },
-                        "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) [Remix]",
-                        "release_date": "2019-03-27"
+                        ]
                     },
+                    "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix",
+                    "popularity": 64,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix",
-                    "popularity": 64
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-                            },
-                            "name": "Frijo"
+                            "name": "Frijo",
+                            "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                            },
-                            "name": "Paulo Londra"
+                            "name": "Paulo Londra",
+                            "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+                        },
+                        "name": "Noche Complicada",
+                        "release_date": "2018-04-20",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273f0d72dfc6af7e8d96e980017",
@@ -3076,39 +2698,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
-                        },
-                        "name": "Noche Complicada",
-                        "release_date": "2018-04-20"
+                        ]
                     },
+                    "name": "Noche Complicada",
+                    "popularity": 54,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Noche Complicada",
-                    "popularity": 54
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-                            },
-                            "name": "C.R.O"
+                            "name": "C.R.O",
+                            "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
+                        },
+                        "name": "Ella Es una G",
+                        "release_date": "2018-11-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2731c81e9d5bac0092e6fd9a6ac",
@@ -3125,33 +2742,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
-                        },
-                        "name": "Ella Es una G",
-                        "release_date": "2018-11-15"
+                        ]
                     },
+                    "name": "Ella Es una G",
+                    "popularity": 2,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Ella Es una G",
-                    "popularity": 3
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                            },
-                            "name": "Paulo Londra"
+                            "name": "Paulo Londra",
+                            "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+                        },
+                        "name": "Homerun",
+                        "release_date": "2019-05-23",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273cf7e54f668d6a31dd6566f24",
@@ -3168,33 +2782,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-                        },
-                        "name": "Homerun",
-                        "release_date": "2019-05-23"
+                        ]
                     },
+                    "name": "Chica Paranormal",
+                    "popularity": 71,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Chica Paranormal",
-                    "popularity": 71
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                            },
-                            "name": "Paulo Londra"
+                            "name": "Paulo Londra",
+                            "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+                        },
+                        "name": "Cámara Lenta",
+                        "release_date": "2017-10-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273298a313d97e3fd0150e82afc",
@@ -3211,39 +2822,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
-                        },
-                        "name": "Cámara Lenta",
-                        "release_date": "2017-10-07"
+                        ]
                     },
+                    "name": "Cámara Lenta",
+                    "popularity": 67,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Cámara Lenta",
-                    "popularity": 67
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                            },
-                            "name": "Paulo Londra"
+                            "name": "Paulo Londra",
+                            "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-                            },
-                            "name": "Lenny Tavárez"
+                            "name": "Lenny Tavárez",
+                            "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1RMkgNWPXhMF91oLAe2P7d"
+                        },
+                        "name": "Nena Maldición (feat. Lenny Tavárez)",
+                        "release_date": "2018-01-30",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273812ca23e0ab9720b224acbe5",
@@ -3260,33 +2866,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/1RMkgNWPXhMF91oLAe2P7d"
-                        },
-                        "name": "Nena Maldición (feat. Lenny Tavárez)",
-                        "release_date": "2018-01-30"
+                        ]
                     },
+                    "name": "Nena Maldición (feat. Lenny Tavárez)",
+                    "popularity": 59,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/2aMVyJSuDFFL1sTjJnvk7X"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Nena Maldición (feat. Lenny Tavárez)",
-                    "popularity": 59
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                            },
-                            "name": "Paulo Londra"
+                            "name": "Paulo Londra",
+                            "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/66rMML0MqFyPkNgL3n98qQ"
+                        },
+                        "name": "Condenado Para El Millón",
+                        "release_date": "2018-11-03",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273d17c06c42f6f674c082ddf7f",
@@ -3303,69 +2906,54 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/66rMML0MqFyPkNgL3n98qQ"
-                        },
-                        "name": "Condenado Para El Millón",
-                        "release_date": "2018-11-03"
+                        ]
                     },
+                    "name": "Condenado Para El Millón",
+                    "popularity": 44,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/4bSCJTXKPSb63oyOteNLSR"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Condenado Para El Millón",
-                    "popularity": 44
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
-                            },
-                            "name": "Midel"
+                            "name": "Midel",
+                            "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX"
-                            },
-                            "name": "Arse"
+                            "name": "Arse",
+                            "url": "https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-                            },
-                            "name": "KHEA"
+                            "name": "KHEA",
+                            "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-                            },
-                            "name": "Duki"
+                            "name": "Duki",
+                            "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1"
-                            },
-                            "name": "Klave"
+                            "name": "Klave",
+                            "url": "https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-                            },
-                            "name": "MYKKA"
+                            "name": "MYKKA",
+                            "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-                            },
-                            "name": "Omar Varela"
+                            "name": "Omar Varela",
+                            "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
+                        },
+                        "name": "B.U.H.O",
+                        "release_date": "2017-08-19",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2737bd653d0b29245fe1e732108",
@@ -3382,33 +2970,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
-                        },
-                        "name": "B.U.H.O",
-                        "release_date": "2017-08-19"
+                        ]
                     },
+                    "name": "B.U.H.O",
+                    "popularity": 60,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "B.U.H.O",
-                    "popularity": 60
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-                            },
-                            "name": "LIT killah"
+                            "name": "LIT killah",
+                            "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+                        },
+                        "name": "Bufón",
+                        "release_date": "2018-06-08",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273292fbce85221ae44012a1a86",
@@ -3425,33 +3010,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
-                        },
-                        "name": "Bufón",
-                        "release_date": "2018-06-08"
+                        ]
                     },
+                    "name": "Bufón",
+                    "popularity": 52,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Bufón",
-                    "popularity": 52
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-                            },
-                            "name": "LIT killah"
+                            "name": "LIT killah",
+                            "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+                        },
+                        "name": "Apaga el celular",
+                        "release_date": "2018-05-15",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27395c628b0cdee1d3326c683c2",
@@ -3468,39 +3050,34 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-                        },
-                        "name": "Apaga el celular",
-                        "release_date": "2018-05-15"
+                        ]
                     },
+                    "name": "Apaga el Celular",
+                    "popularity": 51,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "Apaga el Celular",
-                    "popularity": 51
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-                            },
-                            "name": "Arcángel"
+                            "name": "Arcángel",
+                            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-                            },
-                            "name": "Bryant Myers"
+                            "name": "Bryant Myers",
+                            "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
+                        },
+                        "name": "Po' encima (feat. Bryant Myers)",
+                        "release_date": "2017-04-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273db44cf8f9b079c8a6149a0ca",
@@ -3517,75 +3094,58 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
-                        },
-                        "name": "Po' encima (feat. Bryant Myers)",
-                        "release_date": "2017-04-07"
+                        ]
                     },
+                    "name": "Po' encima (feat. Bryant Myers)",
+                    "popularity": 68,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Po' encima (feat. Bryant Myers)",
-                    "popularity": 68
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-                            },
-                            "name": "Boy Wonder CF"
+                            "name": "Boy Wonder CF",
+                            "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-                            },
-                            "name": "Jon Z"
+                            "name": "Jon Z",
+                            "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-                            },
-                            "name": "Baby Rasta"
+                            "name": "Baby Rasta",
+                            "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-                            },
-                            "name": "Darkiel"
+                            "name": "Darkiel",
+                            "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-                            },
-                            "name": "Messiah"
+                            "name": "Messiah",
+                            "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ"
-                            },
-                            "name": "LYAN"
+                            "name": "LYAN",
+                            "url": "https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2Lm6S3Y98EHssR7Y9teg9G"
-                            },
-                            "name": "High Quality"
+                            "name": "High Quality",
+                            "url": "https://open.spotify.com/artist/2Lm6S3Y98EHssR7Y9teg9G"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
+                        },
+                        "name": "Chosen Few: New Generation",
+                        "release_date": "2023-11-21",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273425208ac1e91e7d42e56abbf",
@@ -3602,51 +3162,42 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
-                        },
-                        "name": "Chosen Few: New Generation",
-                        "release_date": "2023-11-21"
+                        ]
                     },
+                    "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Darkiel, Messiah & Lyan]",
+                    "popularity": 70,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Darkiel, Messiah & Lyan]",
-                    "popularity": 70
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-                            },
-                            "name": "Trap Capos"
+                            "name": "Trap Capos",
+                            "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-                            },
-                            "name": "Noriel"
+                            "name": "Noriel",
+                            "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                            },
-                            "name": "Anuel AA"
+                            "name": "Anuel AA",
+                            "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-                            },
-                            "name": "Baby Rasta"
+                            "name": "Baby Rasta",
+                            "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
+                        },
+                        "name": "Trap Capos: Season 1",
+                        "release_date": "2016-10-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
@@ -3663,33 +3214,30 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
-                        },
-                        "name": "Trap Capos: Season 1",
-                        "release_date": "2016-10-07"
+                        ]
                     },
+                    "name": "Diablita (feat. Anuel AA & Baby Rasta)",
+                    "popularity": 76,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/62NeZ2Vtrz5HgtQibleMNs"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Diablita (feat. Anuel AA & Baby Rasta)",
-                    "popularity": 76
+                    "explicit": true
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-                            },
-                            "name": "KEVIN ROLDAN"
+                            "name": "KEVIN ROLDAN",
+                            "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd"
+                        },
+                        "name": "PPP",
+                        "release_date": "2018-09-07",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b273c23c6e10b4a815f16f97f5f6",
@@ -3706,45 +3254,38 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd"
-                        },
-                        "name": "PPP",
-                        "release_date": "2018-09-07"
+                        ]
                     },
+                    "name": "PPP",
+                    "popularity": 62,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS"
                     },
-                    "explicit": false,
-                    "preview_url": null,
-                    "name": "PPP",
-                    "popularity": 61
+                    "explicit": false
                 }
             },
             {
                 "track": {
                     "artists": [
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-                            },
-                            "name": "Blunted Vato"
+                            "name": "Blunted Vato",
+                            "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-                            },
-                            "name": "Kidd Keo"
+                            "name": "Kidd Keo",
+                            "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
                         },
                         {
-                            "external_urls": {
-                                "spotify": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
-                            },
-                            "name": "Neelo"
+                            "name": "Neelo",
+                            "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
                         }
                     ],
                     "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0WPliuyKkovujDcwQdnWbx"
+                        },
+                        "name": "Pikete Cabrón",
+                        "release_date": "2017-07-17",
                         "images": [
                             {
                                 "url": "https://i.scdn.co/image/ab67616d0000b2739dbbaec0dbf9aa6bf73a3eab",
@@ -3761,24 +3302,16 @@
                                 "width": 64,
                                 "height": 64
                             }
-                        ],
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/0WPliuyKkovujDcwQdnWbx"
-                        },
-                        "name": "Pikete Cabrón",
-                        "release_date": "2017-07-17"
+                        ]
                     },
+                    "name": "Pikete Cabrón",
+                    "popularity": 29,
                     "external_urls": {
                         "spotify": "https://open.spotify.com/track/3o0kr104TRi0918bQzRggs"
                     },
-                    "explicit": true,
-                    "preview_url": null,
-                    "name": "Pikete Cabrón",
-                    "popularity": 29
+                    "explicit": true
                 }
             }
         ]
-    },
-    "name": "2016 manija",
-    "description": "para cuando las pajeras de las chicas no quieran salir"
+    }
 }

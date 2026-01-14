@@ -1,0 +1,1912 @@
+{
+    "id": "1",
+    "name": "findeañooo",
+    "description": "",
+    "genres": [
+        "argentine rock",
+        "argentine trap",
+        "chamamé",
+        "chicha",
+        "cuarteto",
+        "cumbia",
+        "cumbia sonidera",
+        "guaracha",
+        "latin alternative",
+        "latin rock",
+        "murga",
+        "música mexicana",
+        "rock en español",
+        "salsa",
+        "ska",
+        "tejano",
+        "trap latino",
+        "turreo"
+    ],
+    "images": [
+        {
+            "height": null,
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841da1ce0594f16a02e6859468",
+            "width": null
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Antonio Rios",
+                            "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1zlN4wctk7ZNHfXLmAyVv1"
+                        },
+                        "name": "27 Grandes Exitos",
+                        "release_date": "2016-08-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27313703cb3da27305cd210356e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0213703cb3da27305cd210356e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485113703cb3da27305cd210356e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "La Mala Gata",
+                    "popularity": 35,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6AGZSRwhVb5QGqU8dEWpbu"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rafaga",
+                            "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+                        },
+                        {
+                            "name": "Maria Becerra",
+                            "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
+                        },
+                        "name": "Mentirosa Remix",
+                        "release_date": "2023-12-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273336f0e8a9a2b3f8ce325e83b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02336f0e8a9a2b3f8ce325e83b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851336f0e8a9a2b3f8ce325e83b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Mentirosa Remix",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Amar Azul",
+                            "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
+                        },
+                        "name": "Lo Mejor De Lo Mejor",
+                        "release_date": "1980-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273dd964a2040354bf0e98b4ac2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02dd964a2040354bf0e98b4ac2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851dd964a2040354bf0e98b4ac2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Yo Tomo Licor",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "La Mona Jimenez",
+                            "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+                        },
+                        {
+                            "name": "Hugh Padgham",
+                            "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+                        },
+                        {
+                            "name": "Sergio Oliva",
+                            "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+                        },
+                        "name": "Beso a Beso (con La Mona)",
+                        "release_date": "1998-10-06",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c9d1038079f130b7d2105510",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c9d1038079f130b7d2105510",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c9d1038079f130b7d2105510",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Beso a beso",
+                    "popularity": 53,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gilda",
+                            "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+                        },
+                        "name": "No me Arrepiento de Este Amor",
+                        "release_date": "1980-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e142abacc52590280de60a8f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e142abacc52590280de60a8f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e142abacc52590280de60a8f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "No Me Arrepiento de Este Amor",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Karina",
+                            "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q"
+                        },
+                        "name": "Sin Vergüenza",
+                        "release_date": "2009",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273041779738699d411fd759bb1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02041779738699d411fd759bb1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851041779738699d411fd759bb1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Corazon Mentiroso",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Nestor En Bloque",
+                            "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+                        },
+                        "name": "Mi Único Amor",
+                        "release_date": "2004-11-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273400272120ba6e572a4c7bb4f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02400272120ba6e572a4c7bb4f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851400272120ba6e572a4c7bb4f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Una Calle Nos Separa",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Palmeras",
+                            "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0PTgE8woYUYZUmVBx4DxwK"
+                        },
+                        "name": "Irremplazables",
+                        "release_date": "1980-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738d35c121b5b65e72452660ba",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028d35c121b5b65e72452660ba",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518d35c121b5b65e72452660ba",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Qué Quiere la Chola",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2UYmghgqstP9jz9MGpCb7v"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Karina",
+                            "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6nOG2MUSR7IFcrId5NbD70"
+                        },
+                        "name": "Con la Misma Moneda",
+                        "release_date": "2010",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f08b4878057c90439290bcf5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f08b4878057c90439290bcf5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f08b4878057c90439290bcf5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Con la Misma Moneda",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3hI96DchNoc3QXMx3PK6UO"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "El Polaco",
+                            "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+                        },
+                        "name": "Sigo Por El Objetivo",
+                        "release_date": "2007-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273beb30965c7b38e9a023ac899",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02beb30965c7b38e9a023ac899",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851beb30965c7b38e9a023ac899",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Deja De Llorar",
+                    "popularity": 63,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rafaga",
+                            "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+                        },
+                        "name": "Lo mejor de Ráfaga",
+                        "release_date": "1980-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ad8b9c0c96da03ef9ab9b0c4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ad8b9c0c96da03ef9ab9b0c4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ad8b9c0c96da03ef9ab9b0c4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Una Ráfaga de Amor",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Super Quinteto",
+                            "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1zOcscHPcobVELNGtJqe3w"
+                        },
+                        "name": "Super Quinteto",
+                        "release_date": "2005-01-22",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730fcc286237832ab3d255de16",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020fcc286237832ab3d255de16",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510fcc286237832ab3d255de16",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Bombon asesino (Hecho éxito por Los Palmeras)",
+                    "popularity": 26,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5Y1pQgaRCOR5dWaHOOfCUl"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rodrigo",
+                            "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1"
+                        },
+                        "name": "Cuartetero y Cordobés",
+                        "release_date": "2012-08-13",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d4d8f04a529fee09f7d9333f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d4d8f04a529fee09f7d9333f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d4d8f04a529fee09f7d9333f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Lo Mejor del Amor",
+                    "popularity": 47,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Selena",
+                            "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+                        },
+                        "name": "Amor Prohibido",
+                        "release_date": "1994",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c26a4f2195b3ecf63d2a30ae",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c26a4f2195b3ecf63d2a30ae",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c26a4f2195b3ecf63d2a30ae",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Amor Prohibido",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Sabroso",
+                            "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
+                        },
+                        "name": "Sabroso",
+                        "release_date": "2001-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27372a29d84aa70b9603deb3a54",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0272a29d84aa70b9603deb3a54",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485172a29d84aa70b9603deb3a54",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Llegó Tu Papi",
+                    "popularity": 59,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Walter Olmos",
+                            "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+                        },
+                        "name": "20 años de cumbia - Los mejores exitos de 1990 - 2010",
+                        "release_date": "2010-04-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27348c0f927540151865129e9cb",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0248c0f927540151865129e9cb",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485148c0f927540151865129e9cb",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Por lo que yo te quiero",
+                    "popularity": 57,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agapornis",
+                            "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3HZYz8zwaylv9XeIIlLzAX"
+                        },
+                        "name": "Agapornis - Volando Con Ritmo",
+                        "release_date": "2012-10-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b92bc9f70f83959be25b1964",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b92bc9f70f83959be25b1964",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b92bc9f70f83959be25b1964",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Persiana Americana",
+                    "popularity": 48,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4amGeAvkzFunJTHZ0KJZba"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Auténticos Decadentes",
+                            "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2u6Qss7iielaR2Je3mQnl7"
+                        },
+                        "name": "Cualquiera Puede Cantar",
+                        "release_date": "1997-10-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c0fb1647000b8336bb0f04c2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c0fb1647000b8336bb0f04c2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c0fb1647000b8336bb0f04c2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Los Piratas",
+                    "popularity": 55,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4vtaM6xsM7V8R1sJseCWHu"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Karina",
+                            "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q"
+                        },
+                        "name": "Sin Vergüenza",
+                        "release_date": "2009",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273041779738699d411fd759bb1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02041779738699d411fd759bb1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851041779738699d411fd759bb1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Sin Vergüenza",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/18mFbWoxPKmeWBUZV3cZMQ"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Ángeles Azules",
+                            "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+                        },
+                        {
+                            "name": "Emilia",
+                            "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
+                        },
+                        "name": "Perdonarte, ¿Para Qué?",
+                        "release_date": "2024-05-23",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f975282219ded7470e667000",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f975282219ded7470e667000",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f975282219ded7470e667000",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Perdonarte, ¿Para Qué?",
+                    "popularity": 76,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jambao",
+                            "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/47OsO3TSiXsdsEY4UoH19h"
+                        },
+                        "name": "Separece A Ti",
+                        "release_date": "2007-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d2058f8dce6d83975ddf3d61",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d2058f8dce6d83975ddf3d61",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d2058f8dce6d83975ddf3d61",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Se Parece Más A Ti",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2EsuDnVRUz7LwJI2TrSv6L"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Palmeras",
+                            "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                        },
+                        {
+                            "name": "Onda Sabanera",
+                            "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+                        },
+                        "name": "Voló la Paloma",
+                        "release_date": "1999-03-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736665b7cb7ed27000d3d9cf1a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026665b7cb7ed27000d3d9cf1a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516665b7cb7ed27000d3d9cf1a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Olvídala",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Alcides",
+                            "url": "https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1NL2YOtIloS3ByIqlNBurg"
+                        },
+                        "name": "Violeta",
+                        "release_date": "2015-09-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273290fc5829e035cb0d9e56992",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02290fc5829e035cb0d9e56992",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851290fc5829e035cb0d9e56992",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Violeta",
+                    "popularity": 56,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2THmcJIDCd4jtjAu16u9PO"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rodrigo",
+                            "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+                        },
+                        "name": "Cuarteteando",
+                        "release_date": "1998-08-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736cad176e0218599f4bca434c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026cad176e0218599f4bca434c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516cad176e0218599f4bca434c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Ocho Cuarenta",
+                    "popularity": 63,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rodrigo",
+                            "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+                        },
+                        "name": "Cuarteto Característico (A2000)",
+                        "release_date": "2000-08-12",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731c8d531e581a1d34741e4d04",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021c8d531e581a1d34741e4d04",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511c8d531e581a1d34741e4d04",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Soy Cordobes",
+                    "popularity": 59,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agrupación Marilyn",
+                            "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+                        },
+                        "name": "Historias",
+                        "release_date": "2006-12-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273940ad98cf9b38ab8d659b7fc",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02940ad98cf9b38ab8d659b7fc",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851940ad98cf9b38ab8d659b7fc",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Me Enamore",
+                    "popularity": 63,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Ulises Bueno",
+                            "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
+                        },
+                        "name": "Soy",
+                        "release_date": "2015-10-13",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27379bd1b4a74b1b64fb5ab4361",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0279bd1b4a74b1b64fb5ab4361",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485179bd1b4a74b1b64fb5ab4361",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Intento",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "La Base",
+                            "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+                        },
+                        "name": "Parulo",
+                        "release_date": "2003-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e512b6aca1a4cd9dbc318e88",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e512b6aca1a4cd9dbc318e88",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e512b6aca1a4cd9dbc318e88",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Sabrosón",
+                    "popularity": 60,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Palmeras",
+                            "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+                        },
+                        "name": "Sin Fronteras",
+                        "release_date": "2009-12-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273447f68249c2262394b4abcb0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02447f68249c2262394b4abcb0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851447f68249c2262394b4abcb0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Perra",
+                    "popularity": 57,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0ZmWZ5BcdtbozMK7e5I4u6"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "La Champions Liga",
+                            "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+                        },
+                        "name": "La Champions Liga",
+                        "release_date": "2010-02-07",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f763967ef914f373262c4513",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f763967ef914f373262c4513",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f763967ef914f373262c4513",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Dime si eres feliz",
+                    "popularity": 59,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los del Fuego",
+                            "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
+                        },
+                        "name": "Somos los Mejores... Y Que Sigan Participando",
+                        "release_date": "2011-04-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273727b95073f594dac6fa878c6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02727b95073f594dac6fa878c6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851727b95073f594dac6fa878c6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Donde Estas Corazón",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gilda",
+                            "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+                        },
+                        "name": "Corazón Valiente",
+                        "release_date": "1996",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fe25c18e2c5fcedf0c86f091",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fe25c18e2c5fcedf0c86f091",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fe25c18e2c5fcedf0c86f091",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Fuiste",
+                    "popularity": 61,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agapornis",
+                            "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3HZYz8zwaylv9XeIIlLzAX"
+                        },
+                        "name": "Agapornis - Volando Con Ritmo",
+                        "release_date": "2012-10-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b92bc9f70f83959be25b1964",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b92bc9f70f83959be25b1964",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b92bc9f70f83959be25b1964",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Si Te Vas",
+                    "popularity": 53,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3HoTiqEEY2SmTeq1XGINo3"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agapornis",
+                            "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+                        },
+                        {
+                            "name": "Pimpinela",
+                            "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6AoUSNt7JKKY0Gqi0gEl0n"
+                        },
+                        "name": "Juntos",
+                        "release_date": "2013-12-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737208cf22e7e5a552d689226b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027208cf22e7e5a552d689226b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517208cf22e7e5a552d689226b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "A Esa (feat. Pimpinela)",
+                    "popularity": 42,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2F7NY3cAA3YcKaLRVSmPSC"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agapornis",
+                            "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/45J24eNEQUEY3GNo44xgkw"
+                        },
+                        "name": "De Bailadeta",
+                        "release_date": "2015-12-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273658195e3fbc6cb971f2254a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02658195e3fbc6cb971f2254a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851658195e3fbc6cb971f2254a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Le Hace Falta un Beso",
+                    "popularity": 54,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/300xUYXWhFA6Q1sbNvVItP"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agapornis",
+                            "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3FkNfMOBf4yMZJJEOwGcb4"
+                        },
+                        "name": "Sigue Y Sigue",
+                        "release_date": "2013-06-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738391325a64ec33fc2fdc40db",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028391325a64ec33fc2fdc40db",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518391325a64ec33fc2fdc40db",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "La Llave",
+                    "popularity": 44,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1v78qANb9b176fgEzR2eaW"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "El Super Hobby",
+                            "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
+                        },
+                        "name": "Fuego en la Noche",
+                        "release_date": "2015-10-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737e652a5174ba457fe6c30e43",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027e652a5174ba457fe6c30e43",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517e652a5174ba457fe6c30e43",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Chica Brasileña",
+                    "popularity": 54,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Palmeras",
+                            "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+                        },
+                        "name": "Tiempo De Bailar",
+                        "release_date": "2016-12-16",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273439db8832312262459046c84",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02439db8832312262459046c84",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851439db8832312262459046c84",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "La Cola",
+                    "popularity": 61,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Agrupación Marilyn",
+                            "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+                        },
+                        "name": "Historias",
+                        "release_date": "2006-12-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273940ad98cf9b38ab8d659b7fc",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02940ad98cf9b38ab8d659b7fc",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851940ad98cf9b38ab8d659b7fc",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Su Florcita",
+                    "popularity": 60,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rafaga",
+                            "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+                        },
+                        "name": "Una Cerveza",
+                        "release_date": "2016-01-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273efb3ab9c0bbc31da0be962a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02efb3ab9c0bbc31da0be962a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851efb3ab9c0bbc31da0be962a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Una Cerveza",
+                    "popularity": 69,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gilda",
+                            "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+                        },
+                        "name": "Corazón Valiente",
+                        "release_date": "1996",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fe25c18e2c5fcedf0c86f091",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fe25c18e2c5fcedf0c86f091",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fe25c18e2c5fcedf0c86f091",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Paisaje",
+                    "popularity": 61,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5kTBOyDZXWayo6IseCHIk8"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Palmeras",
+                            "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+                        },
+                        "name": "Sin Fronteras",
+                        "release_date": "2009-12-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273447f68249c2262394b4abcb0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02447f68249c2262394b4abcb0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851447f68249c2262394b4abcb0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "El Embrujo",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Los Ángeles Azules",
+                            "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+                        },
+                        {
+                            "name": "Maria Becerra",
+                            "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+                        },
+                        "name": "Se Agradece",
+                        "release_date": "2024-04-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a96e0f1e5c4e01b7a9dc6255",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a96e0f1e5c4e01b7a9dc6255",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a96e0f1e5c4e01b7a9dc6255",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "El Amor de Mi Vida",
+                    "popularity": 70,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0N5qTofETElfJvRvpF3Mk6"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gilda",
+                            "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+                        },
+                        "name": "Los Más Grandes Exitos",
+                        "release_date": "2004",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731e58f18d0674aad7ebd6ab40",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021e58f18d0674aad7ebd6ab40",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511e58f18d0674aad7ebd6ab40",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "No Es Mi Despedida",
+                    "popularity": 53,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Cazzu",
+                            "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
+                        },
+                        "name": "Con otra",
+                        "release_date": "2025-03-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737dd25ef23df4dc7ab5c4b2f8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027dd25ef23df4dc7ab5c4b2f8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517dd25ef23df4dc7ab5c4b2f8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Con otra",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "#TocoParaVos",
+                            "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+                        },
+                        {
+                            "name": "Meri Deal",
+                            "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+                        },
+                        {
+                            "name": "Bauti Mascia",
+                            "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+                        },
+                        "name": "#Tocoparavos",
+                        "release_date": "2016-06-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27327be7e074d2a16162484705c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0227be7e074d2a16162484705c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485127be7e074d2a16162484705c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Sólo necesito",
+                    "popularity": 60,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7kK1cPOZ9RxZcgamiYysxw"
+                    },
+                    "explicit": false
+                }
+            }
+        ]
+    }
+}
