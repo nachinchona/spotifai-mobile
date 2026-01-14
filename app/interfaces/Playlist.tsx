@@ -30,6 +30,7 @@ export interface Playlist {
   id: number;
   name: string;
   description: string;
+  genres: string[]; 
   images: Array<{ url: string }>;
   tracks: {
     items: PlaylistTrackItem[];

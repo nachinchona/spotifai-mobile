@@ -1,8 +1,28 @@
 import { useRouter } from "expo-router";
-import { useEffect, useState } from "react";
-import { ActivityIndicator, FlatList, Image, Pressable, StyleSheet, Text, View } from "react-native";
+import { useEffect, useMemo, useState } from "react";
+import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from './interfaces/Playlist';
+
+//label será lo que se muestre, mientras que el id va a ser el valor que comparemos con el JSON
+const FILTROS = [
+  { id: "Todos", label: "Todos" },
+  { id: "Popular", label: "🔥 Más Populares" }, 
+  { id: "argentine rock", label: "🇦🇷 Rock Nacional" },
+  { id: "pop", label: "🎤 Pop" },
+  { id: "cumbia", label: "🌴 Cumbia" },
+  { id: "indie", label: "🎸 Indie" },
+  { id: "hip hop", label: "🎧 Hip Hop" },
+];
+// Mapeo de géneros para mostrar nombres más sencillos
+const GENRE_TRANSLATIONS: Record<string, string> = {
+  "argentine rock": "Rock Nacional",
+  "pop": "Pop Internacional",
+  "cumbia": "Cumbia",
+  "indie": "Indie Alternativo",
+  "hip hop": "Hip Hop / Rap",
+  // Si un género no está en este mapeo, se mostrará tal cual viene del JSON
+};
 
 const PlaylistsScreen = () => {
   const router = useRouter()
@@ -10,6 +30,9 @@ const PlaylistsScreen = () => {
   const [loading, setLoading] = useState(true)
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
+  
+  
+  const [activeFilterId, setActiveFilterId] = useState("Todos");
 
   const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
   const PORT = "3000"
@@ -58,11 +81,54 @@ const PlaylistsScreen = () => {
     fetchPlaylists()
   }, [])
 
+  const filteredPlaylists = useMemo(() => {
+    let result = [...playlists];
+
+  
+    if (activeFilterId === "Todos") {
+      return result;
+    }
+
+    if (activeFilterId === "Popular") {
+      return result.sort((a, b) => {
+        const getAvgPop = (playlist: Playlist) => {
+          const tracks = playlist.tracks?.items || [];
+          if (tracks.length === 0) return 0;
+          const sum = tracks.reduce((acc, item) => acc + (item.track?.popularity || 0), 0);
+          return sum / tracks.length;
+        };
+        return getAvgPop(b) - getAvgPop(a); 
+      });
+    }
+
+   
+    return result.filter(p => 
+      p.genres && p.genres.some(genre => genre.toLowerCase() === activeFilterId.toLowerCase()
+      )
+    );
+
+  }, [playlists, activeFilterId]);
+
+  const formatGenresList = (genres: string[]) => {
+    if (!genres || genres.length === 0) return "Varios";
+    return genres
+      .slice(0, 3)
+      .map(g => GENRE_TRANSLATIONS[g.toLowerCase()] || g) 
+      .join(" • "); 
+  };
+
   const renderItem = ({ item }: { item: Playlist }) => (
     <View style={styles.card}>
-      <Image source={{ uri: item.images?.[0]?.url }} style={styles.playlistImage} />
+      <Image 
+        source={{ uri: item.images?.[0]?.url || 'https://via.placeholder.com/100' }} 
+        style={styles.playlistImage} 
+      />
       <View style={styles.textContainer}>
         <Text style={styles.playlistName}>{item.name}</Text>
+        <Text style={styles.genreTag}>
+          {formatGenresList(item.genres)}
+        </Text>
+
         <Text style={styles.playlistDescription} numberOfLines={2}>
           {item.description}
         </Text>
@@ -70,6 +136,30 @@ const PlaylistsScreen = () => {
       </View>
     </View>
   )
+
+  const renderTabs = () => (
+    <View style={styles.tabsContainer}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingHorizontal: 5 }}>
+        {FILTROS.map((filtro) => (
+          <Pressable
+            key={filtro.id}
+            onPress={() => setActiveFilterId(filtro.id)}
+            style={[
+              styles.tabButton,
+              activeFilterId === filtro.id && styles.tabButtonActive
+            ]}
+          >
+            <Text style={[
+              styles.tabText,
+              activeFilterId === filtro.id && styles.tabTextActive
+            ]}>
+              {filtro.label}
+            </Text>
+          </Pressable>
+        ))}
+      </ScrollView>
+    </View>
+  );
 
   if (error) {
     return (
@@ -93,22 +183,26 @@ const PlaylistsScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
-        
         <Text style={styles.headerTitle}>Mis Playlists</Text>
       </View>
+      {renderTabs()}
 
-      {!loading && playlists.length === 0 ? (
+      {!loading && filteredPlaylists.length === 0 ? (
         <View style={styles.centerContainer}>
-          <Text style={styles.emptyText}>No hay playlists disponibles</Text>
+          <Text style={styles.emptyText}>
+            {activeFilterId === "Todos" 
+              ? "No hay playlists disponibles" 
+              : "No se encontraron resultados"}
+          </Text>
         </View>
       ) : (
         <FlatList
-          data={playlists}
+          data={filteredPlaylists}
           renderItem={renderItem}
           keyExtractor={(item) => item.id.toString()}
-          onEndReached={fetchPlaylists}
+          onEndReached={activeFilterId === "Todos" ? fetchPlaylists : null}
           onEndReachedThreshold={0.5}
-          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" /> : null}
+          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{marginTop: 20}} /> : null}
           contentContainerStyle={{ paddingBottom: 20 }}
         />
       )}
@@ -145,6 +239,35 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     flex: 1,
   },
+  // ESTILOS TABS
+  tabsContainer: {
+    marginBottom: 15,
+    height: 40,
+  },
+  tabButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderRadius: 20,
+    backgroundColor: "#1e1e1e",
+    marginRight: 10,
+    borderWidth: 1,
+    borderColor: "#333",
+    justifyContent: 'center',
+  },
+  tabButtonActive: {
+    backgroundColor: "#1DB954",
+    borderColor: "#1DB954",
+  },
+  tabText: {
+    color: "#b3b3b3",
+    fontSize: 14,
+    fontWeight: "600",
+  },
+  tabTextActive: {
+    color: "#000000",
+    fontWeight: "bold",
+  },
+  // ESTILOS CARD
   card: {
     flexDirection: "row",
     backgroundColor: "#1e1e1e",
@@ -156,6 +279,7 @@ const styles = StyleSheet.create({
   playlistImage: {
     width: 100,
     height: 100,
+    alignSelf: 'center',
   },
   textContainer: {
     flex: 1,
@@ -167,21 +291,30 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: "bold",
   },
+  
+  genreTag: {
+    color: "#1DB954",
+    fontSize: 11,
+    fontWeight: "bold",
+    marginBottom: 4,
+    marginTop: 2,
+    textTransform: 'capitalize'
+  },
   playlistDescription: {
     color: "#b3b3b3",
     fontSize: 12,
-    marginTop: 4,
+    marginTop: 2,
   },
   trackCount: {
-    color: "#1DB954",
+    color: "#777",
     fontSize: 11,
-    marginTop: 8,
-    fontWeight: "bold",
+    marginTop: 6,
   },
   centerContainer: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+    minHeight: 200,
   },
   errorText: {
     color: "#ff4444",
