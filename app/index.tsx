@@ -40,7 +40,7 @@ const PlaylistsScreen = () => {
 
   const fetchPlaylists = async () => {
     if (!IP_ADDRESS) {
-      setError("Error: EXPO_PUBLIC_IP_ADDRESS no esta configurada")
+      setError("Error: EXPO_PUBLIC_IP_ADDRESS no está configurada")
       setLoading(false)
       return
     }

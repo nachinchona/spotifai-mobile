@@ -1,4 +1,4 @@
-import AsyncStorage from "@react-native-async-storage/async-storage"; // <--- Importar esto
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { LinearGradient } from "expo-linear-gradient";
 import { useRouter } from "expo-router";
 import { Image, Pressable, StyleSheet, Text, View } from "react-native";
@@ -11,8 +11,6 @@ export default function OnboardingScreen() {
     try {
       await AsyncStorage.setItem('hasSeenOnboarding', 'true');
       
-      // CORRECCIÓN: La ruta raíz es "/"
-      // "index" a veces falla, y "playlists" no existe.
       router.replace("/"); 
       
     } catch (error) {
