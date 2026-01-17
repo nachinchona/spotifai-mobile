@@ -1,4 +1,4 @@
-const { type } = require('express/lib/response');
+require('dotenv').config();
 const { loadPlaylists, writePlaylist } = require('../models/loadPlaylists');
 
 const crearPlaylist = (req, res) => {
@@ -56,7 +56,7 @@ const editarPlaylist = (req, res) => {
 const obtenerPlaylistPorID = (req, res) => {
     const idPlaylist = parseInt(req.params.idPlaylist);
     const playlists = loadPlaylists();
-    const playlistIndex = playlists.findIndex(p => p.id === idPlaylist);
+    const playlistIndex = playlists.findIndex(p => parseInt(p.id) === idPlaylist);
 
     if (!idPlaylist) {
         return res.status(400).json({ message: 'Id no especificada' });
@@ -98,4 +98,33 @@ const obtenerPlaylistsPaginadas = (req, res) => {
     });
 };
 
-module.exports = { crearPlaylist, editarPlaylist, obtenerPlaylistPorID, obtenerPlaylistsPaginadas };
+const getPreview = require('spotify-preview-finder');
+
+const refreshPreviewUrls = async (req, res) => {
+    try {
+        const { tracks } = req.body;
+        const enrichedTracks = [];
+
+        for (const track of tracks) {
+            try {
+                const name = track.track.name;
+                const artist = track.track.artists[0].name;
+                const result = await getPreview(`${name}`, `${artist}`, 2);
+                if (result.success && result.results.length > 0 && result.results[0].previewUrls.length > 0) {
+                    const previewUrl = result.results[0].previewUrls[0];
+                    enrichedTracks.push({
+                        track: track.track, preview_url: previewUrl 
+                    });
+                }
+            } catch (err) {
+                console.log("Resultado de la librería:", JSON.stringify(result, null, 2));
+            }
+        }
+
+        res.json({ items: enrichedTracks });
+    } catch (error) {
+        res.status(500).json({ error: "Error actualizando la playlist" });
+    }
+};
+
+module.exports = { crearPlaylist, editarPlaylist, obtenerPlaylistPorID, obtenerPlaylistsPaginadas, refreshPreviewUrls };

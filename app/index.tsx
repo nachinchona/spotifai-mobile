@@ -2,7 +2,7 @@ import { useRouter } from "expo-router";
 import { useEffect, useMemo, useState } from "react";
 import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { Playlist } from './interfaces/Playlist';
+import { Playlist } from '../interfaces/Playlist';
 
 //label será lo que se muestre, mientras que el id va a ser el valor que comparemos con el JSON
 const FILTROS = [
@@ -30,7 +30,6 @@ const PlaylistsScreen = () => {
   const [loading, setLoading] = useState(true)
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
-  
   
   const [activeFilterId, setActiveFilterId] = useState("Todos");
 
@@ -84,7 +83,6 @@ const PlaylistsScreen = () => {
   const filteredPlaylists = useMemo(() => {
     let result = [...playlists];
 
-  
     if (activeFilterId === "Todos") {
       return result;
     }
@@ -101,7 +99,6 @@ const PlaylistsScreen = () => {
       });
     }
 
-   
     return result.filter(p => 
       p.genres && p.genres.some(genre => genre.toLowerCase() === activeFilterId.toLowerCase()
       )
@@ -117,10 +114,14 @@ const PlaylistsScreen = () => {
       .join(" • "); 
   };
 
+  const handlePress = (playlistID : string) => {
+    router.push(`/playlist/${playlistID}`);
+  }
+
   const renderItem = ({ item }: { item: Playlist }) => (
-    <View style={styles.card}>
+    <Pressable style={styles.card} onPress={() => {handlePress(String(item.id)); console.log(item.id);}}>
       <Image 
-        source={{ uri: item.images?.[0]?.url || 'https://via.placeholder.com/100' }} 
+        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }} 
         style={styles.playlistImage} 
       />
       <View style={styles.textContainer}>
@@ -134,7 +135,7 @@ const PlaylistsScreen = () => {
         </Text>
         <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
       </View>
-    </View>
+    </Pressable>
   )
 
   const renderTabs = () => (

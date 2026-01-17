@@ -1,14 +1,32 @@
 import requests
 import json
-import base64
-import time
+import os
+import re
+from pathlib import Path
+from dotenv import load_dotenv
+import requests
 
 # --- CONFIGURACIÓN ---
-CLIENT_ID = '' # Ejemplo: 'AQUI_VA_TU_CLIENT_ID'
-CLIENT_SECRET = '' # Ejemplo: 'AQUI_VA_TU_CLIENT_SECRET'
-PLAYLIST_ID = '' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
+load_dotenv()
+SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
+SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+IP_ADDRESS = os.getenv('EXPO_PUBLIC_IP_ADDRESS')
+PLAYLIST_ID = '4t2eOTOZsNbSVB2Hdhm9yE' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
+FOLDER_PATH = './api/public/json/'
 
-NOMBRE_ARCHIVO = ""# Ejemplo: 'mi_playlist.json'
+def get_next_playlist_id():
+    folder = Path(FOLDER_PATH)
+    
+    # 1. Ensure the folder exists, otherwise count is 0
+    if not folder.exists():
+        return 1
+    
+    # 2. Count only files (ignoring subdirectories)
+    # Using .glob('*') gets everything, .is_file() filters them
+    files = [f for f in folder.iterdir() if f.is_file()]
+    
+    # Return the count + 1 for the new ID
+    return len(files) + 1
 
 def obtener_token(client_id, client_secret):
     auth_url = "https://accounts.spotify.com/api/token"
@@ -99,30 +117,52 @@ def generar_json_estricto(playlist_id, token):
         
         clean_items.append(track_obj)
 
+    new_id = get_next_playlist_id()
+    
+    try:
+       response = requests.post(
+            f"http://{IP_ADDRESS+":3000"}/api/playlist/refresh",
+            json={'tracks': clean_items},
+            timeout=120
+        )
+    except requests.exceptions.Timeout:
+        print("Error: La API de Node tardó demasiado en responder.")
+
+    items_with_audio = response.json()['items']
+
     final_output = {
-        "id": raw_data['id'],
+        "id": new_id,
         "name": raw_data['name'],
         "description": raw_data['description'],
         "genres": sorted_genres,
         "images": raw_data['images'],
         "tracks": {
-            "items": clean_items
+            "items": items_with_audio
         }
     }
     
     return final_output
 
+def slugify_filename(text):
+    text = text.lower()
+    # [^\w\s-] matches anything that is NOT a word character, space, or hyphen
+    text = re.sub(r'[^\w\s-]', '', text)
+    # Replace whitespace with a single hyphen
+    return re.sub(r'[-\s]+', '-', text).strip('-')
+
 if __name__ == "__main__":
-    if "AQUI" in CLIENT_ID:
+    if SPOTIFY_CLIENT_ID is None:
         print("[ALERTA] Edita el archivo y coloca tu CLIENT_ID y CLIENT_SECRET.")
     else:
-        token = obtener_token(CLIENT_ID, CLIENT_SECRET)
+        token = obtener_token(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET)
         if token:
             datos = generar_json_estricto(PLAYLIST_ID, token)
+            nombre_playlist = slugify_filename(datos["name"])+'.json'
+            ruta_final = FOLDER_PATH + nombre_playlist
             if datos:
                 try:
-                    with open(NOMBRE_ARCHIVO, 'w', encoding='utf-8') as f:
+                    with open(ruta_final , 'w', encoding='utf-8') as f:
                         json.dump(datos, f, indent=4, ensure_ascii=False)
-                    print(f"[EXITO] Archivo generado correctamente: {NOMBRE_ARCHIVO}")
+                    print(f"[EXITO] Archivo generado correctamente: {nombre_playlist}")
                 except Exception as e:
                     print(f"[ERROR] No se pudo guardar el archivo: {e}")
