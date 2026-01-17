@@ -119,7 +119,7 @@ const PlaylistsScreen = () => {
   }
 
   const renderItem = ({ item }: { item: Playlist }) => (
-    <Pressable style={styles.card} onPress={() => {handlePress(String(item.id)); console.log(item.id);}}>
+    <Pressable style={styles.card} onPress={() => {handlePress(String(item.id));}}>
       <Image 
         source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }} 
         style={styles.playlistImage} 

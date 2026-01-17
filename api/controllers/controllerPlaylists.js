@@ -104,23 +104,28 @@ const refreshPreviewUrls = async (req, res) => {
     try {
         const { tracks } = req.body;
         const enrichedTracks = [];
+        const LIMIT = 100;
+        let i = 0;
 
         for (const track of tracks) {
             try {
                 const name = track.track.name;
                 const artist = track.track.artists[0].name;
-                const result = await getPreview(`${name}`, `${artist}`, 2);
+                const result = await getPreview(`${name}`, `${artist}`, 1);
                 if (result.success && result.results.length > 0 && result.results[0].previewUrls.length > 0) {
                     const previewUrl = result.results[0].previewUrls[0];
                     enrichedTracks.push({
                         track: track.track, preview_url: previewUrl 
                     });
                 }
+                i++;
+                console.log("Canción " + i + " procesada: " + artist + " - " + name)
+                if (i === LIMIT) break;
             } catch (err) {
                 console.log("Resultado de la librería:", JSON.stringify(result, null, 2));
             }
         }
-
+        console.log("---====== PROCESAMIENTO TERMINADO ======---")
         res.json({ items: enrichedTracks });
     } catch (error) {
         res.status(500).json({ error: "Error actualizando la playlist" });

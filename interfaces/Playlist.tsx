@@ -16,7 +16,7 @@ export interface TrackPlayer {
   track: Track;
   previewUrl: string | null;
   currentPlayingId: string | null;
-  isPlaying: boolean
+  isPlaying: boolean;
   onPlayPress: (id: string, url: string | null) => void;
 }
 

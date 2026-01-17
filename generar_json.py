@@ -11,21 +11,17 @@ load_dotenv()
 SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 IP_ADDRESS = os.getenv('EXPO_PUBLIC_IP_ADDRESS')
-PLAYLIST_ID = '4t2eOTOZsNbSVB2Hdhm9yE' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
+PLAYLIST_ID = '76FVXYDRxyRu1meGRQdi4Q' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
 FOLDER_PATH = './api/public/json/'
 
 def get_next_playlist_id():
     folder = Path(FOLDER_PATH)
     
-    # 1. Ensure the folder exists, otherwise count is 0
     if not folder.exists():
         return 1
     
-    # 2. Count only files (ignoring subdirectories)
-    # Using .glob('*') gets everything, .is_file() filters them
     files = [f for f in folder.iterdir() if f.is_file()]
     
-    # Return the count + 1 for the new ID
     return len(files) + 1
 
 def obtener_token(client_id, client_secret):
@@ -123,7 +119,7 @@ def generar_json_estricto(playlist_id, token):
        response = requests.post(
             f"http://{IP_ADDRESS+":3000"}/api/playlist/refresh",
             json={'tracks': clean_items},
-            timeout=120
+            timeout=300
         )
     except requests.exceptions.Timeout:
         print("Error: La API de Node tardó demasiado en responder.")

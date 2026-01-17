@@ -1,0 +1,3885 @@
+{
+    "id": 5,
+    "name": "visual kei",
+    "description": "vkei songs i like from all different subgenres! (meno and naochi from dennou himeca in pic)",
+    "genres": [
+        "anime",
+        "happy hardcore",
+        "hardcore techno",
+        "j-pop",
+        "j-rock",
+        "kayokyoku",
+        "kizomba",
+        "power metal",
+        "shibuya-kei",
+        "speedcore",
+        "symphonic metal",
+        "visual kei",
+        "zouk"
+    ],
+    "images": [
+        {
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842268578c1421fe5300c76dfd",
+            "width": null
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "KAMIJO",
+                            "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2G25RxeTPDX38RlO7r5StG"
+                        },
+                        "name": "Heart",
+                        "release_date": "2014-09-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730299d4b65c5ad3fedd71fdba",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020299d4b65c5ad3fedd71fdba",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510299d4b65c5ad3fedd71fdba",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Louis 〜艶血のラヴィアンローズ〜 - Symphonic Metal Version",
+                    "popularity": 22,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4zUEAxAxyWP8OZbeBfr5xt"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2390d25c096f5b40bfe6b9d1074730e3330448de"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Versailles",
+                            "url": "https://open.spotify.com/artist/3suWpKrodV4J0ozhubrmir"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7a0wAMDpLhMF5r9U1pDnZb"
+                        },
+                        "name": "The Greatest Hits 2007-2016",
+                        "release_date": "2016-09-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ff8351800b39315096d7901a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ff8351800b39315096d7901a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ff8351800b39315096d7901a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "The Revenant Choir",
+                    "popularity": 33,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3BxWKQKVy5E33LFQl40Jlz"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d55cc2532b0124947bc16360ae769ccc8a434393"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kaya",
+                            "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT"
+                        },
+                        "name": "GOTHIC(A-type)",
+                        "release_date": "2013-12-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27320d6195324e06a09831ab948",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0220d6195324e06a09831ab948",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485120d6195324e06a09831ab948",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Vampire Requiem",
+                    "popularity": 44,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d2c5e3fbd5bc28faee7d9e78b56f35542b2f17c1"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "JVM Roses Blood Symphony",
+                            "url": "https://open.spotify.com/artist/5ch4R7MYTiqAcfb4Ig6cSt"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4dGtND8i4qXqtV1DkNnZYW"
+                        },
+                        "name": "協奏曲 〜耽美なる血統〜",
+                        "release_date": "2023-09-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730b2447c0574d257d971db39b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020b2447c0574d257d971db39b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510b2447c0574d257d971db39b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "協奏曲 〜耽美なる血統〜",
+                    "popularity": 35,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2ynnDxWzNtn6VsfZnqq6OJ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3c144b1f65a6758059228bc8932d218d007d74a3"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Matenrou Opera",
+                            "url": "https://open.spotify.com/artist/1Gnhms6SzyrrdDCTYGr8Ce"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6G3bq5NzAvAZnShVS26ZTO"
+                        },
+                        "name": "Shinjitsu wo shittiku monogatari",
+                        "release_date": "2022-06-22",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b6d2eb29c7fb13d3a1e31c25",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b6d2eb29c7fb13d3a1e31c25",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b6d2eb29c7fb13d3a1e31c25",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hakanakukieruainosanka",
+                    "popularity": 19,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/22S4QzQncEzN5vhj1K0MlN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c4685f8980360be4e722d06763736ba403eac4cc"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jupiter",
+                            "url": "https://open.spotify.com/artist/4tdWMno08N3B8MW64NjTuK"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/41NBQR0qwlZy6VdK373MuK"
+                        },
+                        "name": "LAST MOMENT",
+                        "release_date": "2014-03-12",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27370b250304cd53a7155ad865d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0270b250304cd53a7155ad865d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485170b250304cd53a7155ad865d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "LAST MOMENT",
+                    "popularity": 19,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3kkOUyqMIc1bLPDm0iLO7J"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/60cfb92ecf75510e781d9e0635fd49bd5f3bb6b6"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Sito Magus",
+                            "url": "https://open.spotify.com/artist/0ZUfsj4IW5S31UZbFpmofg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6VhCFiFHKGu5CuTXhQgREW"
+                        },
+                        "name": "Grimorium Verum",
+                        "release_date": "2012-03-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b01b8b4b90cd8c4f754776e7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b01b8b4b90cd8c4f754776e7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b01b8b4b90cd8c4f754776e7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Vampire Romance",
+                    "popularity": 33,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0bXwQGbQoaKKsZT1p0lSfU"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/bc141769ef8ecc6c30048bc6cc41006bd94d8419"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Angels' Temptation",
+                            "url": "https://open.spotify.com/artist/17TgMbNCwOSo2KN2s9Qtia"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6KhAYL1DAqUkpepNWnRQyy"
+                        },
+                        "name": "Ghost",
+                        "release_date": "2020-10-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273912477199df3aad0ca877576",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02912477199df3aad0ca877576",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851912477199df3aad0ca877576",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Ghost",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/30m83nBvL3gIejCWh3r1ae"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1b945f4f2f73a335622751c8f193bd1ac742583a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Scarlet Valse",
+                            "url": "https://open.spotify.com/artist/3HAK1BonZvjROjAS454T5m"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1ipEyfwnbEOTqhdqJexP4S"
+                        },
+                        "name": "Darkness Circus",
+                        "release_date": "2016-10-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b3040e531b52ea9338fc50f2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b3040e531b52ea9338fc50f2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b3040e531b52ea9338fc50f2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "揚羽蝶乃夢",
+                    "popularity": 4,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2Svf95LCoenV0YelKgGkZE"
+                    },
+                    "explicit": true
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d1ed7b048860188b8497e601d1c982794d19ddca"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "LAREINE",
+                            "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4Xe373iQnFnCdd1rIaIQWO"
+                        },
+                        "name": "Winter Romantic",
+                        "release_date": "2006-03-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27348ec5cb1dd5aa7b7085ab0ba",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0248ec5cb1dd5aa7b7085ab0ba",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485148ec5cb1dd5aa7b7085ab0ba",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "極東の恋人",
+                    "popularity": 40,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6Piv61DFZyqzHelZsPTRuQ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d8877b4245c33d1e7d86289b3bb51d1d5602b81c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "NETH PRIERE CAIN",
+                            "url": "https://open.spotify.com/artist/74yTrQV9QnE23OlnPjoGQu"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/019USMr439IXZMmtPlmPnd"
+                        },
+                        "name": "Dance beautifully in the promised land.",
+                        "release_date": "2022-08-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734fe0dbdd1c4ec253dc7087c9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024fe0dbdd1c4ec253dc7087c9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514fe0dbdd1c4ec253dc7087c9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "\"Cattleya\"",
+                    "popularity": 21,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3b7tm1F2HpjuJVn2mC06zc"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/130eda05bfea0f90af435447c84e15f1a96809dc"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "NETH PRIERE CAIN",
+                            "url": "https://open.spotify.com/artist/74yTrQV9QnE23OlnPjoGQu"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/019USMr439IXZMmtPlmPnd"
+                        },
+                        "name": "Dance beautifully in the promised land.",
+                        "release_date": "2022-08-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734fe0dbdd1c4ec253dc7087c9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024fe0dbdd1c4ec253dc7087c9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514fe0dbdd1c4ec253dc7087c9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Avalon -In Search of the Promised Land-",
+                    "popularity": 25,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/71LHtEOna13IGLXYd60PkX"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/357ed2bffc634fe9ebb0c4b91ab5268bdf79ebd9"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "VAMPIRE ROSE",
+                            "url": "https://open.spotify.com/artist/40tr906zgdoCkJxpVxzZzp"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7o7hEjXDKOLDMTVX9IAlos"
+                        },
+                        "name": "13th Anniversary The Best 2011-2024 Vampire Rose",
+                        "release_date": "2024-05-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ef40f676cad7a78a2642405e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ef40f676cad7a78a2642405e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ef40f676cad7a78a2642405e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Castle ~nannjinochiwoataetamae~",
+                    "popularity": 22,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7gE31ZOQY4aTHKgKyXyEQ3"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/f7c03d7f29f89375c354ac4cc77e757a335af291"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "VAMPIRE ROSE",
+                            "url": "https://open.spotify.com/artist/40tr906zgdoCkJxpVxzZzp"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7o7hEjXDKOLDMTVX9IAlos"
+                        },
+                        "name": "13th Anniversary The Best 2011-2024 Vampire Rose",
+                        "release_date": "2024-05-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ef40f676cad7a78a2642405e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ef40f676cad7a78a2642405e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ef40f676cad7a78a2642405e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Sacrifice ~gurennnozaiai~",
+                    "popularity": 20,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4tIao26B82tUAQfZjNrnqZ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ad4f7071f86037fe78885f586498b07979babe4a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "D",
+                            "url": "https://open.spotify.com/artist/6bvxP312YkkJzQv8FzrscA"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4swElhAd4eLfBl17iw2QTK"
+                        },
+                        "name": "道化師のカタルシス (Type-A)",
+                        "release_date": "2019-07-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738f0eb202ec7cb6b93a6aeb9a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028f0eb202ec7cb6b93a6aeb9a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518f0eb202ec7cb6b93a6aeb9a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "道化師のカタルシス",
+                    "popularity": 15,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5JedNEhtnVlNhZ322rvssJ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3bd0d7180714d2725f05b918eda66dd64ee84509"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "KAMIJO",
+                            "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/43yoNp7h480CKBQ9MI5fdZ"
+                        },
+                        "name": "TEMPLE -Blood sucking for praying-",
+                        "release_date": "2019-11-27",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731df3e6ed0b2f97aa03cad906",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021df3e6ed0b2f97aa03cad906",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511df3e6ed0b2f97aa03cad906",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "TEMPLE -Blood sucking for praying-",
+                    "popularity": 18,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/52MITC2NTRWsBN7BMxiBjK"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/9f866f0f6f5b4aef4dafa72b90daab05c802f6ba"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "KAMIJO",
+                            "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2Z1vZcYLWGDhr7ScuKOeOF"
+                        },
+                        "name": "mademoiselle",
+                        "release_date": "2017-09-27",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730c0edc613bf56c97b1e2a7d2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020c0edc613bf56c97b1e2a7d2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510c0edc613bf56c97b1e2a7d2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "mademoiselle",
+                    "popularity": 39,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/12uolLWTRORNXRIdKS8yWe"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/24b53de90f94eff372d5c3c2248b3c42d02c7454"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "GACKT",
+                            "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0FwhoDMCB5qjBNV7FScqGS"
+                        },
+                        "name": "Mizerable",
+                        "release_date": "1999-07-09",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022119a8e012fb7acfa4668be2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512119a8e012fb7acfa4668be2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Mizerable",
+                    "popularity": 45,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/75Frd3MMVwG2j3eMBdZVvl"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2b8c4deb6c451748c9b52b4454680042f440656e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Versailles",
+                            "url": "https://open.spotify.com/artist/3suWpKrodV4J0ozhubrmir"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4inphIqOIQzmwXphpTwGtN"
+                        },
+                        "name": "Holy Grail",
+                        "release_date": "2011-03-16",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732e33d3dc12a17c86eaeaffd9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022e33d3dc12a17c86eaeaffd9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512e33d3dc12a17c86eaeaffd9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Vampire",
+                    "popularity": 44,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5rk0wQqH6mzfNR41F5YbKT"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7e517f90aeb2b7e045d7da5e5aa1e9e5c27e4c6c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Versailles",
+                            "url": "https://open.spotify.com/artist/3suWpKrodV4J0ozhubrmir"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7a0wAMDpLhMF5r9U1pDnZb"
+                        },
+                        "name": "The Greatest Hits 2007-2016",
+                        "release_date": "2016-09-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ff8351800b39315096d7901a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ff8351800b39315096d7901a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ff8351800b39315096d7901a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ASCENDEAD MASTER",
+                    "popularity": 38,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5BGWf7UsBahaXna5S1DekD"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2ea204294fdf4f0d3cc8b389dc38727e7618b350"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "LAREINE",
+                            "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6qbq1zVhBAnsTgiupg8obS"
+                        },
+                        "name": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
+                        "release_date": "2013-12-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021bf4be602ae37d924bba5f4c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511bf4be602ae37d924bba5f4c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "薔薇は美しく散る",
+                    "popularity": 46,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6RhRXYnuXBiGWgqhGQGqz8"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/411d0d944a614e289dde5040cc269c19a7f0814f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kaya",
+                            "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw"
+                        },
+                        "name": "Nocturne",
+                        "release_date": "2012-12-12",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c8952eafa7e836b21fa9d7ff",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c8952eafa7e836b21fa9d7ff",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c8952eafa7e836b21fa9d7ff",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Marionette",
+                    "popularity": 43,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6yrpCHRQ3ToeqhuT9L1il9"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/21be7276e3156476b64c7170182adf76a74c9fa2"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kaya",
+                            "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT"
+                        },
+                        "name": "GOTHIC(A-type)",
+                        "release_date": "2013-12-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27320d6195324e06a09831ab948",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0220d6195324e06a09831ab948",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485120d6195324e06a09831ab948",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Memento mori",
+                    "popularity": 50,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7d42abfe7aab6f235a4fe3bf3455ae6a2828074d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "GACKT",
+                            "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7skM9moZS8HRlfBPbUiyNO"
+                        },
+                        "name": "MARS",
+                        "release_date": "2000-04-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273343018e2dfa4eaf098307849",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02343018e2dfa4eaf098307849",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851343018e2dfa4eaf098307849",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Vanilla",
+                    "popularity": 44,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1TtqROwnwgUAkrIygX5bB9"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c2df3aaab137583bc984e92b47260c5dfc8a6a52"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Versailles",
+                            "url": "https://open.spotify.com/artist/3suWpKrodV4J0ozhubrmir"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7a0wAMDpLhMF5r9U1pDnZb"
+                        },
+                        "name": "The Greatest Hits 2007-2016",
+                        "release_date": "2016-09-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ff8351800b39315096d7901a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ff8351800b39315096d7901a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ff8351800b39315096d7901a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "MASQUERADE",
+                    "popularity": 40,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/48ywkZNOrT0ekF6YnDFhGg"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b6dbb1347aeb402ba646f130359d2661e9fc443b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "KAMIJO",
+                            "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7xNRksCOP6H7Y4Cslk0Js9"
+                        },
+                        "name": "Royal Blood -Revival Best-",
+                        "release_date": "2015-07-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fb93f184c71ef1f146c7aec2",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fb93f184c71ef1f146c7aec2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fb93f184c71ef1f146c7aec2",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "冬東京",
+                    "popularity": 37,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0CYDwNgW9c2wXHU1838Ca5"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7892848f432fdff5f30abd16722f09e002954fdb"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "KAMIJO",
+                            "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1ZzTunIhUx7V09FNngGHyF"
+                        },
+                        "name": "VIOLET DAWN",
+                        "release_date": "2024-07-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734ea113823726e77a827e69c0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024ea113823726e77a827e69c0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514ea113823726e77a827e69c0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "VIOLET DAWN",
+                    "popularity": 23,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0E4MsfpIT9UdplzJ28h8rS"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/713b9f066277ad16786a02dd0bd511736e96a7e2"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "X JAPAN",
+                            "url": "https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4070g6FQCegTsXmZ3eJfOU"
+                        },
+                        "name": "DAHLIA",
+                        "release_date": "1996-11-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734be5f5271f5804391f785954",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024be5f5271f5804391f785954",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514be5f5271f5804391f785954",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Rusty Nail",
+                    "popularity": 56,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1bgiQGDL0r8oimA1BFFAuB"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d848baca21139e7fe2012d9168fbf5c04f077144"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "X JAPAN",
+                            "url": "https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0xoKQl7ZMpQw3gQL2TQtbP"
+                        },
+                        "name": "X Singles（2014 Remaster）",
+                        "release_date": "2014-09-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273de28ffe3b2cd34406d71b359",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02de28ffe3b2cd34406d71b359",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851de28ffe3b2cd34406d71b359",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "紅 - KURENAI - シングル・ロングバージョン - Single Long Version",
+                    "popularity": 53,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1ftCQwgQJLVK2WWQCQdwR8"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/f2fe906f15cdd32849b4764df583e9a3a9dd3b82"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "X JAPAN",
+                            "url": "https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3QNWqHNcaQMHt3PlpEZnHF"
+                        },
+                        "name": "Blue Blood",
+                        "release_date": "1989",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e274011e8349cfe0d66eb635",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e274011e8349cfe0d66eb635",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e274011e8349cfe0d66eb635",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ENDLESS RAIN - Remaster",
+                    "popularity": 47,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2i4DNxEjTT5gjk7wgfSpFq"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/46692cbd6a6e1dc5eda1aff335ae61ddb9d1e13d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ZIGGY",
+                            "url": "https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/62xSw1xk2e3zxTGr1gIcny"
+                        },
+                        "name": "HOT LIPS（リマスター・バージョン）",
+                        "release_date": "2014-08-27",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735934c77882ece0d14370e9c7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025934c77882ece0d14370e9c7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515934c77882ece0d14370e9c7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "TOKYO　CITY　NIGHT",
+                    "popularity": 12,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6pgQzEzbHDPJvaUS97GHia"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/bcd8411fe9c4f0da2d9330ffc953a8add9b0f0c1"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "BOØWY",
+                            "url": "https://open.spotify.com/artist/0pr3ep0knQaPHEZ2X8niA0"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5XNV1gmhnTnwvQ1bpMmYhj"
+                        },
+                        "name": "PSYCHOPATH",
+                        "release_date": "1987-09-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27314f976e455d08fdd52736a30",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0214f976e455d08fdd52736a30",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485114f976e455d08fdd52736a30",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "MARIONETTE",
+                    "popularity": 57,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1zg3S9jjRaKG3O9TMU6Cnh"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/453ea4bdabbd94bfdaa1b703d9023282251f119c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "BUCK-TICK",
+                            "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5sGY0qf9ZgV6DHTCWNrTqr"
+                        },
+                        "name": "HURRY UP MODE",
+                        "release_date": "1987-04-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731985b1acbbd948a147b36bd0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021985b1acbbd948a147b36bd0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511985b1acbbd948a147b36bd0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "HURRY UP MODE",
+                    "popularity": 28,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5mITAodKzQLb5bY2QAw4aC"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d9263c5d621b1817e585bc521fa64545d134b9ba"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "BUCK-TICK",
+                            "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6Itp4i0k8r7k75nbKhki1Q"
+                        },
+                        "name": "SEXUAL ×××××！",
+                        "release_date": "1987-11-21",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732c014f0ad0182d0537d747ff",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022c014f0ad0182d0537d747ff",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512c014f0ad0182d0537d747ff",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "SEXUAL ×××××!",
+                    "popularity": 37,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4JQy9LeBwkTTFRuAkk3K41"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a03daad02eb0d5abf407e818343df21c495f782e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "RAKUGAKI",
+                            "url": "https://open.spotify.com/artist/7gBaFBYn6Fcv1J8LRJZvX9"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5I20KOWTrdwY67PMibAj2S"
+                        },
+                        "name": "[To you full of will to kill...]",
+                        "release_date": "2020-10-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739d1b59ff2a84c9aaafd372df",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029d1b59ff2a84c9aaafd372df",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519d1b59ff2a84c9aaafd372df",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "bruise",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3OQqlHtR8SnK8fDkEc5XIJ"
+                    },
+                    "explicit": true
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/cb87c6fba4c7340a7d23a59f30c18825e50d4a2e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "MASK",
+                            "url": "https://open.spotify.com/artist/6izsZ1xmJDuTmFLGyNOmtn"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3lJu5HEvuu31JYjDC9gqj5"
+                        },
+                        "name": "Super Best DISC1",
+                        "release_date": "2016-02-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730d2254acf01ac5c9f0f9ec8a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020d2254acf01ac5c9f0f9ec8a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510d2254acf01ac5c9f0f9ec8a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "赫い盲目",
+                    "popularity": 7,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1FCUYCOHk12gAybvZzNc1D"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/22ab0a0dae2a854cb18c18825373f8544a00bce4"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "アンド",
+                            "url": "https://open.spotify.com/artist/6cL2otXphuByMmNgPMA7ok"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5rsBzUwcgJR6bUhgBF6fMo"
+                        },
+                        "name": "夢遊の籠",
+                        "release_date": "2012-04-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734eb5828693041b4200ba15b3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024eb5828693041b4200ba15b3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514eb5828693041b4200ba15b3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "生人ノ色薇薔",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ogQijZlVKEiHyMR3jac2C"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5c24c2de4cb73c87e607996c457d7bd766e59eb3"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "NIGHTMARE",
+                            "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5y6w2N9XrhP93lAZwfXmT8"
+                        },
+                        "name": "10th anniversary album Historical～The highest NIGHTMARE～",
+                        "release_date": "2010-10-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e387bf24462c881f1c3183e1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e387bf24462c881f1c3183e1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e387bf24462c881f1c3183e1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "HATE",
+                    "popularity": 14,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1a6H033ZXyn9P7p6SpPsf2"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/04f8b367d86c33a8782321b3bb3f055a778b16cf"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "NIGHTMARE",
+                            "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU"
+                        },
+                        "name": "the WORLD Ruler",
+                        "release_date": "2007-02-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a83a2f295033bb468401e441",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a83a2f295033bb468401e441",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a83a2f295033bb468401e441",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "the WORLD",
+                    "popularity": 65,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/55242be778a3c0744d3c4d7814233a88d50cdab3"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "AYABIE",
+                            "url": "https://open.spotify.com/artist/4otBiEw7EJSCV1V3yJEiVg"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/03bi5EVz7B55IO5szdbpne"
+                        },
+                        "name": "ANSWER",
+                        "release_date": "2012-08-22",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27332dddd15383285c265b6026a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0232dddd15383285c265b6026a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485132dddd15383285c265b6026a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "メリーゴーランド",
+                    "popularity": 14,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/195KAO2RUJYZzCx21FnSZZ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/de038aac396f2c17b715bead56e24d7d9ad6628a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Ayabie",
+                            "url": "https://open.spotify.com/artist/1xnLHvqFhQd2CuDSUyEg4x"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/78zJJ2qvBdpbzGMIeggZpC"
+                        },
+                        "name": "Moratorium to resign",
+                        "release_date": "2019-08-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bb2a94ba1a416173fa623291",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bb2a94ba1a416173fa623291",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bb2a94ba1a416173fa623291",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "MILK",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/66ykZBsHOLkNrCsUSqqEbv"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d2cba988fd19b909c0953a47e7e4d9415ddb3f3b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jigsaw",
+                            "url": "https://open.spotify.com/artist/0huwSSuZ3RpHtXFmF9DPWn"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6CXP0xXIO7kkGKnFG1s95K"
+                        },
+                        "name": "nigaiame",
+                        "release_date": "2020-02-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e5f2b541d10c57ca271f0ff3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e5f2b541d10c57ca271f0ff3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e5f2b541d10c57ca271f0ff3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ABNORMAL WONDERLAND",
+                    "popularity": 19,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1dQ7OP4K5ZC6sHTfxcuTcO"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6bf266c020817b08b11fea232771d67fc8076b2b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jigsaw",
+                            "url": "https://open.spotify.com/artist/0huwSSuZ3RpHtXFmF9DPWn"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6erHvLpnXx56CzPiwiccCC"
+                        },
+                        "name": "shuinbako",
+                        "release_date": "2019-09-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27330617bd8a8ec529e784e6588",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0230617bd8a8ec529e784e6588",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485130617bd8a8ec529e784e6588",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "supuraterholic",
+                    "popularity": 7,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/75kT4N86IgOX7VkqNFuse0"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/d18ac0e5ac4018185a5145e440a3dcec5095058f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Alice Nine",
+                            "url": "https://open.spotify.com/artist/0W2WmWV22BFZQ99FIcEk3v"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/69u6NqE0ZlA2rSVrPENXEL"
+                        },
+                        "name": "WHITE PRAYER",
+                        "release_date": "2007-06-06",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27388a854e7f177efc810a62ede",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0288a854e7f177efc810a62ede",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485188a854e7f177efc810a62ede",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "WHITE PRAYER",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2tauTGexI5rA0fHRtHdTzr"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4d6f43716cd3fdf526514de16cc53d38b64fa4e3"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "PENTAGON",
+                            "url": "https://open.spotify.com/artist/6V6GRihlNdoYXwINkCrcJT"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0ARnuBruo4PSbGSplbSt02"
+                        },
+                        "name": "BEST OF PENTAGON",
+                        "release_date": "2019-12-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f860074de66b78dc7e50e813",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f860074de66b78dc7e50e813",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f860074de66b78dc7e50e813",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Shounenwaltz",
+                    "popularity": 13,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5kpe4j8HPHBmWhbEZ0feOs"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ccb950ca56e5ca741c8ebb4d40d79e48fde71e13"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Irokui.",
+                            "url": "https://open.spotify.com/artist/3yc8KnprmqhI7NH9wSNBrV"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5nqhl0XbEptj3LgFVsALfk"
+                        },
+                        "name": "Owaranai sekai no owarikata",
+                        "release_date": "2023-10-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d17ab211597068befda76c6a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d17ab211597068befda76c6a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d17ab211597068befda76c6a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Owaranai sekai no owarikata",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3w9tQ7ysvLd8P2qjePW651"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/9378892568e554aa3796a5936ab97410c1bc4aa8"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "0.1gnogosan",
+                            "url": "https://open.spotify.com/artist/5bf4Hkhs0n5Pvwpu2mqFpy"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5Qk8BnrGuRZxakvVbapQxw"
+                        },
+                        "name": "Hangyaku no Sangenshoku Amai Kori to Shi no Yokan",
+                        "release_date": "2022-09-02",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273310f8404742433943fceb126",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02310f8404742433943fceb126",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851310f8404742433943fceb126",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Act of rebellion Shihai to Hakai no Ketsuin",
+                    "popularity": 8,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2NYJlViVoD7hMJBOce4vNC"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/155fb327949502943ec517101295f79f3cfc5072"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Phantasmagoria V系",
+                            "url": "https://open.spotify.com/artist/4EkdHcaenCwOOf4I55XDJr"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4h6FkqeWXsvB6L92S81YUn"
+                        },
+                        "name": "Wailing Wall",
+                        "release_date": "2011-11-29",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27373add80e6acd8ce603333060",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0273add80e6acd8ce603333060",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485173add80e6acd8ce603333060",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Acuate eden",
+                    "popularity": 14,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6D2Wj4kVvprNJQdoGF7lV5"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/30671a910b063aef21fa5a14a1d729541a77a541"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "グラビティ",
+                            "url": "https://open.spotify.com/artist/6o65tD2ipnjnIw9438MeGl"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4oiNgxnDXDtqn6vuMeD7ka"
+                        },
+                        "name": "バン×U in 力",
+                        "release_date": "2022-05-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735acb01c51c789f5128036c92",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025acb01c51c789f5128036c92",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515acb01c51c789f5128036c92",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "人生カワタニエン",
+                    "popularity": 19,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5AjEZytUowgiUA2hDdiAVu"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/72229027d6aa869dbaa76c7b32d7786fc4b7240d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "UNiTE.",
+                            "url": "https://open.spotify.com/artist/4lda7nM6uipPV1RWpUhYoh"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0ZxS082RmWx6PfKxpXF5Xd"
+                        },
+                        "name": "4:19 A.M.",
+                        "release_date": "2024-02-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737b817a63b9d774ed64b61c71",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027b817a63b9d774ed64b61c71",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517b817a63b9d774ed64b61c71",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "4:19 A.M.",
+                    "popularity": 7,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/61MltOHNmDy06fXJutbMjX"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a47db7e221ecea7f5ee122e953887dcfb71b03bd"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "進撃のあわけ",
+                            "url": "https://open.spotify.com/artist/4jLNw1UITkDU6qhHCq1euc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2zGI2PcfiNUq6izc4Md0kJ"
+                        },
+                        "name": "絶望ぱらどっくす",
+                        "release_date": "2023-05-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273286c62e537e504368e13801b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02286c62e537e504368e13801b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851286c62e537e504368e13801b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "絶望ぱらどっくす",
+                    "popularity": 13,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1SXn4SHUzqKM2qUskCyw0w"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/f6cefe759fd688e549c058ba49a1c0f6b9b1e71a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "kakuseiaria",
+                            "url": "https://open.spotify.com/artist/08mVxHrKeikdIVEwNiVJCx"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2McXfmUAGPCUGnTSiC85Vx"
+                        },
+                        "name": "BURNING WAR",
+                        "release_date": "2024-09-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273277a1e4fbf17794866788a9a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02277a1e4fbf17794866788a9a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851277a1e4fbf17794866788a9a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "BURNING WAR",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2UwxJtsuzxDK7br4flinCS"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/cadfad795b80e983336b45b672afe1c3fb6fefb1"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ixia",
+                            "url": "https://open.spotify.com/artist/3XfbA0IWiLiUY0UBgnSDf5"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5XsNVHj5LgwOp68JDsGi4z"
+                        },
+                        "name": "yamioti siki sekaiseifuku",
+                        "release_date": "2023-08-13",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27391b52a92e0e8b94d879a9d4b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0291b52a92e0e8b94d879a9d4b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485191b52a92e0e8b94d879a9d4b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "yamioti siki sekaiseifuku",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1jKSIeRXgjHlVx0IkQAaaN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2555441feef689140c26c817f3ecac245b1d32ae"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kameleo",
+                            "url": "https://open.spotify.com/artist/1927EOzSbgRPOkW1d13XIJ"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5tKEZ7hL93feDxijZIu7xi"
+                        },
+                        "name": "HAIKARA",
+                        "release_date": "2014-10-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27393ae85a4a7aad62d0409fc38",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0293ae85a4a7aad62d0409fc38",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485193ae85a4a7aad62d0409fc38",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "dameo",
+                    "popularity": 17,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/57mZ5Zs2hjipy0haMwgNZN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c22158d89dc5b3793694359323ab29269ba396f1"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kameleo",
+                            "url": "https://open.spotify.com/artist/1927EOzSbgRPOkW1d13XIJ"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3vxc3nQh5rzWdxm4c7YWYI"
+                        },
+                        "name": "NOW!",
+                        "release_date": "2013-05-08",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730467f7a88dfb85416476d75c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020467f7a88dfb85416476d75c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510467f7a88dfb85416476d75c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Kimi to nau",
+                    "popularity": 14,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3mxcBaqMrcANi7ZnGDiOUm"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ea993bc3ac3a007c39e344224dbd9f9c613dbffa"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HAKLO",
+                            "url": "https://open.spotify.com/artist/6iUYnStFkxXvktZbTLNH81"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3HpzOE46FA7sRPfYc9CZMH"
+                        },
+                        "name": "END ROLL Btype",
+                        "release_date": "2021-04-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27318beebcecc400b12033a2aaa",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0218beebcecc400b12033a2aaa",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485118beebcecc400b12033a2aaa",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Aimai Identity",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4Ogywwuhy8RxRoVPfrdlja"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/e6959565b2254582c12dcc866e247bd00fe82dae"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HAKLO",
+                            "url": "https://open.spotify.com/artist/6iUYnStFkxXvktZbTLNH81"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3HpzOE46FA7sRPfYc9CZMH"
+                        },
+                        "name": "END ROLL Btype",
+                        "release_date": "2021-04-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27318beebcecc400b12033a2aaa",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0218beebcecc400b12033a2aaa",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485118beebcecc400b12033a2aaa",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "DELETE DELETE",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1x9QVjScY4giIUMfhYwAKH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/8cb08447dea6842b31a5dfe9c419fba9b25227c1"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "POIDOL",
+                            "url": "https://open.spotify.com/artist/7nVI4SIIYCrBTfIwfP36OB"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2YdATBGUeFiEYa6tfrzK0L"
+                        },
+                        "name": "Period. (TYPE A)",
+                        "release_date": "2020-09-02",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e8d065dbaf48ea1ea15cdbff",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e8d065dbaf48ea1ea15cdbff",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e8d065dbaf48ea1ea15cdbff",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Sapphire",
+                    "popularity": 5,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4XRwtmSjgbWfvxGEg9dQQQ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/734f3a90e4a3c1981e0554597e420ff3aa3ef0c8"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "電脳ヒメカ",
+                            "url": "https://open.spotify.com/artist/6R3QP6EbLzFhuGgPHsA5rd"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/402Lb9p9GznaTjXdxf3QUC"
+                        },
+                        "name": "あんなに一緒だったのにわたしはひとり",
+                        "release_date": "2024-07-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273726a12c5a537efff5c517e0e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02726a12c5a537efff5c517e0e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851726a12c5a537efff5c517e0e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "あんなに一緒だったのにわたしはひとり",
+                    "popularity": 21,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7IsXbHZ7B1mE6BtTbRam6G"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1942cc1ed531b52ee4f433a068b1d9e952c91163"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Vivid",
+                            "url": "https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4rott6m5l5Da3dDGr5Iic0"
+                        },
+                        "name": "INFINITY",
+                        "release_date": "2012-11-07",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737fdf9c55c0dc82fa926cd783",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027fdf9c55c0dc82fa926cd783",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517fdf9c55c0dc82fa926cd783",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "REAL",
+                    "popularity": 34,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3kC6Iy8ocMnkAJsFdBSfNP"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/98a39f129937bfd43dd31839927c319ffe13e927"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Vivid",
+                            "url": "https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4rott6m5l5Da3dDGr5Iic0"
+                        },
+                        "name": "INFINITY",
+                        "release_date": "2012-11-07",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737fdf9c55c0dc82fa926cd783",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027fdf9c55c0dc82fa926cd783",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517fdf9c55c0dc82fa926cd783",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "BLUE",
+                    "popularity": 39,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1mAMD4WGjbf7KPQjhrloE6"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/eff3d62a45b99fffc5214a1fc11d709e7c5a521b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "BugLug",
+                            "url": "https://open.spotify.com/artist/6g3Tt9KDdX4FM4aPHdGgKh"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0AaX8oHaYJKUFOFMRKtvwq"
+                        },
+                        "name": "HAPPY BIRTHDAY KILL YOU",
+                        "release_date": "2015-04-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27377774ae8e95a543ef2b04402",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0277774ae8e95a543ef2b04402",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485177774ae8e95a543ef2b04402",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hone",
+                    "popularity": 7,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4bMDfZRKB2WGkp5ILNlDSa"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7bf2a7eb0bf91f4114a58e936fd2ed8451acfc6c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Royz",
+                            "url": "https://open.spotify.com/artist/1qQmGisc6MoHHcIhwWEbux"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4gHk43gBPGTlAGGz9RvmY3"
+                        },
+                        "name": "raizin",
+                        "release_date": "2023-03-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c48461e093cb72d2e26f4829",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c48461e093cb72d2e26f4829",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c48461e093cb72d2e26f4829",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "marunouchimezaraburu",
+                    "popularity": 21,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/03NCUy81Mzn1lmyxtbeSc5"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ed0f83e2325a13f940ff181ba4e017133217f32a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Royz",
+                            "url": "https://open.spotify.com/artist/1qQmGisc6MoHHcIhwWEbux"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4cQH5nYbU5aZr4x4EWFfSk"
+                        },
+                        "name": "Royz THE BEST 2019-2024",
+                        "release_date": "2024-10-30",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731362777cf98b52f4f323b722",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021362777cf98b52f4f323b722",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511362777cf98b52f4f323b722",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "venom",
+                    "popularity": 15,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5TJXu2bwbNp1SggDCnhUEd"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/24a278835d335597a9e0db5e7299a965a99ae8f0"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "RAYMEI",
+                            "url": "https://open.spotify.com/artist/74SYLS3Pf4R7s5pqLacde4"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7rJ5VWrqoMChkHjBUQeByT"
+                        },
+                        "name": "百華繚乱",
+                        "release_date": "2022-03-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27355d89a18df5ccf662838b465",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0255d89a18df5ccf662838b465",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485155d89a18df5ccf662838b465",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "百華繚乱",
+                    "popularity": 11,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0VN26pmQWeJmD4EN0fMaHM"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fa20e9d2c989acbbb4c50e88a73902320939afe8"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "LIPHLICH",
+                            "url": "https://open.spotify.com/artist/1FNck6NXfX0sjJ4PzK1f6l"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6wpcHV8fbbtZ1F2Lrz3los"
+                        },
+                        "name": "フルコースは逆さから (TYPE-B)",
+                        "release_date": "2013-10-30",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c86612f4574df99b568fba32",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c86612f4574df99b568fba32",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c86612f4574df99b568fba32",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "MANIC PIXIE - Album Ver.",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0AuAJBIT6oGf1BtIAk6ygd"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7b7979ee874b389e9a106980907510413fb249c4"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "LIPHLICH",
+                            "url": "https://open.spotify.com/artist/1FNck6NXfX0sjJ4PzK1f6l"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4qteV9TTFyfmeBTjwxs74L"
+                        },
+                        "name": "蛇であれ尾を喰らう TYPE-A",
+                        "release_date": "2016-02-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273092e6d11c3fb10e4781eaa70",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02092e6d11c3fb10e4781eaa70",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851092e6d11c3fb10e4781eaa70",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ウロボロス",
+                    "popularity": 4,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6dh1Axm00iTDwRnT2XUwBF"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ce74c5e7993a187988eaebe58e8e3299869bd41f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "More",
+                            "url": "https://open.spotify.com/artist/2xQOzDzIDDqW9y6kfFKQn2"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6Sz7QDbjPidDfLbrY9AM3h"
+                        },
+                        "name": "Crew",
+                        "release_date": "2017-03-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738a07aa2bb062f70e5844d80a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028a07aa2bb062f70e5844d80a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518a07aa2bb062f70e5844d80a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "bottom circus",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0kWy9L8AKiTFgQjft9T1G3"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/eeb8d2c5f139de404bc6358e40c1e5af1771f392"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "More",
+                            "url": "https://open.spotify.com/artist/2xQOzDzIDDqW9y6kfFKQn2"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JB9JUmfGKXv35bIfQTG6"
+                        },
+                        "name": "Soup",
+                        "release_date": "2017-10-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27307d9fdb903dafec3bcf6c8b9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0207d9fdb903dafec3bcf6c8b9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485107d9fdb903dafec3bcf6c8b9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Soup",
+                    "popularity": 3,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1uzsacyFWkycbhACf4vwYQ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/90cad01cc1b79aac26fbacb6f56c554abe78d688"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "More",
+                            "url": "https://open.spotify.com/artist/2xQOzDzIDDqW9y6kfFKQn2"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3WjTlLeeCO5DMZ97gexXE8"
+                        },
+                        "name": "Yureru Kasa Mawaru Haguruma",
+                        "release_date": "2019-02-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738aa5279ba3dd2f810f31c6f8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028aa5279ba3dd2f810f31c6f8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518aa5279ba3dd2f810f31c6f8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "LoV",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5aLDgSFcMjzlx56i15JyZh"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/482ad82a1ad0d2360a73a610f5c5e373a0aa1d5d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Develop One's Faculties",
+                            "url": "https://open.spotify.com/artist/1GTNdz1uDMt1bCXLiPEUHB"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4Zo46amEjTsZvF8P9Ng2Pk"
+                        },
+                        "name": "INVERSE ЯEVERSE",
+                        "release_date": "2020-03-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738a0eb4891a45eacc8bab5239",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028a0eb4891a45eacc8bab5239",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518a0eb4891a45eacc8bab5239",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "真実の黒",
+                    "popularity": 4,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6bDIzNwLI510k0g3UNisDz"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/ac2f98dc907c93430601e4aaeb86408b523569ee"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Develop One's Faculties",
+                            "url": "https://open.spotify.com/artist/1GTNdz1uDMt1bCXLiPEUHB"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/40fMEZXZbSR0kLJ7Qepeo2"
+                        },
+                        "name": "reincarnation",
+                        "release_date": "2015-10-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fc0274d175536073714ecd96",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fc0274d175536073714ecd96",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fc0274d175536073714ecd96",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "フラスコを振ると天秤揺れた(album ver.)",
+                    "popularity": 6,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2m9lEIGX093ELOol8UM5tK"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4b8c5a81b8d006be5f97117df3b1e696b782689b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "雨や雨",
+                            "url": "https://open.spotify.com/artist/4T2yZkRiaE1wvWIIcsjOHN"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1sID0pY7i3vNSawhXsdJkj"
+                        },
+                        "name": "切り雨",
+                        "release_date": "2019-08-07",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27360c0e6cad40b3df45fad619c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0260c0e6cad40b3df45fad619c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485160c0e6cad40b3df45fad619c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ぴあとぅり",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/32q1ec9abOtyHFZdFcKn9X"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/8f3484548c4b55a6b4a1c68b69749e628bc35dab"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "yazzmad",
+                            "url": "https://open.spotify.com/artist/5Tk8cXZTMUxiATJlNuKKsV"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/26nhoZCbnXgbWKHtJ6eVnE"
+                        },
+                        "name": "niche['nitʃə]",
+                        "release_date": "2014-09-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730f3cbbb16b662776c8737eff",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020f3cbbb16b662776c8737eff",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510f3cbbb16b662776c8737eff",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "踊るペリカン",
+                    "popularity": 4,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6ag4Gdnib7oRzqFLrRwzu6"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/eecc4f47509911187fb620c91852fb089dfbc2bb"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "sukekiyo",
+                            "url": "https://open.spotify.com/artist/0MIYfnBpUf0l6rCvpk4YZ2"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6xiSf3bwRzYjITg2G0yuO6"
+                        },
+                        "name": "Immortalis",
+                        "release_date": "2014-04-30",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d4cbdbacb25a74ce11e516ad",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d4cbdbacb25a74ce11e516ad",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851d4cbdbacb25a74ce11e516ad",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "In All Weathers",
+                    "popularity": 25,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4HRucs4CDRsQ3QQkY6A9jG"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7d6946d419536e674fca80de18a6b0a7574d1ed2"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "umbrella",
+                            "url": "https://open.spotify.com/artist/58FOCviOOrwIm6LVHVV9gv"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4uAPVIqrsKzHlHAVblFlP7"
+                        },
+                        "name": "Amayadori (（Re:arrange side）)",
+                        "release_date": "2020-11-23",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c8a5e4b434fb6d784358ae3e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c8a5e4b434fb6d784358ae3e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c8a5e4b434fb6d784358ae3e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Raining letter",
+                    "popularity": 3,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4UGi3wNtHMLMCg78Inje0x"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6116e07c1d7d09bfd8bdc601fe64623a796f99be"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Dammitland",
+                            "url": "https://open.spotify.com/artist/3cZsmKmNnGUErAv5O66Mrw"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3mIcX1NL2hPcDgNO6ByMOk"
+                        },
+                        "name": "reversible",
+                        "release_date": "2020-04-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bbe78651de71d7757257cb3d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bbe78651de71d7757257cb3d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bbe78651de71d7757257cb3d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "iyaiyaiya",
+                    "popularity": 11,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3Jrv3c3uHBdVKethSLiy21"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6a974f59d2e9dce768980b752ebaa1b71a68c87c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ヒッチコック",
+                            "url": "https://open.spotify.com/artist/5zWGFvRH0erGHeA83BTqGa"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0pitmBDWCrkklQ6xxIpFcx"
+                        },
+                        "name": "『指』",
+                        "release_date": "2022-01-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27301cbd337ca2b996e79bc9c10",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0201cbd337ca2b996e79bc9c10",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485101cbd337ca2b996e79bc9c10",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "『指』",
+                    "popularity": 14,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7q0EueCRcgqdKzXftxXXfo"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/50d7d1ae4e9318adf66ed835cb09e2f8faf3d782"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ヒッチコック",
+                            "url": "https://open.spotify.com/artist/5zWGFvRH0erGHeA83BTqGa"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1rZfJqpkGLpWQtHE9sscZJ"
+                        },
+                        "name": "おおかみと赤ずきんちゃん",
+                        "release_date": "2020-06-13",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ab7913fa8744fb57c73895c1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ab7913fa8744fb57c73895c1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ab7913fa8744fb57c73895c1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "『君。』",
+                    "popularity": 9,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7m3fwSOmJBv8k7Vbhm0IKU"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b5db0fbfe8ee4456e8eb12557a9320c463ebff99"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "XAAXAA",
+                            "url": "https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5Wm85IHfy8GAuvogKR4eSV"
+                        },
+                        "name": "chuudokusyoujou",
+                        "release_date": "2016-03-23",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733d2acf2d82a4a3cdb56fd192",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023d2acf2d82a4a3cdb56fd192",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513d2acf2d82a4a3cdb56fd192",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "shinitai",
+                    "popularity": 34,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0aR5eQZK2YA5ZXZaeC93cM"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/20917c177adc1893ead71d7e57af48684cb1286f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "XAAXAA",
+                            "url": "https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7a20KbPcJ1mg5V3qjtZJir"
+                        },
+                        "name": "marutobatsu",
+                        "release_date": "2016-07-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273463d0969f94f00fb963f0ff3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02463d0969f94f00fb963f0ff3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851463d0969f94f00fb963f0ff3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "kuroinekochan",
+                    "popularity": 38,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6DFOn2qdRyW4BBWL5bw9hx"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3ce329c4208919ea6bb8e1a976cc99ce208e1913"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "仮病",
+                            "url": "https://open.spotify.com/artist/7nrDRdPkvYZ3YF9jnqzSLU"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5hbTW6BJsB6qE3hRy5eQuZ"
+                        },
+                        "name": "Sennou no hako/Mulberry",
+                        "release_date": "2017-06-21",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730e45a48de20a75b460e493b4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020e45a48de20a75b460e493b4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510e45a48de20a75b460e493b4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Mulberry",
+                    "popularity": 42,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/14dxh9sH3niyPLjczs8n6Z"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/e287cd8c9c66efb66b297a86835d8fd9a6495e07"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ゼラ",
+                            "url": "https://open.spotify.com/artist/45OO3VrchJ4N8dH6HNPVW6"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4K0DtN9HVtOCQV7p7CMnhS"
+                        },
+                        "name": "黒よりも暗い黒【TYPE-A】",
+                        "release_date": "2020-12-23",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27318202e172cf967a599c4ecbd",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0218202e172cf967a599c4ecbd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485118202e172cf967a599c4ecbd",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "黒よりも暗い黒",
+                    "popularity": 20,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4sU4Xp8QGurG7CLmUfoFsu"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7ead0ba805052bf5b94d1c98408d1ec267994009"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ゼラ",
+                            "url": "https://open.spotify.com/artist/45OO3VrchJ4N8dH6HNPVW6"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/56IY3uyQCplsEJQQBxYSnG"
+                        },
+                        "name": "キセルの華",
+                        "release_date": "2020-06-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e41e15daae124d51915bd0de",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e41e15daae124d51915bd0de",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e41e15daae124d51915bd0de",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "ドグラ・マグラ",
+                    "popularity": 26,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0ubEnMAQ8Z6IDor9USeGHI"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/32c2293878bf0a5a2e81aab9ae124791e317059f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jigsaw",
+                            "url": "https://open.spotify.com/artist/0huwSSuZ3RpHtXFmF9DPWn"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4VUsSOhWXhRIHY4j2VZVaN"
+                        },
+                        "name": "Traumacarnival",
+                        "release_date": "2022-04-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27314f36434f5342cc6916b8fda",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0214f36434f5342cc6916b8fda",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485114f36434f5342cc6916b8fda",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Traumacarnival",
+                    "popularity": 30,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1T58Tcd94cqVB6SJFY0YHH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3da90a85a46e17b6ca0a940b9baba3f32087bdae"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gozenreiji",
+                            "url": "https://open.spotify.com/artist/3o6E1BFv9UrCVjHRBwahF5"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2ElGIDqbxCdwJmjgGsclVf"
+                        },
+                        "name": "Ayashite",
+                        "release_date": "2018-09-23",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e228b1215f86482b2e678cdb",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e228b1215f86482b2e678cdb",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e228b1215f86482b2e678cdb",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Ayashite",
+                    "popularity": 22,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/77X9vqh9VlcU1HbbpmSwwH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a2548987cae8ea2bbb9d121ea1de8967f1bfe3f4"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Ari",
+                            "url": "https://open.spotify.com/artist/0a8DHbh8qozzr97JZtyvs2"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6oPR1voCqHnVFqYqq6ZMvk"
+                        },
+                        "name": "Rouchou, Hari wo Kou",
+                        "release_date": "2021-11-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27370799a704a62755b8e067cd7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0270799a704a62755b8e067cd7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485170799a704a62755b8e067cd7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Rouchou, Hari wo Kou (Struggle ver.)",
+                    "popularity": 22,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3N4RsBweheSmvJWTBv7tlf"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4a1708de71a7d93f734b6c81a019f24fd26478e9"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "NETH PRIERE CAIN",
+                            "url": "https://open.spotify.com/artist/74yTrQV9QnE23OlnPjoGQu"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5HGztnlbWLsLcj7xT8QORb"
+                        },
+                        "name": "God punishment for salvation.",
+                        "release_date": "2021-02-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732ac1b890d5907c68a1e61343",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022ac1b890d5907c68a1e61343",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512ac1b890d5907c68a1e61343",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "\"Kuroyuri\"",
+                    "popularity": 20,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/41W5rCtYBYLH9wIuWtHjrG"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1d2a23892608db78ed153af12a12e82739bd7ccd"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ZETSUMEI",
+                            "url": "https://open.spotify.com/artist/4vbrWzSTq7qy9Z7YXP4OYc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3PUlaz9oSAYq5EYEhIGfyy"
+                        },
+                        "name": "Bokunoai",
+                        "release_date": "2023-03-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273384f435cf0104f90c3da6d33",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02384f435cf0104f90c3da6d33",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851384f435cf0104f90c3da6d33",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Tayasanuinochi",
+                    "popularity": 18,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4ypShXcRIhVBwfQsoUraTC"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/688f6de925937195d422fb2ea89664363635b725"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "DEZERT",
+                            "url": "https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5teXathgpTuZkur3aVaDSS"
+                        },
+                        "name": "Kessaku Ongensyu Zettaiteki Occult Syukanshi -Shinzou Hen- / -Noumiso Hen-",
+                        "release_date": "2024-09-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fbedf5e4a6175a05272dd7b7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fbedf5e4a6175a05272dd7b7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fbedf5e4a6175a05272dd7b7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Satsui (Re-Recording)",
+                    "popularity": 8,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2Rsq3Ilbi3un7HnoySmokX"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c5750c752c0e8f8e2a14c5f1a142627c5d812479"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "マチルダ",
+                            "url": "https://open.spotify.com/artist/2NpQW0FAgkypkqupW5IyvD"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/48PuWT4CcX5DYPk7wPoy74"
+                        },
+                        "name": "ハジメマシテ、殺シニ参リマシタ",
+                        "release_date": "2018-09-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e387a3bace49c52c312f87c3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e387a3bace49c52c312f87c3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e387a3bace49c52c312f87c3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "いただきます。",
+                    "popularity": 26,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4HMqPgLyncjwpJpLEVVBDN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/029c0b6d1a07fe9174a37973d75546599225e026"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "gulu gulu",
+                            "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6FjD4Ssk9b5Olb20zfrCR7"
+                        },
+                        "name": "Chuuzuri Shoujo (Tagai Ban)",
+                        "release_date": "2022-05-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b7c7b7c5dbc91e5c8bea9788",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b7c7b7c5dbc91e5c8bea9788",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b7c7b7c5dbc91e5c8bea9788",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Freak Show",
+                    "popularity": 44,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0nyYmENd3hd1brLRHcAper"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fa12eff2c04b2ae95704fe84b7ba33b188678edf"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "gulu gulu",
+                            "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4trD0YxmLKpZOYL8RNfr9J"
+                        },
+                        "name": "Chuuzuri Shoujo (Tsugai Ban)",
+                        "release_date": "2022-05-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bba724db24f6b275d9789587",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bba724db24f6b275d9789587",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bba724db24f6b275d9789587",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Karappo ga Chirakatta Heya",
+                    "popularity": 43,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/33r99vkBA15VxNbseK7alT"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c97648ef2f5a6f4ebd01df05e8d407b4f71b623e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "gulu gulu",
+                            "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2lwkcjE5aIQVAxoVAK6SE2"
+                        },
+                        "name": "Henna Merry Go Round (Umai Ban)",
+                        "release_date": "2019-05-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ff9b12561110fed2e415d889",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ff9b12561110fed2e415d889",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ff9b12561110fed2e415d889",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Henna Merry Go Round",
+                    "popularity": 48,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6WLkpGcHX7bB8lubK7dGkG"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a7d99848584724886d8ac377429b0473b9b872dc"
+            }
+        ]
+    }
+}

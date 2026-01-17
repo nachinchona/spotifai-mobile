@@ -1,5 +1,5 @@
 {
-    "id": 2,
+    "id": 1,
     "name": "Mili Playlist",
     "description": "",
     "genres": [
@@ -2655,47 +2655,6 @@
                     "explicit": false
                 },
                 "preview_url": "https://p.scdn.co/mp3-preview/1db36b74cd660fdf9a0bc1ffa162820fc9aa472f"
-            },
-            {
-                "track": {
-                    "artists": [
-                        {
-                            "name": "Mili",
-                            "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
-                        }
-                    ],
-                    "album": {
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/album/7ouse4qe5ivSwnRotP2a1Z"
-                        },
-                        "name": "Millennium Mother",
-                        "release_date": "2018-04-25",
-                        "images": [
-                            {
-                                "url": "https://i.scdn.co/image/ab67616d0000b273978c738955a22b98c7bfa38f",
-                                "width": 640,
-                                "height": 640
-                            },
-                            {
-                                "url": "https://i.scdn.co/image/ab67616d00001e02978c738955a22b98c7bfa38f",
-                                "width": 300,
-                                "height": 300
-                            },
-                            {
-                                "url": "https://i.scdn.co/image/ab67616d00004851978c738955a22b98c7bfa38f",
-                                "width": 64,
-                                "height": 64
-                            }
-                        ]
-                    },
-                    "name": "Boys in Kaleidosphere",
-                    "popularity": 33,
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/track/6PbmNZ0bm8xhNTufXH6G01"
-                    },
-                    "explicit": false
-                },
-                "preview_url": "https://p.scdn.co/mp3-preview/b3f7a6fa0a716321be78402180eca7da969f5c29"
             },
             {
                 "track": {
