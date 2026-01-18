@@ -2,7 +2,7 @@ import { useRouter } from "expo-router";
 import { useEffect, useState } from "react";
 import { ActivityIndicator, FlatList, Image, Pressable, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { Playlist } from './interfaces/Playlist';
+import { Playlist } from '../interfaces/Playlist';
 
 const PlaylistsScreen = () => {
   const router = useRouter()

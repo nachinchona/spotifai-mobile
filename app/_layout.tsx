@@ -30,7 +30,7 @@ export default function RootLayout() {
 
   useEffect(() => {
     if (!isLoading && isFirstTime) {
-      router.replace('/onboarding');
+      router.replace('./onboarding');
     }
   }, [isLoading, isFirstTime]);
 
