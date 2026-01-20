@@ -64,6 +64,9 @@ def generar_json_estricto(playlist_id, token):
     genres_set = set()
     artist_ids_list = list(artist_ids)
     
+    # (Hash Map en Python)
+    artist_genre_map = {} 
+    
     for i in range(0, len(artist_ids_list), 50):
         chunk = artist_ids_list[i:i+50]
         ids_string = ",".join(chunk)
@@ -72,8 +75,13 @@ def generar_json_estricto(playlist_id, token):
         resp_art = requests.get(url_artists, headers=headers)
         if resp_art.status_code == 200:
             for art in resp_art.json()['artists']:
-                if art and 'genres' in art:
-                    for g in art['genres']:
+                if art:
+                    # Guardamos los generos 
+                    current_genres = art.get('genres', [])
+                    artist_genre_map[art['id']] = current_genres
+                    
+                    # Agregamos al set global de la playlist
+                    for g in current_genres:
                         genres_set.add(g)
                         
     sorted_genres = sorted(list(genres_set))
@@ -88,9 +96,16 @@ def generar_json_estricto(playlist_id, token):
         clean_artists = []
         for art in t['artists']:
             spotify_url = art.get("external_urls", {}).get("spotify")
+            
+            # RECUPERAMOS LOS GÉNEROS DEL DICCIONARIO
+            artist_genres = []
+            if 'id' in art and art['id'] in artist_genre_map:
+                artist_genres = artist_genre_map[art['id']]
+
             clean_artists.append({
                 "name": art.get("name"),
-                "url": spotify_url 
+                "url": spotify_url,
+                "genres": artist_genres 
             })
         
         clean_album = {
@@ -115,22 +130,28 @@ def generar_json_estricto(playlist_id, token):
 
     new_id = get_next_playlist_id()
     
+    
+    api_url = f"http://{IP_ADDRESS}:3000/api/playlist/refresh"
+    
     try:
        response = requests.post(
-            f"http://{IP_ADDRESS+":3000"}/api/playlist/refresh",
+            api_url,
             json={'tracks': clean_items},
             timeout=300
         )
     except requests.exceptions.Timeout:
         print("Error: La API de Node tardó demasiado en responder.")
-
-    items_with_audio = response.json()['items']
+        # En caso de error, usamos clean_items localmente para no detener el script
+        items_with_audio = clean_items 
+    else:
+        # Si responde bien, usamos su respuesta
+        items_with_audio = response.json().get('items', clean_items)
 
     final_output = {
         "id": new_id,
         "name": raw_data['name'],
         "description": raw_data['description'],
-        "genres": sorted_genres,
+        "genres": sorted_genres, # Géneros totales de la playlist
         "images": raw_data['images'],
         "tracks": {
             "items": items_with_audio
@@ -141,9 +162,7 @@ def generar_json_estricto(playlist_id, token):
 
 def slugify_filename(text):
     text = text.lower()
-    # [^\w\s-] matches anything that is NOT a word character, space, or hyphen
     text = re.sub(r'[^\w\s-]', '', text)
-    # Replace whitespace with a single hyphen
     return re.sub(r'[-\s]+', '-', text).strip('-')
 
 if __name__ == "__main__":
@@ -153,9 +172,9 @@ if __name__ == "__main__":
         token = obtener_token(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET)
         if token:
             datos = generar_json_estricto(PLAYLIST_ID, token)
-            nombre_playlist = slugify_filename(datos["name"])+'.json'
-            ruta_final = FOLDER_PATH + nombre_playlist
             if datos:
+                nombre_playlist = slugify_filename(datos["name"])+'.json'
+                ruta_final = FOLDER_PATH + nombre_playlist
                 try:
                     with open(ruta_final , 'w', encoding='utf-8') as f:
                         json.dump(datos, f, indent=4, ensure_ascii=False)

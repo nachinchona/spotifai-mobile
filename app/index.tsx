@@ -4,24 +4,17 @@ import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, 
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from '../interfaces/Playlist';
 
-//label será lo que se muestre, mientras que el id va a ser el valor que comparemos con el JSON
-const FILTROS = [
-  { id: "Todos", label: "Todos" },
-  { id: "Popular", label: "🔥 Más Populares" }, 
-  { id: "argentine rock", label: "🇦🇷 Rock Nacional" },
-  { id: "pop", label: "🎤 Pop" },
-  { id: "cumbia", label: "🌴 Cumbia" },
-  { id: "indie", label: "🎸 Indie" },
-  { id: "hip hop", label: "🎧 Hip Hop" },
-];
-// Mapeo de géneros para mostrar nombres más sencillos
+// Mapeo opcional para traducir nombres si quieres mantenerlo
 const GENRE_TRANSLATIONS: Record<string, string> = {
   "argentine rock": "Rock Nacional",
-  "pop": "Pop Internacional",
+  "pop": "Pop",
   "cumbia": "Cumbia",
-  "indie": "Indie Alternativo",
-  "hip hop": "Hip Hop / Rap",
-  // Si un género no está en este mapeo, se mostrará tal cual viene del JSON
+  "indie": "Indie",
+  "hip hop": "Hip Hop",
+  "rock": "Rock",
+  "reggaeton": "Reggaeton",
+  "trap latino": "Trap",
+  "Argentine Trap": "Trap Argentino"
 };
 
 const PlaylistsScreen = () => {
@@ -31,6 +24,10 @@ const PlaylistsScreen = () => {
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
   
+  // Estados para filtros dinámicos
+  const [dynamicFilters, setDynamicFilters] = useState<{id: string, label: string}[]>([
+    { id: "Todos", label: "Todos" },
+  ]);
   const [activeFilterId, setActiveFilterId] = useState("Todos");
 
   const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
@@ -62,7 +59,12 @@ const PlaylistsScreen = () => {
           const nuevasUnicas = data.playlists.filter(
             (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
           )
-          return [...prev, ...nuevasUnicas]
+          const updatedList = [...prev, ...nuevasUnicas];
+          
+          // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
+          generateDynamicFilters(updatedList);
+          
+          return updatedList
         })
 
         setUltimaID(data.ultimaID)
@@ -76,6 +78,44 @@ const PlaylistsScreen = () => {
     }
   }
 
+  // Función auxiliar para contar géneros y crear botones
+  const generateDynamicFilters = (currentPlaylists: Playlist[]) => {
+    const genreCounts: Record<string, number> = {};
+
+    currentPlaylists.forEach(playlist => {
+      if (playlist.genres) {
+        playlist.genres.forEach(genre => {
+          const lowerGenre = genre.toLowerCase();
+          genreCounts[lowerGenre] = (genreCounts[lowerGenre] || 0) + 1;
+        });
+      }
+    });
+
+    // Ordenamos por los más usados
+    const sortedGenres = Object.entries(genreCounts)
+      .sort(([, countA], [, countB]) => countB - countA) // Mayor a menor frecuencia
+      .map(([genre]) => genre)
+      .slice(0, 5); // Tomamos el TOP 5 géneros más comunes
+
+    const newFilters = sortedGenres.map(g => ({
+      id: g,
+      label: formatGenreLabel(g)
+    }));
+
+    // Actualizamos los filtros manteniendo "Todos" y "Populares" al principio
+    setDynamicFilters([
+      { id: "Todos", label: "Todos" },
+      ...newFilters
+    ]);
+  };
+
+  const formatGenreLabel = (genre: string) => {
+    // Busca traducción o capitaliza la primera letra
+    const translated = GENRE_TRANSLATIONS[genre.toLowerCase()];
+    if (translated) return translated;
+    return genre.charAt(0).toUpperCase() + genre.slice(1);
+  };
+
   useEffect(() => {
     fetchPlaylists()
   }, [])
@@ -87,28 +127,17 @@ const PlaylistsScreen = () => {
       return result;
     }
 
-    if (activeFilterId === "Popular") {
-      return result.sort((a, b) => {
-        const getAvgPop = (playlist: Playlist) => {
-          const tracks = playlist.tracks?.items || [];
-          if (tracks.length === 0) return 0;
-          const sum = tracks.reduce((acc, item) => acc + (item.track?.popularity || 0), 0);
-          return sum / tracks.length;
-        };
-        return getAvgPop(b) - getAvgPop(a); 
-      });
-    }
-
+    // Filtrado por coincidencia de género
     return result.filter(p => 
-      p.genres && p.genres.some(genre => genre.toLowerCase() === activeFilterId.toLowerCase()
+      p.genres && p.genres.some(genre => genre.toLowerCase().includes(activeFilterId.toLowerCase())
       )
     );
 
   }, [playlists, activeFilterId]);
 
-  const formatGenresList = (genres: string[]) => {
+  const formatGenresList = (genres: string[] | undefined) => {
     if (!genres || genres.length === 0) return "Varios";
-    return genres
+    return genres  
       .slice(0, 3)
       .map(g => GENRE_TRANSLATIONS[g.toLowerCase()] || g) 
       .join(" • "); 
@@ -141,7 +170,7 @@ const PlaylistsScreen = () => {
   const renderTabs = () => (
     <View style={styles.tabsContainer}>
       <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingHorizontal: 5 }}>
-        {FILTROS.map((filtro) => (
+        {dynamicFilters.map((filtro) => (
           <Pressable
             key={filtro.id}
             onPress={() => setActiveFilterId(filtro.id)}
@@ -193,7 +222,7 @@ const PlaylistsScreen = () => {
           <Text style={styles.emptyText}>
             {activeFilterId === "Todos" 
               ? "No hay playlists disponibles" 
-              : "No se encontraron resultados"}
+              : "No se encontraron playlists de " + activeFilterId}
           </Text>
         </View>
       ) : (
@@ -263,6 +292,7 @@ const styles = StyleSheet.create({
     color: "#b3b3b3",
     fontSize: 14,
     fontWeight: "600",
+    textTransform: 'capitalize'
   },
   tabTextActive: {
     color: "#000000",
