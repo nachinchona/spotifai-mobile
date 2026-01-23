@@ -102,7 +102,7 @@ const PlaylistsScreen = () => {
       label: formatGenreLabel(g)
     }));
 
-    // Actualizamos los filtros manteniendo "Todos" y "Populares" al principio
+    // Actualizamos los filtros manteniendo "Todos" al principio
     setDynamicFilters([
       { id: "Todos", label: "Todos" },
       ...newFilters
@@ -112,7 +112,7 @@ const PlaylistsScreen = () => {
   const formatGenreLabel = (genre: string) => {
     // Busca traducción o capitaliza la primera letra
     const translated = GENRE_TRANSLATIONS[genre.toLowerCase()];
-    if (translated) return translated;
+    if (translated) return translated;                          //no funciona bien
     return genre.charAt(0).toUpperCase() + genre.slice(1);
   };
 
