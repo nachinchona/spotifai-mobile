@@ -1,8 +1,21 @@
 import { useRouter } from "expo-router";
-import { useEffect, useState } from "react";
-import { ActivityIndicator, FlatList, Image, Pressable, StyleSheet, Text, View } from "react-native";
+import { useEffect, useMemo, useState } from "react";
+import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from '../interfaces/Playlist';
+
+// Mapeo opcional para traducir nombres si quieres mantenerlo
+const GENRE_TRANSLATIONS: Record<string, string> = {
+  "argentine rock": "Rock Nacional",
+  "pop": "Pop",
+  "cumbia": "Cumbia",
+  "indie": "Indie",
+  "hip hop": "Hip Hop",
+  "rock": "Rock",
+  "reggaeton": "Reggaeton",
+  "trap latino": "Trap",
+  "Argentine Trap": "Trap Argentino"
+};
 
 const PlaylistsScreen = () => {
   const router = useRouter()
@@ -10,6 +23,12 @@ const PlaylistsScreen = () => {
   const [loading, setLoading] = useState(true)
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
+
+  // Estados para filtros dinámicos
+  const [dynamicFilters, setDynamicFilters] = useState<{ id: string, label: string }[]>([
+    { id: "Todos", label: "Todos" },
+  ]);
+  const [activeFilterId, setActiveFilterId] = useState("Todos");
 
   const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
   const PORT = "3000"
@@ -40,7 +59,12 @@ const PlaylistsScreen = () => {
           const nuevasUnicas = data.playlists.filter(
             (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
           )
-          return [...prev, ...nuevasUnicas]
+          const updatedList = [...prev, ...nuevasUnicas];
+
+          // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
+          generateDynamicFilters(updatedList);
+
+          return updatedList
         })
 
         setUltimaID(data.ultimaID)
@@ -54,22 +78,114 @@ const PlaylistsScreen = () => {
     }
   }
 
+  const generateDynamicFilters = (currentPlaylists: Playlist[]) => {
+    const genreCounts: Record<string, number> = {};
+
+    currentPlaylists.forEach(playlist => {
+      if (playlist.genres) {
+        playlist.genres.forEach(genre => {
+          const lowerGenre = genre.toLowerCase();
+          genreCounts[lowerGenre] = (genreCounts[lowerGenre] || 0) + 1;
+        });
+      }
+    });
+
+    const sortedGenres = Object.entries(genreCounts)
+      .sort(([, countA], [, countB]) => countB - countA)
+      .map(([genre]) => genre)
+      .slice(0, 20);
+
+    const newFilters = sortedGenres.map(g => ({
+      id: g,
+      label: formatGenreLabel(g)
+    }));
+
+    setDynamicFilters([
+      { id: "Todos", label: "Todos" },
+      ...newFilters
+    ]);
+  };
+
+  const formatGenreLabel = (genre: string) => {
+    const translated = GENRE_TRANSLATIONS[genre.toLowerCase()];
+    if (translated) return translated;                          //no funciona bien
+    return genre.charAt(0).toUpperCase() + genre.slice(1);
+  };
+
   useEffect(() => {
     fetchPlaylists()
   }, [])
 
+  const filteredPlaylists = useMemo(() => {
+    let result = [...playlists];
+
+    if (activeFilterId === "Todos") {
+      return result;
+    }
+
+    // Filtrado por coincidencia de género
+    return result.filter(p =>
+      p.genres && p.genres.some(genre => genre.toLowerCase().includes(activeFilterId.toLowerCase())
+      )
+    );
+
+  }, [playlists, activeFilterId]);
+
+  const formatGenresList = (genres: string[] | undefined) => {
+    if (!genres || genres.length === 0) return "Varios";
+    return genres
+      .slice(0, 3)
+      .map(g => GENRE_TRANSLATIONS[g.toLowerCase()] || g)
+      .join(" • ");
+  };
+
+  const handlePress = (playlistID: string) => {
+    router.push(`/playlist/${playlistID}`);
+  }
+
   const renderItem = ({ item }: { item: Playlist }) => (
-    <View style={styles.card}>
-      <Image source={{ uri: item.images?.[0]?.url }} style={styles.playlistImage} />
+    <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
+      <Image
+        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
+        style={styles.playlistImage}
+      />
       <View style={styles.textContainer}>
         <Text style={styles.playlistName}>{item.name}</Text>
+        <Text style={styles.genreTag}>
+          {formatGenresList(item.genres)}
+        </Text>
+
         <Text style={styles.playlistDescription} numberOfLines={2}>
           {item.description}
         </Text>
         <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
       </View>
-    </View>
+    </Pressable>
   )
+
+  const renderTabs = () => (
+    <View style={styles.tabsContainer}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingHorizontal: 5 }}>
+        {dynamicFilters.map((filtro) => (
+          <Pressable
+            key={filtro.id}
+            onPress={() => setActiveFilterId(filtro.id)}
+            style={[
+              styles.tabButton,
+              activeFilterId === filtro.id && styles.tabButtonActive
+            ]}
+          >
+            <Text style={[
+              styles.tabText,
+              activeFilterId === filtro.id && styles.tabTextActive
+            ]}>
+              {filtro.label}
+            </Text>
+          </Pressable>
+        ))}
+      </ScrollView>
+    </View>
+  );
 
   if (error) {
     return (
@@ -93,22 +209,26 @@ const PlaylistsScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
-        
         <Text style={styles.headerTitle}>Mis Playlists</Text>
       </View>
+      {renderTabs()}
 
-      {!loading && playlists.length === 0 ? (
+      {!loading && filteredPlaylists.length === 0 ? (
         <View style={styles.centerContainer}>
-          <Text style={styles.emptyText}>No hay playlists disponibles</Text>
+          <Text style={styles.emptyText}>
+            {activeFilterId === "Todos"
+              ? "No hay playlists disponibles"
+              : "No se encontraron playlists de " + activeFilterId}
+          </Text>
         </View>
       ) : (
         <FlatList
-          data={playlists}
+          data={filteredPlaylists}
           renderItem={renderItem}
           keyExtractor={(item) => item.id.toString()}
-          onEndReached={fetchPlaylists}
+          onEndReached={activeFilterId === "Todos" ? fetchPlaylists : null}
           onEndReachedThreshold={0.5}
-          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" /> : null}
+          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{ marginTop: 20 }} /> : null}
           contentContainerStyle={{ paddingBottom: 20 }}
         />
       )}
@@ -145,6 +265,36 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     flex: 1,
   },
+  // ESTILOS TABS
+  tabsContainer: {
+    marginBottom: 15,
+    height: 40,
+  },
+  tabButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderRadius: 20,
+    backgroundColor: "#1e1e1e",
+    marginRight: 10,
+    borderWidth: 1,
+    borderColor: "#333",
+    justifyContent: 'center',
+  },
+  tabButtonActive: {
+    backgroundColor: "#1DB954",
+    borderColor: "#1DB954",
+  },
+  tabText: {
+    color: "#b3b3b3",
+    fontSize: 14,
+    fontWeight: "600",
+    textTransform: 'capitalize'
+  },
+  tabTextActive: {
+    color: "#000000",
+    fontWeight: "bold",
+  },
+  // ESTILOS CARD
   card: {
     flexDirection: "row",
     backgroundColor: "#1e1e1e",
@@ -156,6 +306,7 @@ const styles = StyleSheet.create({
   playlistImage: {
     width: 100,
     height: 100,
+    alignSelf: 'center',
   },
   textContainer: {
     flex: 1,
@@ -167,21 +318,30 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: "bold",
   },
+
+  genreTag: {
+    color: "#1DB954",
+    fontSize: 11,
+    fontWeight: "bold",
+    marginBottom: 4,
+    marginTop: 2,
+    textTransform: 'capitalize'
+  },
   playlistDescription: {
     color: "#b3b3b3",
     fontSize: 12,
-    marginTop: 4,
+    marginTop: 2,
   },
   trackCount: {
-    color: "#1DB954",
+    color: "#777",
     fontSize: 11,
-    marginTop: 8,
-    fontWeight: "bold",
+    marginTop: 6,
   },
   centerContainer: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
+    minHeight: 200,
   },
   errorText: {
     color: "#ff4444",

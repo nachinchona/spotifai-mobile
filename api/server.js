@@ -12,6 +12,7 @@ app.use('/static', express.static(path.join(__dirname, '/public')))
 const routerPlaylists = require("./routes/routerPlaylists");
 app.use("/api/playlist/", routerPlaylists);
 
-app.listen(port, function () {
+const server = app.listen(port, function () {
   console.log(`SpotiFAI en http://localhost:${port} !`);
 });
+server.timeout = 300000;

@@ -1,8 +1,9 @@
-// siguiendo la estructura del JSON
+// app/interfaces/Playlist.tsx
 
 export interface Artist {
   name: string;
   external_urls: { spotify: string };
+  genres?: string[]; 
 }
 
 export interface Album {
@@ -31,6 +32,7 @@ export interface Playlist {
   name: string;
   description: string;
   images: Array<{ url: string }>;
+  genres?: string[]; 
   tracks: {
     items: PlaylistTrackItem[];
   };
