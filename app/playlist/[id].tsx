@@ -100,7 +100,7 @@ const PlaylistScreen = () => {
         currentPlayingId={activeTrackId}
         isPlaying={isTrackPlaying}
         onPlayPress={() => handleTogglePlay(item.track.external_urls.spotify, item.track.preview_url)
-        }>
+        }
       </TrackItem>
     )
   }
