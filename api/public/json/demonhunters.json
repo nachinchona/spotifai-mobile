@@ -1,0 +1,527 @@
+{
+    "id": "10",
+    "name": "All Demon hunters songs",
+    "description": "",
+    "genres": [
+        "k-pop"
+    ],
+    "images": [
+        {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+            "width": null
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "AUDREY NUNA",
+                            "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+                        },
+                        {
+                            "name": "REI AMI",
+                            "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Golden",
+                    "popularity": 98,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "AUDREY NUNA",
+                            "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+                        },
+                        {
+                            "name": "REI AMI",
+                            "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "How It’s Done",
+                    "popularity": 89,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "AUDREY NUNA",
+                            "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+                        },
+                        {
+                            "name": "REI AMI",
+                            "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "What It Sounds Like",
+                    "popularity": 89,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rumi",
+                            "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
+                        },
+                        {
+                            "name": "Jinu",
+                            "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "Andrew Choi",
+                            "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Free",
+                    "popularity": 88,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "AUDREY NUNA",
+                            "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+                        },
+                        {
+                            "name": "REI AMI",
+                            "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Takedown",
+                    "popularity": 88,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "EJAE",
+                            "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+                        },
+                        {
+                            "name": "AUDREY NUNA",
+                            "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+                        },
+                        {
+                            "name": "REI AMI",
+                            "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL"
+                        },
+                        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+                        "release_date": "2025-06-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02333392a83a4514ae635ed982",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851333392a83a4514ae635ed982",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Golden - Acapella",
+                    "popularity": 69,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3RUVLIRUNA3KHLt8pd8PL6"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "HUNTR/X",
+                            "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL"
+                        },
+                        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+                        "release_date": "2025-06-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02333392a83a4514ae635ed982",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851333392a83a4514ae635ed982",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Golden - Instrumental",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5LByxLn1X1Q9vr0xa4ZLYf"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Saja Boys",
+                            "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+                        },
+                        {
+                            "name": "Andrew Choi",
+                            "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+                        },
+                        {
+                            "name": "Neckwav",
+                            "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+                        },
+                        {
+                            "name": "Danny Chung",
+                            "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+                        },
+                        {
+                            "name": "KEVIN WOO",
+                            "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+                        },
+                        {
+                            "name": "samUIL Lee",
+                            "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Your Idol",
+                    "popularity": 90,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
+                    },
+                    "explicit": false
+                }
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Saja Boys",
+                            "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+                        },
+                        {
+                            "name": "Andrew Choi",
+                            "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+                        },
+                        {
+                            "name": "Neckwav",
+                            "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+                        },
+                        {
+                            "name": "Danny Chung",
+                            "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+                        },
+                        {
+                            "name": "KEVIN WOO",
+                            "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+                        },
+                        {
+                            "name": "samUIL Lee",
+                            "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+                        },
+                        {
+                            "name": "KPop Demon Hunters Cast",
+                            "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+                        },
+                        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+                        "release_date": "2025-06-20",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024dcb6c5df15cf74596ab25a4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Soda Pop",
+                    "popularity": 90,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+                    },
+                    "explicit": false
+                }
+            }
+        ]
+    }
+}
