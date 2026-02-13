@@ -23,9 +23,9 @@ const PlaylistsScreen = () => {
   const [loading, setLoading] = useState(true)
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
-  
+
   // Estados para filtros dinámicos
-  const [dynamicFilters, setDynamicFilters] = useState<{id: string, label: string}[]>([
+  const [dynamicFilters, setDynamicFilters] = useState<{ id: string, label: string }[]>([
     { id: "Todos", label: "Todos" },
   ]);
   const [activeFilterId, setActiveFilterId] = useState("Todos");
@@ -60,10 +60,10 @@ const PlaylistsScreen = () => {
             (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
           )
           const updatedList = [...prev, ...nuevasUnicas];
-          
+
           // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
           generateDynamicFilters(updatedList);
-          
+
           return updatedList
         })
 
@@ -78,7 +78,6 @@ const PlaylistsScreen = () => {
     }
   }
 
-  // Función auxiliar para contar géneros y crear botones
   const generateDynamicFilters = (currentPlaylists: Playlist[]) => {
     const genreCounts: Record<string, number> = {};
 
@@ -91,18 +90,16 @@ const PlaylistsScreen = () => {
       }
     });
 
-    // Ordenamos por los más usados
     const sortedGenres = Object.entries(genreCounts)
-      .sort(([, countA], [, countB]) => countB - countA) // Mayor a menor frecuencia
+      .sort(([, countA], [, countB]) => countB - countA)
       .map(([genre]) => genre)
-      .slice(0, 5); // Tomamos el TOP 5 géneros más comunes
+      .slice(0, 20);
 
     const newFilters = sortedGenres.map(g => ({
       id: g,
       label: formatGenreLabel(g)
     }));
 
-    // Actualizamos los filtros manteniendo "Todos" al principio
     setDynamicFilters([
       { id: "Todos", label: "Todos" },
       ...newFilters
@@ -110,7 +107,6 @@ const PlaylistsScreen = () => {
   };
 
   const formatGenreLabel = (genre: string) => {
-    // Busca traducción o capitaliza la primera letra
     const translated = GENRE_TRANSLATIONS[genre.toLowerCase()];
     if (translated) return translated;                          //no funciona bien
     return genre.charAt(0).toUpperCase() + genre.slice(1);
@@ -128,7 +124,7 @@ const PlaylistsScreen = () => {
     }
 
     // Filtrado por coincidencia de género
-    return result.filter(p => 
+    return result.filter(p =>
       p.genres && p.genres.some(genre => genre.toLowerCase().includes(activeFilterId.toLowerCase())
       )
     );
@@ -137,21 +133,21 @@ const PlaylistsScreen = () => {
 
   const formatGenresList = (genres: string[] | undefined) => {
     if (!genres || genres.length === 0) return "Varios";
-    return genres  
+    return genres
       .slice(0, 3)
-      .map(g => GENRE_TRANSLATIONS[g.toLowerCase()] || g) 
-      .join(" • "); 
+      .map(g => GENRE_TRANSLATIONS[g.toLowerCase()] || g)
+      .join(" • ");
   };
 
-  const handlePress = (playlistID : string) => {
+  const handlePress = (playlistID: string) => {
     router.push(`/playlist/${playlistID}`);
   }
 
   const renderItem = ({ item }: { item: Playlist }) => (
-    <Pressable style={styles.card} onPress={() => {handlePress(String(item.id));}}>
-      <Image 
-        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }} 
-        style={styles.playlistImage} 
+    <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
+      <Image
+        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
+        style={styles.playlistImage}
       />
       <View style={styles.textContainer}>
         <Text style={styles.playlistName}>{item.name}</Text>
@@ -220,8 +216,8 @@ const PlaylistsScreen = () => {
       {!loading && filteredPlaylists.length === 0 ? (
         <View style={styles.centerContainer}>
           <Text style={styles.emptyText}>
-            {activeFilterId === "Todos" 
-              ? "No hay playlists disponibles" 
+            {activeFilterId === "Todos"
+              ? "No hay playlists disponibles"
               : "No se encontraron playlists de " + activeFilterId}
           </Text>
         </View>
@@ -232,7 +228,7 @@ const PlaylistsScreen = () => {
           keyExtractor={(item) => item.id.toString()}
           onEndReached={activeFilterId === "Todos" ? fetchPlaylists : null}
           onEndReachedThreshold={0.5}
-          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{marginTop: 20}} /> : null}
+          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{ marginTop: 20 }} /> : null}
           contentContainerStyle={{ paddingBottom: 20 }}
         />
       )}
@@ -322,7 +318,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: "bold",
   },
-  
+
   genreTag: {
     color: "#1DB954",
     fontSize: 11,
