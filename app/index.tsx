@@ -139,28 +139,50 @@ const PlaylistsScreen = () => {
       .join(" • ");
   };
 
+  const handleDeletePlaylist = (playlistId: string) => {
+    console.log(`[handleDeletePlaylist] Hiding playlist ${playlistId} from view (file stays on server)`);
+
+    // Just remove from local state - file remains on server
+    setPlaylists(prev => prev.filter(p => p.id.toString() !== playlistId));
+  };
+
   const handlePress = (playlistID: string) => {
     router.push(`/playlist/${playlistID}`);
   }
 
   const renderItem = ({ item }: { item: Playlist }) => (
-    <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
-      <Image
-        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
-        style={styles.playlistImage}
-      />
-      <View style={styles.textContainer}>
-        <Text style={styles.playlistName}>{item.name}</Text>
-        <Text style={styles.genreTag}>
-          {formatGenresList(item.genres)}
-        </Text>
+    <View style={styles.card}>
+      <Pressable
+        style={styles.cardPressable}
+        onPress={() => { handlePress(String(item.id)); }}
+      >
+        <Image
+          source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
+          style={styles.playlistImage}
+        />
+        <View style={styles.textContainer}>
+          <Text style={styles.playlistName}>{item.name}</Text>
+          <Text style={styles.genreTag}>
+            {formatGenresList(item.genres)}
+          </Text>
 
-        <Text style={styles.playlistDescription} numberOfLines={2}>
-          {item.description}
-        </Text>
-        <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
-      </View>
-    </Pressable>
+          <Text style={styles.playlistDescription} numberOfLines={2}>
+            {item.description}
+          </Text>
+          <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
+        </View>
+      </Pressable>
+      <Pressable
+        style={styles.deleteButton}
+        onPress={() => {
+          console.log(`Delete button pressed for playlist: ${item.name} (ID: ${item.id})`);
+          console.log('Calling handleDeletePlaylist directly (Alert not showing)');
+          handleDeletePlaylist(String(item.id));
+        }}
+      >
+        <Text style={styles.deleteButtonText}>🗑️</Text>
+      </Pressable>
+    </View>
   )
 
   const renderTabs = () => (
@@ -296,12 +318,15 @@ const styles = StyleSheet.create({
   },
   // ESTILOS CARD
   card: {
-    flexDirection: "row",
     backgroundColor: "#1e1e1e",
     borderRadius: 8,
     marginBottom: 15,
     overflow: "hidden",
     elevation: 3,
+    position: "relative",
+  },
+  cardPressable: {
+    flexDirection: "row",
   },
   playlistImage: {
     width: 100,
@@ -364,6 +389,21 @@ const styles = StyleSheet.create({
     color: "#000",
     fontWeight: "bold",
     fontSize: 14,
+  },
+  deleteButton: {
+    position: "absolute",
+    right: 10,
+    top: 10,
+    backgroundColor: "#ff4444",
+    borderRadius: 20,
+    width: 40,
+    height: 40,
+    justifyContent: "center",
+    alignItems: "center",
+    zIndex: 10,
+  },
+  deleteButtonText: {
+    fontSize: 20,
   },
 })
 

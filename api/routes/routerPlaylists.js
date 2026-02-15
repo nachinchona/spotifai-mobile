@@ -6,7 +6,7 @@ routerPlaylists
     // Añade previewUrls a todas las canciones posibles con spotify-preview-finder
     // Spotify API descontinuó esa funcionalidad en Nov de 2024
     .post('/refresh', refreshPreviewUrls)
-    
+
     // Crea playlist
     .post('/', crearPlaylist)
 
@@ -19,5 +19,8 @@ routerPlaylists
 
     // Obtiene playlist determinada por parámetro id
     .get('/:idPlaylist', obtenerPlaylistPorID)
+
+    // Elimina playlist por id
+    .delete('/:idPlaylist', eliminarPlaylist)
 
 module.exports = routerPlaylists;

@@ -1,5 +1,7 @@
 require('dotenv').config();
 const { loadPlaylists, writePlaylist } = require('../models/loadPlaylists');
+const fs = require('fs');
+const path = require('path');
 
 const crearPlaylist = (req, res) => {
     const { id, name, description } = req.body;
@@ -65,7 +67,7 @@ const obtenerPlaylistPorID = (req, res) => {
     if (playlistIndex == -1) {
         return res.status(404).json({ message: 'No se encontró la playlist' });
     }
-    
+
     res.json({ message: 'Playlist obtenida!', playlist: playlists[playlistIndex] });
 };
 
@@ -90,9 +92,9 @@ const obtenerPlaylistsPaginadas = (req, res) => {
 
     const hayMas = candidatas.length > paginacion;
 
-    res.json({ 
-        message: 'Playlists obtenidas!', 
-        playlists: corte, 
+    res.json({
+        message: 'Playlists obtenidas!',
+        playlists: corte,
         ultimaID: ultimaID,
         hayMas: hayMas
     });
@@ -115,7 +117,7 @@ const refreshPreviewUrls = async (req, res) => {
                 if (result.success && result.results.length > 0 && result.results[0].previewUrls.length > 0) {
                     const previewUrl = result.results[0].previewUrls[0];
                     enrichedTracks.push({
-                        track: track.track, preview_url: previewUrl 
+                        track: track.track, preview_url: previewUrl
                     });
                 }
                 i++;
@@ -132,4 +134,51 @@ const refreshPreviewUrls = async (req, res) => {
     }
 };
 
-module.exports = { crearPlaylist, editarPlaylist, obtenerPlaylistPorID, obtenerPlaylistsPaginadas, refreshPreviewUrls };
+const eliminarPlaylist = (req, res) => {
+    console.log(`[DELETE ROUTE] Request received for playlist ID: ${req.params.idPlaylist}`);
+    const idPlaylist = parseInt(req.params.idPlaylist);
+
+    if (!idPlaylist || isNaN(idPlaylist)) {
+        return res.status(400).json({ message: 'Id no especificada o inválida' });
+    }
+
+    const playlists = loadPlaylists();
+    const playlistData = playlists.find(p => parseInt(p.id) === idPlaylist);
+
+    if (!playlistData) {
+        console.log(`[DELETE ROUTE] Playlist with ID ${idPlaylist} not found in data`);
+        return res.status(404).json({ message: 'No se encontró la playlist' });
+    }
+
+    try {
+        const rutaJsons = path.join(__dirname, '../public/json');
+        const files = fs.readdirSync(rutaJsons);
+
+        // Find the file that contains this playlist
+        let playlistFile = null;
+        for (const file of files) {
+            const filePath = path.join(rutaJsons, file);
+            const content = fs.readFileSync(filePath, 'utf-8');
+            const playlist = JSON.parse(content);
+            if (parseInt(playlist.id) === idPlaylist) {
+                playlistFile = filePath;
+                break;
+            }
+        }
+
+        if (!playlistFile) {
+            console.log(`[DELETE ROUTE] File for playlist ID ${idPlaylist} not found`);
+            return res.status(404).json({ message: 'Archivo de playlist no encontrado' });
+        }
+
+        // Eliminar el archivo
+        fs.unlinkSync(playlistFile);
+        console.log(`[DELETE ROUTE] Playlist ${idPlaylist} deleted successfully from: ${playlistFile}`);
+        res.json({ message: 'Playlist eliminada correctamente!', id: idPlaylist });
+    } catch (error) {
+        console.error('Error al eliminar playlist:', error);
+        res.status(500).json({ message: 'Error al eliminar la playlist', error: error.message });
+    }
+};
+
+module.exports = { crearPlaylist, editarPlaylist, obtenerPlaylistPorID, obtenerPlaylistsPaginadas, refreshPreviewUrls, eliminarPlaylist };
