@@ -1,4 +1,6 @@
+import { DeleteButton } from '@/components/delete-button';
 import TrackItem from '@/components/TrackPlayer';
+import { IP_ADDRESS } from '@/src/api';
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useLocalSearchParams, useRouter } from 'expo-router';
@@ -10,9 +12,6 @@ import { Playlist, PlaylistTrackItem } from '../../interfaces/Playlist';
 const PlaylistScreen = () => {
   // router
   const router = useRouter();
-  const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
-  const PORT = "3000"
-  const IP_ADDRESS = IP ? `${IP}:${PORT}` : null
 
   // para playlist
   const { id } = useLocalSearchParams();
@@ -88,14 +87,14 @@ const PlaylistScreen = () => {
     const renderItem = ({ item }: { item: PlaylistTrackItem }) => {
       const isTrackPlaying = status.playing && (activeTrackId === item.track.external_urls.spotify);
       return (
-      <TrackItem
-      track={item.track}
-      previewUrl={item.track.preview_url}
-      currentPlayingId={activeTrackId}
-      isPlaying={isTrackPlaying}
-      onPlayPress={() => handleTogglePlay(item.track.external_urls.spotify, item.track.preview_url)
-      }>
-      </TrackItem>
+          <TrackItem
+          track={item.track}
+          previewUrl={item.preview_url}
+          currentPlayingId={activeTrackId}
+          isPlaying={isTrackPlaying}
+          onPlayPress={() => handleTogglePlay(item.track.external_urls.spotify, item.preview_url)
+          }>
+          </TrackItem>
     )}
 
     const handleTogglePlay = (id: string, url: string | null) => {
@@ -147,6 +146,7 @@ const PlaylistScreen = () => {
               <Text style={styles.headerTitle}>{playlist.name}</Text> 
               <Text style={styles.playlistDescription}>{playlist.description}</Text>
             </View>
+            <DeleteButton id={id as string}/>
           </View>
           <FlatList
             data={playlist.tracks.items}
@@ -256,6 +256,16 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     paddingRight: 15,
+  },
+  rightAction: {
+    backgroundColor: '#dd2c00',
+    justifyContent: 'center',
+    alignItems: 'center',
+    width: 80,
+    height: '100%',
+    borderRadius: 8,
+    marginLeft: 10,
+    marginBottom: 15,
   },
 })
 

@@ -1,5 +1,8 @@
+import { DeleteContext } from "@/context/deleteContext";
+import { IP_ADDRESS } from "@/src/api";
+import { useFocusEffect } from '@react-navigation/native';
 import { useRouter } from "expo-router";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useContext, useEffect, useMemo, useState } from "react";
 import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from '../interfaces/Playlist';
@@ -17,7 +20,7 @@ const GENRE_TRANSLATIONS: Record<string, string> = {
   "Argentine Trap": "Trap Argentino"
 };
 
-const PlaylistsScreen = () => {
+export default function PlaylistsScreen() {
   const router = useRouter()
   const [playlists, setPlaylists] = useState<Playlist[]>([])
   const [loading, setLoading] = useState(true)
@@ -29,10 +32,7 @@ const PlaylistsScreen = () => {
     { id: "Todos", label: "Todos" },
   ]);
   const [activeFilterId, setActiveFilterId] = useState("Todos");
-
-  const IP = process.env.EXPO_PUBLIC_IP_ADDRESS
-  const PORT = "3000"
-  const IP_ADDRESS = IP ? `${IP}:${PORT}` : null
+  const { wasDeleted, setWasDeleted, idDeletedPlaylist, setIdDeletedPlaylist } = useContext(DeleteContext);
 
   const fetchPlaylists = async () => {
     if (!IP_ADDRESS) {
@@ -55,20 +55,24 @@ const PlaylistsScreen = () => {
       const data = await response.json()
 
       if (data && data.playlists) {
-        setPlaylists((prev) => {
-          const nuevasUnicas = data.playlists.filter(
-            (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
-          )
-          const updatedList = [...prev, ...nuevasUnicas];
+        if (data.playlists.length !== 0) {
+          setPlaylists((prev) => {
+            const nuevasUnicas = data.playlists.filter(
+              (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
+            )
+            const updatedList = [...prev, ...nuevasUnicas];
 
-          // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
-          generateDynamicFilters(updatedList);
+            // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
+            generateDynamicFilters(updatedList);
 
-          return updatedList
-        })
+            return updatedList
+          })
 
-        setUltimaID(data.ultimaID)
-        setError(null)
+          setUltimaID(data.ultimaID)
+          setError(null)
+        } else {
+          setPlaylists([]);
+        }
       }
     } catch (error) {
       console.error("Error al cargar datos:", error)
@@ -77,6 +81,22 @@ const PlaylistsScreen = () => {
       setLoading(false)
     }
   }
+
+  useFocusEffect(
+    useCallback(() => {
+      if (wasDeleted) {
+        const updatedPlaylists = playlists.filter(p => p.id !== idDeletedPlaylist);
+        setPlaylists(updatedPlaylists);
+        setWasDeleted(false);
+        setIdDeletedPlaylist(0);
+      }
+      return () => {
+        console.log(wasDeleted)
+        console.log(idDeletedPlaylist)
+        console.log('Screen unfocused, cleaning up...');
+      };
+    }, [])
+  );
 
   const generateDynamicFilters = (currentPlaylists: Playlist[]) => {
     const genreCounts: Record<string, number> = {};
@@ -108,13 +128,9 @@ const PlaylistsScreen = () => {
 
   const formatGenreLabel = (genre: string) => {
     const translated = GENRE_TRANSLATIONS[genre.toLowerCase()];
-    if (translated) return translated;                          //no funciona bien
+    if (translated) return translated;                          // no funciona bien
     return genre.charAt(0).toUpperCase() + genre.slice(1);
   };
-
-  useEffect(() => {
-    fetchPlaylists()
-  }, [])
 
   const filteredPlaylists = useMemo(() => {
     let result = [...playlists];
@@ -140,28 +156,35 @@ const PlaylistsScreen = () => {
   };
 
   const handlePress = (playlistID: string) => {
+    console.log(`EN INDEX /playlist/${playlistID}`)
     router.push(`/playlist/${playlistID}`);
   }
 
-  const renderItem = ({ item }: { item: Playlist }) => (
-    <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
-      <Image
-        source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
-        style={styles.playlistImage}
-      />
-      <View style={styles.textContainer}>
-        <Text style={styles.playlistName}>{item.name}</Text>
-        <Text style={styles.genreTag}>
-          {formatGenresList(item.genres)}
-        </Text>
+  const renderItem = ({ item }: { item: Playlist }) => {
+    return (
+      <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
+        <Image
+          source={{ uri: item.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
+          style={styles.playlistImage}
+        />
+        <View style={styles.textContainer}>
+          <Text style={styles.playlistName}>{item.name}</Text>
+          <Text style={styles.genreTag}>
+            {formatGenresList(item.genres)}
+          </Text>
 
-        <Text style={styles.playlistDescription} numberOfLines={2}>
-          {item.description}
-        </Text>
-        <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
-      </View>
-    </Pressable>
-  )
+          <Text style={styles.playlistDescription} numberOfLines={2}>
+            {item.description}
+          </Text>
+          <Text style={styles.trackCount}>{item.tracks?.items?.length || 0} canciones</Text>
+        </View>
+      </Pressable>
+    );
+  }
+
+  useEffect(() => {
+    fetchPlaylists()
+  }, [playlists])
 
   const renderTabs = () => (
     <View style={styles.tabsContainer}>
@@ -365,6 +388,23 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 14,
   },
+  card2: {
+    flexDirection: "row",
+    alignItems: 'center',
+    backgroundColor: "#1e1e1e",
+    borderRadius: 8,
+    // Eliminamos el marginBottom de aquí para que el swipeable lo controle
+    overflow: "hidden",
+    elevation: 3,
+  },
+  deleteAction: {
+    backgroundColor: '#dd2c00',
+    justifyContent: 'center',
+    alignItems: 'center',
+    width: 80,
+    height: '100%',
+    borderRadius: 8,
+    marginLeft: 10,
+    marginBottom: 15,
+  }
 })
-
-export default PlaylistsScreen

@@ -1,30 +1,10 @@
 require('dotenv').config();
-const { loadPlaylists, writePlaylist } = require('../models/loadPlaylists');
-
-const crearPlaylist = (req, res) => {
-    const { id, name, description } = req.body;
-    const json = JSON.stringify({ id, name, description });
-
-    if (typeof id === "string" && id > 0) {
-        return res.status(400).json({ message: 'Id invalida' });
-    }
-
-    const variasPlaylists = loadPlaylists();
-    for (let playlist of variasPlaylists) {
-        if (playlist.id == id) {
-            return res.status(400).json({ message: 'Id ya existente' });
-        }
-    }
-
-    writePlaylist(`playlist-${id}.json`, json);
-    res.json({ message: 'Playlist creada correctamente!', data: { id, name, description } });
-
-};
+const { cargarPlaylists, eliminarPlaylist } = require('../models/loadPlaylists');
 
 const editarPlaylist = (req, res) => {
     const idPlaylist = parseInt(req.params.idPlaylist);
     const { name, description } = req.body;
-    const playlists = loadPlaylists();
+    const playlists = cargarPlaylists();
     const playlistIndex = playlists.findIndex(p => p.id === idPlaylist);
 
     if (!idPlaylist) {
@@ -55,7 +35,7 @@ const editarPlaylist = (req, res) => {
 
 const obtenerPlaylistPorID = (req, res) => {
     const idPlaylist = parseInt(req.params.idPlaylist);
-    const playlists = loadPlaylists();
+    const playlists = cargarPlaylists();
     const playlistIndex = playlists.findIndex(p => parseInt(p.id) === idPlaylist);
 
     if (!idPlaylist) {
@@ -77,30 +57,39 @@ const obtenerPlaylistsPaginadas = (req, res) => {
         return res.status(400).json({ message: 'Parámetro "from" debe ser un número' });
     }
 
-    const playlists = loadPlaylists();
-    playlists.sort((a, b) => a.id - b.id);
-    const candidatas = playlists.filter(p => p.id > from);
-    const corte = candidatas.slice(0, paginacion);
+    const playlists = cargarPlaylists();
+    if (playlists.length !== 0) {
+        playlists.sort((a, b) => a.id - b.id);
+        const candidatas = playlists.filter(p => p.id > from);
+        const corte = candidatas.slice(0, paginacion);
 
-    if (corte.length === 0) {
-        return res.status(404).json({ message: 'No hay más playlists' });
+        if (corte.length === 0) {
+            return res.status(404).json({ message: 'No hay más playlists' });
+        }
+
+        const ultimaID = corte[corte.length - 1].id;
+
+        const hayMas = candidatas.length > paginacion;
+
+        res.json({ 
+            message: 'Playlists obtenidas!', 
+            playlists: corte, 
+            ultimaID: ultimaID,
+            hayMas: hayMas
+        });
+    } else {
+        res.json({ 
+            message: 'No hay más playlists.', 
+            playlists: [], 
+            ultimaID: 0,
+            hayMas: false
+        });
     }
-
-    const ultimaID = corte[corte.length - 1].id;
-
-    const hayMas = candidatas.length > paginacion;
-
-    res.json({ 
-        message: 'Playlists obtenidas!', 
-        playlists: corte, 
-        ultimaID: ultimaID,
-        hayMas: hayMas
-    });
 };
 
 const getPreview = require('spotify-preview-finder');
 
-const refreshPreviewUrls = async (req, res) => {
+const actualizarPreviews = async (req, res) => {
     try {
         const { tracks } = req.body;
         const enrichedTracks = [];
@@ -132,4 +121,31 @@ const refreshPreviewUrls = async (req, res) => {
     }
 };
 
-module.exports = { crearPlaylist, editarPlaylist, obtenerPlaylistPorID, obtenerPlaylistsPaginadas, refreshPreviewUrls };
+const eliminarPlaylistPorID = (req, res) => {
+    const idPlaylist = parseInt(req.params.idPlaylist);
+    const playlists = cargarPlaylists();
+    const playlist = playlists.find(p => p.id == idPlaylist);
+
+    if (!playlist) {
+        return res.status(404).json({ error: "Playlist no encontrada" });
+    }
+
+    try {
+        eliminarPlaylist(idPlaylist);
+
+        res.json({ 
+            message: 'Playlist eliminada.',
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: "Error eliminando la playlist" });
+    }
+};
+
+module.exports = { 
+    editarPlaylist, 
+    obtenerPlaylistPorID, 
+    obtenerPlaylistsPaginadas, 
+    actualizarPreviews, 
+    eliminarPlaylistPorID
+};

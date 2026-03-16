@@ -7,7 +7,7 @@ const TrackItem = ({ track, previewUrl, currentPlayingId, isPlaying, onPlayPress
   const isThisTrackActive = track.external_urls.spotify === currentPlayingId;
   const id = track.external_urls.spotify;
 
-  if (isPlaying) console.log(`Track: ${track.name} | Active: ${isThisTrackActive} | Playing: ${isPlaying}`);
+  // if (isPlaying) console.log(`Track: ${track.name} | Active: ${isThisTrackActive} | Playing: ${isPlaying}`);
   return (
     <View style={styles.card}>
         <Image
