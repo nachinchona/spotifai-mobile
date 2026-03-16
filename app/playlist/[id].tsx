@@ -26,63 +26,63 @@ const PlaylistScreen = () => {
 
   const fetchPlaylist = async () => {
     if (!IP_ADDRESS) {
-        setError("Error: EXPO_PUBLIC_IP_ADDRESS no está configurada")
-        return
+      setError("Error: EXPO_PUBLIC_IP_ADDRESS no está configurada")
+      return
     }
     try {
-        const response = await fetch(`http://${IP_ADDRESS}/api/playlist/${id}`);
-        if (!response.ok) {
-            if (response.status === 404) {
-                return
-            }
-            throw new Error(`HTTP Error: ${response.status}`)
+      const response = await fetch(`http://${IP_ADDRESS}/api/playlist/${id}`);
+      if (!response.ok) {
+        if (response.status === 404) {
+          return
         }
+        throw new Error(`HTTP Error: ${response.status}`)
+      }
 
-        const data = await response.json();
+      const data = await response.json();
 
-        if (data && data.playlist) {
-            setPlaylist(data.playlist);
-            setError(null);
-        }
+      if (data && data.playlist) {
+        setPlaylist(data.playlist);
+        setError(null);
+      }
     } catch (error) {
-        console.error("Error al cargar playlist:", error)
-        setError(`Error de conexion: ${error}`)
+      console.error("Error al cargar playlist:", error)
+      setError(`Error de conexion: ${error}`)
     } finally {
-        setLoading(false)
+      setLoading(false)
     }
   };
 
   useEffect(() => {
-      fetchPlaylist()
+    fetchPlaylist()
   }, [id])
 
   if (error) {
     return (
       <SafeAreaView style={styles.container}>
-          <View style={styles.header}>
+        <View style={styles.header}>
           <Pressable onPress={() => router.back()} style={styles.backButton}>
-              <Text style={styles.backButtonText}>← Volver</Text>
+            <Text style={styles.backButtonText}>← Volver</Text>
           </Pressable>
           <Text style={styles.headerTitle}>Mis Playlists</Text>
-          </View>
-          <View style={styles.centerContainer}>
+        </View>
+        <View style={styles.centerContainer}>
           <Text style={styles.errorText}>{error}</Text>
           <Pressable style={styles.retryButton} onPress={fetchPlaylist}>
-              <Text style={styles.retryButtonText}>Reintentar</Text>
+            <Text style={styles.retryButtonText}>Reintentar</Text>
           </Pressable>
-          </View>
+        </View>
       </SafeAreaView>
-      )
-    }
+    )
+  }
 
-    if (!playlist) {
-      return (
-          <View style={[styles.container, { justifyContent: 'center', alignItems: 'center' }]}>
-              <ActivityIndicator size="large" color="#1DB954" />
-              <Text style={{ color: 'white', marginTop: 10 }}>Cargando playlist...</Text>
-          </View>
-      );
-    }
+  if (!playlist) {
+    return (
+      <View style={[styles.container, { justifyContent: 'center', alignItems: 'center' }]}>
+        <ActivityIndicator size="large" color="#1DB954" />
+        <Text style={{ color: 'white', marginTop: 10 }}>Cargando playlist...</Text>
+      </View>
+    );
+  }
 
     const renderItem = ({ item }: { item: PlaylistTrackItem }) => {
       const isTrackPlaying = status.playing && (activeTrackId === item.track.external_urls.spotify);
@@ -97,21 +97,21 @@ const PlaylistScreen = () => {
           </TrackItem>
     )}
 
-    const handleTogglePlay = (id: string, url: string | null) => {
-      if (!url) return;
+  const handleTogglePlay = (id: string, url: string | null) => {
+    if (!url) return;
 
-      if (activeTrackId === id) {
-        if (player.playing) {
-          player.pause();
-        } else {
-          player.play();
-        }
+    if (activeTrackId === id) {
+      if (player.playing) {
+        player.pause();
       } else {
-        setActiveTrackId(id);
-        player.replace(url);
         player.play();
       }
+    } else {
+      setActiveTrackId(id);
+      player.replace(url);
+      player.play();
     }
+  }
 
     return (
       <View style={styles.container}>
