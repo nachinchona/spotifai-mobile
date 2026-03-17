@@ -84,18 +84,19 @@ const PlaylistScreen = () => {
     );
   }
 
-    const renderItem = ({ item }: { item: PlaylistTrackItem }) => {
-      const isTrackPlaying = status.playing && (activeTrackId === item.track.external_urls.spotify);
-      return (
-          <TrackItem
-          track={item.track}
-          previewUrl={item.preview_url}
-          currentPlayingId={activeTrackId}
-          isPlaying={isTrackPlaying}
-          onPlayPress={() => handleTogglePlay(item.track.external_urls.spotify, item.preview_url)
-          }>
-          </TrackItem>
-    )}
+  const renderItem = ({ item }: { item: PlaylistTrackItem }) => {
+    const isTrackPlaying = status.playing && (activeTrackId === item.track.external_urls.spotify);
+    return (
+      <TrackItem
+        track={item.track}
+        previewUrl={item.preview_url}
+        currentPlayingId={activeTrackId}
+        isPlaying={isTrackPlaying}
+        onPlayPress={() => handleTogglePlay(item.track.external_urls.spotify, item.preview_url)
+        }>
+      </TrackItem>
+    )
+  }
 
   const handleTogglePlay = (id: string, url: string | null) => {
     if (!url) return;
@@ -113,52 +114,52 @@ const PlaylistScreen = () => {
     }
   }
 
-    return (
-      <View style={styles.container}>
-        {playlist.images?.[0]?.url && (
-            <View style={StyleSheet.absoluteFillObject}>
-                {/* imagen estirada y borrosa*/}
-                <Image
-                    source={{ uri: playlist.images?.[0]?.url }}
-                    style={[StyleSheet.absoluteFillObject, { opacity: 0.7 }]}
-                    blurRadius={40}
-                />
-                
-                {/* parte baja oscura */}
-                <LinearGradient
-                    colors={['transparent', '#121212']}
-                    style={StyleSheet.absoluteFillObject}
-                    start={{ x: 0, y: 0 }}
-                    end={{ x: 0, y: 0.8 }}
-                />
-                  
-                {/* capa negra más oscura */}
-                <View style={[StyleSheet.absoluteFillObject, { backgroundColor: 'rgba(0,0,0,0.3)' }]} />
-            </View>
-        )}
-        <SafeAreaView style={{flex: 1}}>
-          <View style={styles.header}>
-            <Image 
-              source={{ uri: playlist.images?.[0]?.url || '../assets/images/iconofaigrande.png' }} 
-              style={styles.playlistImage}
-            />
-            <View style={styles.textContainer}>
-              <Text style={styles.headerTitle}>{playlist.name}</Text> 
-              <Text style={styles.playlistDescription}>{playlist.description}</Text>
-            </View>
-            <DeleteButton id={id as string}/>
-          </View>
-          <FlatList
-            data={playlist.tracks.items}
-            renderItem={renderItem}
-            keyExtractor={(item) => item.track.external_urls.spotify}
-            ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{marginTop: 20}} /> : null}
-            contentContainerStyle={{ paddingBottom: 20, paddingHorizontal: 15, }}
-            extraData={[status.playing]}
+  return (
+    <View style={styles.container}>
+      {playlist.images?.[0]?.url && (
+        <View style={StyleSheet.absoluteFillObject}>
+          {/* imagen estirada y borrosa*/}
+          <Image
+            source={{ uri: playlist.images?.[0]?.url }}
+            style={[StyleSheet.absoluteFillObject, { opacity: 0.7 }]}
+            blurRadius={40}
           />
-        </SafeAreaView>
-      </View>
-    );
+
+          {/* parte baja oscura */}
+          <LinearGradient
+            colors={['transparent', '#121212']}
+            style={StyleSheet.absoluteFillObject}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 0, y: 0.8 }}
+          />
+
+          {/* capa negra más oscura */}
+          <View style={[StyleSheet.absoluteFillObject, { backgroundColor: 'rgba(0,0,0,0.3)' }]} />
+        </View>
+      )}
+      <SafeAreaView style={{ flex: 1 }}>
+        <View style={styles.header}>
+          <Image
+            source={{ uri: playlist.images?.[0]?.url || '../assets/images/iconofaigrande.png' }}
+            style={styles.playlistImage}
+          />
+          <View style={styles.textContainer}>
+            <Text style={styles.headerTitle}>{playlist.name}</Text>
+            <Text style={styles.playlistDescription}>{playlist.description}</Text>
+          </View>
+          <DeleteButton id={id as string} />
+        </View>
+        <FlatList
+          data={playlist.tracks.items}
+          renderItem={renderItem}
+          keyExtractor={(item) => item.track.external_urls.spotify}
+          ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{ marginTop: 20 }} /> : null}
+          contentContainerStyle={{ paddingBottom: 20, paddingHorizontal: 15, }}
+          extraData={[status.playing]}
+        />
+      </SafeAreaView>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({

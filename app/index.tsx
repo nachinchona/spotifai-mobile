@@ -1,8 +1,7 @@
-import { DeleteContext } from "@/context/deleteContext";
 import { IP_ADDRESS } from "@/src/api";
 import { useFocusEffect } from '@react-navigation/native';
 import { useRouter } from "expo-router";
-import { useCallback, useContext, useEffect, useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from '../interfaces/Playlist';
@@ -32,9 +31,8 @@ export default function PlaylistsScreen() {
     { id: "Todos", label: "Todos" },
   ]);
   const [activeFilterId, setActiveFilterId] = useState("Todos");
-  const { wasDeleted, setWasDeleted, idDeletedPlaylist, setIdDeletedPlaylist } = useContext(DeleteContext);
 
-  const fetchPlaylists = async () => {
+  const fetchPlaylists = async (fromId: number = 0) => {
     if (!IP_ADDRESS) {
       setError("Error: EXPO_PUBLIC_IP_ADDRESS no está configurada")
       setLoading(false)
@@ -42,7 +40,7 @@ export default function PlaylistsScreen() {
     }
 
     try {
-      const response = await fetch(`http://${IP_ADDRESS}/api/playlist/?from=${ultimaID}`)
+      const response = await fetch(`http://${IP_ADDRESS}/api/playlist/?from=${fromId}`)
 
       if (!response.ok) {
         if (response.status === 404) {
@@ -61,17 +59,11 @@ export default function PlaylistsScreen() {
               (nueva: Playlist) => !prev.some((existente) => existente.id === nueva.id),
             )
             const updatedList = [...prev, ...nuevasUnicas];
-
-            // --- ALGORITMO DE GENERACIÓN DE FILTROS ---
             generateDynamicFilters(updatedList);
-
             return updatedList
           })
-
           setUltimaID(data.ultimaID)
           setError(null)
-        } else {
-          setPlaylists([]);
         }
       }
     } catch (error) {
@@ -82,19 +74,13 @@ export default function PlaylistsScreen() {
     }
   }
 
+  // Al volver a esta pantalla, resetear y re-fetchear todo desde el servidor
   useFocusEffect(
     useCallback(() => {
-      if (wasDeleted) {
-        const updatedPlaylists = playlists.filter(p => p.id !== idDeletedPlaylist);
-        setPlaylists(updatedPlaylists);
-        setWasDeleted(false);
-        setIdDeletedPlaylist(0);
-      }
-      return () => {
-        console.log(wasDeleted)
-        console.log(idDeletedPlaylist)
-        console.log('Screen unfocused, cleaning up...');
-      };
+      setPlaylists([]);
+      setUltimaID(0);
+      setLoading(true);
+      fetchPlaylists(0);
     }, [])
   );
 
@@ -182,9 +168,6 @@ export default function PlaylistsScreen() {
     );
   }
 
-  useEffect(() => {
-    fetchPlaylists()
-  }, [playlists])
 
   const renderTabs = () => (
     <View style={styles.tabsContainer}>
@@ -221,7 +204,7 @@ export default function PlaylistsScreen() {
         </View>
         <View style={styles.centerContainer}>
           <Text style={styles.errorText}>{error}</Text>
-          <Pressable style={styles.retryButton} onPress={fetchPlaylists}>
+          <Pressable style={styles.retryButton} onPress={() => fetchPlaylists(0)}>
             <Text style={styles.retryButtonText}>Reintentar</Text>
           </Pressable>
         </View>
@@ -249,7 +232,7 @@ export default function PlaylistsScreen() {
           data={filteredPlaylists}
           renderItem={renderItem}
           keyExtractor={(item) => item.id.toString()}
-          onEndReached={activeFilterId === "Todos" ? fetchPlaylists : null}
+          onEndReached={activeFilterId === "Todos" ? () => fetchPlaylists(ultimaID) : null}
           onEndReachedThreshold={0.5}
           ListFooterComponent={loading ? <ActivityIndicator color="#1DB954" style={{ marginTop: 20 }} /> : null}
           contentContainerStyle={{ paddingBottom: 20 }}
