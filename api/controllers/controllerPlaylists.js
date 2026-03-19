@@ -1,6 +1,5 @@
 require('dotenv').config();
-const { cargarPlaylists, eliminarPlaylist } = require('../models/loadPlaylists');
-
+const { cargarPlaylists, eliminarPlaylist, modificarFavorito } = require('../models/loadPlaylists');
 const editarPlaylist = (req, res) => {
     const idPlaylist = parseInt(req.params.idPlaylist);
     const { name, description } = req.body;
