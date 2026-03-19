@@ -142,10 +142,36 @@ const eliminarPlaylistPorID = (req, res) => {
     }
 };
 
+const marcarFavorita = (req, res) => {
+    const { idPlaylist, isFavorite } = req.body;
+
+    if (!idPlaylist) {
+        return res.status(400).json({ message: 'Id de playlist no especificado en el body' });
+    }
+
+    if (typeof isFavorite !== 'boolean') {
+        return res.status(400).json({ message: 'isFavorite debe ser un valor booleano (true/false)' });
+    }
+
+    try {
+        const playlistActualizada = modificarFavorito(idPlaylist, isFavorite);
+        
+        res.json({ 
+            message: 'Estado de favorito actualizado correctamente!', 
+            playlist: playlistActualizada 
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Error interno al actualizar favorito' });
+    }
+};
+
+
 module.exports = { 
     editarPlaylist, 
     obtenerPlaylistPorID, 
     obtenerPlaylistsPaginadas, 
     actualizarPreviews, 
-    eliminarPlaylistPorID
+    eliminarPlaylistPorID,
+    marcarFavorita
 };
