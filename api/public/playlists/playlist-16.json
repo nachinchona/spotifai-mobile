@@ -1,0 +1,2755 @@
+{
+    "id": 16,
+    "name": "canciones que el hada madrina de shrek cantaría en un karaoke",
+    "description": "",
+    "genres": [
+        "acid rock",
+        "adult standards",
+        "art pop",
+        "art rock",
+        "baroque pop",
+        "bolero",
+        "christmas",
+        "classic rock",
+        "classic soul",
+        "colombian pop",
+        "country",
+        "cumbia",
+        "disco",
+        "east coast hip hop",
+        "hi-nrg",
+        "latin pop",
+        "mariachi",
+        "motown",
+        "musicals",
+        "música mexicana",
+        "neo soul",
+        "popular colombian music",
+        "psychedelic rock",
+        "r&b",
+        "ranchera",
+        "rock en español",
+        "soul",
+        "tejano",
+        "variété française",
+        "villancicos"
+    ],
+    "images": [
+        {
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849b445a1fdac51f24a57a5ab3",
+            "width": null
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Bonnie Tyler",
+                            "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+                        },
+                        "name": "The Very Best of Bonnie Tyler",
+                        "release_date": "2009-03-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028cefe8e2f2cfd63ce073fa96",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518cefe8e2f2cfd63ce073fa96",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Total Eclipse of the Heart",
+                    "popularity": 82,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/42af1cbc20498d5e7de081f39b218ab035c9a57a"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Céline Dion",
+                            "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK",
+                            "genres": [
+                                "variété française"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8"
+                        },
+                        "name": "The Very Best of Celine Dion",
+                        "release_date": "2019-01-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27346604a5c588e572cca6d80f1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0246604a5c588e572cca6d80f1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485146604a5c588e572cca6d80f1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "It's All Coming Back to Me Now - Radio Version",
+                    "popularity": 50,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0q9mq2TknlmqiX6x6IxmMS"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1c9e9243dfe3a23b0e873cb76c6f4e2d45180793"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Whitney Houston",
+                            "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+                        },
+                        "name": "The Bodyguard - Original Soundtrack Album",
+                        "release_date": "1992-11-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851456c0b5d0316a80dc600802e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "I Will Always Love You",
+                    "popularity": 81,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5896e539e24ae2394d2bec6ea2cf42e4608b68f5"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Whitney Houston",
+                            "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+                        },
+                        "name": "The Bodyguard - Original Soundtrack Album",
+                        "release_date": "1992-11-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851456c0b5d0316a80dc600802e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "I Have Nothing",
+                    "popularity": 81,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/733cf780cbab3cb0831ddd499833645f997d7349"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Céline Dion",
+                            "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK",
+                            "genres": [
+                                "variété française"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+                        },
+                        "name": "Falling into You",
+                        "release_date": "1996-03-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c6aebd89b2dcda3348649633",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c6aebd89b2dcda3348649633",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c6aebd89b2dcda3348649633",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "All By Myself",
+                    "popularity": 72,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5b1b95881ad05c22c8355980a15c76a168d8c560"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kelly Clarkson",
+                            "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX",
+                            "genres": [
+                                "christmas"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+                        },
+                        "name": "Breakaway",
+                        "release_date": "2004",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273158c72ad0003cb37ca0c9eff",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02158c72ad0003cb37ca0c9eff",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851158c72ad0003cb37ca0c9eff",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Since U Been Gone",
+                    "popularity": 78,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3010d17f854dad67cb0133a5687d871366d67882"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Whitney Houston",
+                            "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+                            "genres": []
+                        },
+                        {
+                            "name": "Mariah Carey",
+                            "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ",
+                            "genres": [
+                                "christmas"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+                        },
+                        "name": "My Love Is Your Love",
+                        "release_date": "1998-11-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27384b84d08fdbaebb99098890c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0284b84d08fdbaebb99098890c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485184b84d08fdbaebb99098890c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "When You Believe - from The Prince of Egypt",
+                    "popularity": 67,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4370f823bb018c753ee52ad8359aaf75f4935b46"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Christina Aguilera",
+                            "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+                        },
+                        "name": "Back To Basics",
+                        "release_date": "2006-08-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e86d1964047c965af2e4d35a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e86d1964047c965af2e4d35a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e86d1964047c965af2e4d35a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hurt",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1fd379c3987a93368292dc2d59b886a4aa55eaeb"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mariah Carey",
+                            "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ",
+                            "genres": [
+                                "christmas"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+                        },
+                        "name": "Music Box",
+                        "release_date": "1993-08-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734c0f9e15bccb777f14b9a228",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024c0f9e15bccb777f14b9a228",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514c0f9e15bccb777f14b9a228",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Without You",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/79734381076439e270c46862a45de6df7bb72231"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Whitney Houston",
+                            "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE"
+                        },
+                        "name": "Whitney Houston (The Deluxe Anniversary Edition)",
+                        "release_date": "1985-02-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27396a7cfeb4684f97e41135b79",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0296a7cfeb4684f97e41135b79",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485196a7cfeb4684f97e41135b79",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "How Will I Know",
+                    "popularity": 41,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7mMWGhaIiDmbsGaAAcmwGm"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/177ed2a94127f4a106eb7cf2951b092fa1cfdb26"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Amanda Miguel",
+                            "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+                        },
+                        "name": "El Sonido Vol. 1",
+                        "release_date": "1981-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b5b81ce0c06b5d18e46ac01a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b5b81ce0c06b5d18e46ac01a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b5b81ce0c06b5d18e46ac01a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Él Me Mintió",
+                    "popularity": 75,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/148526245e500d6edc27f5a9ee1e7988fa579311"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Amanda Miguel",
+                            "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+                        },
+                        "name": "El Sonido Vol. 1",
+                        "release_date": "1981-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b5b81ce0c06b5d18e46ac01a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b5b81ce0c06b5d18e46ac01a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b5b81ce0c06b5d18e46ac01a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Así No Te Amará Jamás",
+                    "popularity": 74,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fba8ced5056d86e3c6ef5354c8fb5ba75fe7d2b2"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Yuri",
+                            "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx",
+                            "genres": [
+                                "villancicos"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
+                        },
+                        "name": "Coleccion Suprema",
+                        "release_date": "2007-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739b54f876774681798556a795",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029b54f876774681798556a795",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519b54f876774681798556a795",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Maldita Primavera",
+                    "popularity": 69,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/62cfd98743895d1355c5a5c9d916ac92bf62f802"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Daniela Romo",
+                            "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y",
+                            "genres": [
+                                "villancicos"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+                        },
+                        "name": "Celebridades- Daniela Romo",
+                        "release_date": "2008-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737bbb6cdc28bb7619be35c16d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027bbb6cdc28bb7619be35c16d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517bbb6cdc28bb7619be35c16d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Yo No Te Pido La Luna",
+                    "popularity": 56,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/062cf77df7b5a348df62f9935d9f9b94557f1b77"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Pandora",
+                            "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP",
+                            "genres": [
+                                "villancicos"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
+                        },
+                        "name": "Solo Lo Mejor - 20 Exitos",
+                        "release_date": "2001-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737be1f1346c93743f1d6086d6",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027be1f1346c93743f1d6086d6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517be1f1346c93743f1d6086d6",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Popurri Juan Gabriel Medley",
+                    "popularity": 60,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b18269af0a148d502748fa91cbfbd9d91ea99e84"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Juan Gabriel",
+                            "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq",
+                            "genres": [
+                                "mariachi",
+                                "ranchera",
+                                "bolero",
+                                "música mexicana"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+                        },
+                        "name": "En el Palacio de Bellas Artes",
+                        "release_date": "1990-12-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738c5cf59db759bfce9fb5afac",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028c5cf59db759bfce9fb5afac",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518c5cf59db759bfce9fb5afac",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Yo No Nací para Amar (En Vivo) - En el Palacio de Bellas Artes",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1yHIdUzyLfFlWGzyqPphEW"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/87cfcefa25a6ab9e405e12ade4cadbf87f522c1f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Andrew Lloyd Webber",
+                            "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
+                            "genres": [
+                                "musicals"
+                            ]
+                        },
+                        {
+                            "name": "“Evita” 2006 London Cast",
+                            "url": "https://open.spotify.com/artist/6fXDhR9Gyg3TGnyxFe5ZGq",
+                            "genres": [
+                                "musicals"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj"
+                        },
+                        "name": "Evita",
+                        "release_date": "2006-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e1dd5effbae0361b01bc6ad0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e1dd5effbae0361b01bc6ad0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e1dd5effbae0361b01bc6ad0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Don't Cry For Me Argentina",
+                    "popularity": 43,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/af3523cfc41170fb4439b2cf242f86a6d86c949f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Olivia Newton-John",
+                            "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+                        },
+                        "name": "Grease (The Original Motion Picture Soundtrack)",
+                        "release_date": "1978-04-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b68df485f3304211904548a8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hopelessly Devoted To You - From “Grease”",
+                    "popularity": 77,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6280980219425f18098ed42c3ea8a9fe0cea78d0"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Barbra Streisand",
+                            "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6",
+                            "genres": [
+                                "adult standards"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
+                        },
+                        "name": "Just For The Record...",
+                        "release_date": "1991-09-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273221e4db5043eb42defc247e0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02221e4db5043eb42defc247e0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851221e4db5043eb42defc247e0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Don't Rain On My Parade - Soundtrack Version",
+                    "popularity": 33,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7LaYzwlsD5QiYGRhWDUjIN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/531cec45f06a0d051e720eefebf4ae79224c38eb"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Madonna",
+                            "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+                        },
+                        "name": "Celebration (double disc version)",
+                        "release_date": "2009-09-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736b44fa8f5415cc4c945117be",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026b44fa8f5415cc4c945117be",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516b44fa8f5415cc4c945117be",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Like a Prayer",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7a64405e927aaae772c70c3524dc6cb49310e71f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Shontelle",
+                            "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/00hVMpFWegdBKaNDAP55Bd"
+                        },
+                        "name": "No Gravity",
+                        "release_date": "2010-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739d3a02bd11c5366683517d32",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029d3a02bd11c5366683517d32",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519d3a02bd11c5366683517d32",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Impossible",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/45EDI3rk0f4cAMt9f8b56R"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b99277b285f3bc864d243f30eb64382e14cf2a8f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Alicia Keys",
+                            "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+                            "genres": [
+                                "r&b",
+                                "neo soul"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+                        },
+                        "name": "Girl on Fire (Remixes) - EP",
+                        "release_date": "2012-11-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a4fe49eb27e8152710e7a590",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a4fe49eb27e8152710e7a590",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a4fe49eb27e8152710e7a590",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Girl on Fire",
+                    "popularity": 79,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/916d773784dcfeaf0a3f47b0c6b58101615a5700"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Pimpinela",
+                            "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+                        },
+                        "name": "Pimpinela",
+                        "release_date": "1982-07-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27302f245014164552cbb668e79",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0202f245014164552cbb668e79",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485102f245014164552cbb668e79",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Olvídame y Pega la Vuelta",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/f9b634da098a82f11456aa3c7ce5d0a06f5b9da5"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Pimpinela",
+                            "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
+                        },
+                        "name": "Personalidad",
+                        "release_date": "2002-09-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a8bbce8c5c6e7d189f99f101",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a8bbce8c5c6e7d189f99f101",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a8bbce8c5c6e7d189f99f101",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "A Esa",
+                    "popularity": 64,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/dd5de2c508ac339df9bdbe494cb87f282f595436"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Paulina Rubio",
+                            "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS",
+                            "genres": [
+                                "latin pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+                        },
+                        "name": "La Chica Dorada",
+                        "release_date": "1992-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a424fea6dd8a77087f7c1036",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a424fea6dd8a77087f7c1036",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851a424fea6dd8a77087f7c1036",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Mío",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c0ce73e715f924618e218496cefe843d46e8c576"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Selena",
+                            "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch",
+                            "genres": [
+                                "tejano",
+                                "cumbia",
+                                "música mexicana"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+                        },
+                        "name": "Amor Prohibido",
+                        "release_date": "1994",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c26a4f2195b3ecf63d2a30ae",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c26a4f2195b3ecf63d2a30ae",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c26a4f2195b3ecf63d2a30ae",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Amor Prohibido",
+                    "popularity": 1,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/9974ee04ca0832acf62abb36f26bf5ccde17d08f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rocío Dúrcal",
+                            "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB",
+                            "genres": [
+                                "mariachi",
+                                "ranchera",
+                                "bolero"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+                        },
+                        "name": "Canta A Juan Gabriel",
+                        "release_date": "1984",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b8fec44980ac9ec471ec7d72",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b8fec44980ac9ec471ec7d72",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b8fec44980ac9ec471ec7d72",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Amor Eterno",
+                    "popularity": 69,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b310a690a8cd2886757a71e70406c242c9936793"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mecano",
+                            "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G",
+                            "genres": [
+                                "rock en español",
+                                "latin pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+                        },
+                        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+                        "release_date": "1986-06-16",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e5cbe0beab15e064311880c5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e5cbe0beab15e064311880c5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e5cbe0beab15e064311880c5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Me cuesta tanto olvidarte",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5d898d3496d17ee33e686078e083af6352f229ea"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Selena",
+                            "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch",
+                            "genres": [
+                                "tejano",
+                                "cumbia",
+                                "música mexicana"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+                        },
+                        "name": "Entre A Mi Mundo",
+                        "release_date": "1992",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273cdab46ca81738042ea122ec8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02cdab46ca81738042ea122ec8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851cdab46ca81738042ea122ec8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Como La Flor",
+                    "popularity": 71,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a251782674b42eae14f77f62a09aaa72f218cf6c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mariah Carey",
+                            "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ",
+                            "genres": [
+                                "christmas"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+                        },
+                        "name": "Emotions",
+                        "release_date": "1991-09-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ce054b531bc886e762dc5d90",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ce054b531bc886e762dc5d90",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ce054b531bc886e762dc5d90",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Emotions",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b6ada767eca4df12977e2c581e3e650ea69bbc13"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Christina Aguilera",
+                            "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+                        },
+                        "name": "Stripped",
+                        "release_date": "2002-07-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027cd872c7701c4737b2f81d87",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517cd872c7701c4737b2f81d87",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Fighter",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/83101230e43a0a13f0442047392f5eef188c75c8"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Carrie Underwood",
+                            "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj",
+                            "genres": [
+                                "country"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+                        },
+                        "name": "Some Hearts",
+                        "release_date": "2005-11-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c20ffeb64e39773de0f6c232",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02c20ffeb64e39773de0f6c232",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851c20ffeb64e39773de0f6c232",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Before He Cheats",
+                    "popularity": 79,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/82f1ac9eafd06467157913b75ea8ab4bb5bf657d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Jennifer Hudson",
+                            "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7x0K2KoVdoFy192loas5Sp"
+                        },
+                        "name": "Dreamgirls (Music from the Motion Picture) [Deluxe Edition]",
+                        "release_date": "2006-12-04",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273457a30c7050c5416171b4b6b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02457a30c7050c5416171b4b6b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851457a30c7050c5416171b4b6b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "And I Am Telling You I'm Not Going",
+                    "popularity": 54,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/26b2c6d8TBOSNQznQXFdQa"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/789c0de58533660cd60384c09023bd1f9af1cef7"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Aretha Franklin",
+                            "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok",
+                            "genres": [
+                                "soul",
+                                "motown",
+                                "classic soul"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+                        },
+                        "name": "Lady Soul (With Bonus Selections)",
+                        "release_date": "1968-01-22",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739e5af96086574b76499dcf70",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029e5af96086574b76499dcf70",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519e5af96086574b76499dcf70",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "(You Make Me Feel Like) A Natural Woman",
+                    "popularity": 71,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/e573a3589eaf7c2ef35ec7480dc13868d6d1c318"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Tina Turner",
+                            "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+                        },
+                        "name": "Private Dancer (30th Anniversary Issue)",
+                        "release_date": "1984-05-29",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27369284341c1d703caaa1e0ee1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0269284341c1d703caaa1e0ee1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485169284341c1d703caaa1e0ee1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "What's Love Got to Do with It - 2015 Remaster",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/cbdbabdba25dfb18423aebeefe4e6d3843a18da5"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Cher",
+                            "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+                        },
+                        "name": "Heart Of Stone",
+                        "release_date": "1989-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737a1e0215c41f0ce411623301",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027a1e0215c41f0ce411623301",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517a1e0215c41f0ce411623301",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "If I Could Turn Back Time",
+                    "popularity": 74,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4f598743e67ae843e531007ab29780789899f5df"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Cyndi Lauper",
+                            "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+                        },
+                        "name": "True Colors",
+                        "release_date": "1986-10-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273edbbd1e4dde99597ce850c54",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02edbbd1e4dde99597ce850c54",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851edbbd1e4dde99597ce850c54",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "True Colors",
+                    "popularity": 70,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/0f2bc57763e36be71fa3661c9e11a9b2e4360000"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Sinéad O'Connor",
+                            "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+                        },
+                        "name": "I Do Not Want What I Haven't Got",
+                        "release_date": "1990-07-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026f6536c2e326fb2b42db90f8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516f6536c2e326fb2b42db90f8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Nothing Compares 2 U",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fa35b1b15254a5fc47426e720d7a1b9e8c0bf6d7"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Gloria Gaynor",
+                            "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5",
+                            "genres": [
+                                "disco"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
+                        },
+                        "name": "Love Tracks",
+                        "release_date": "1978-11-27",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732a1049b6d0d2b4c3c0abe7a8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022a1049b6d0d2b4c3c0abe7a8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512a1049b6d0d2b4c3c0abe7a8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "I Will Survive",
+                    "popularity": 78,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a7e45bda989f63279898973fac464e39b64a1134"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mariah Carey",
+                            "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ",
+                            "genres": [
+                                "christmas"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+                        },
+                        "name": "Music Box",
+                        "release_date": "1993-08-31",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734c0f9e15bccb777f14b9a228",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024c0f9e15bccb777f14b9a228",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514c0f9e15bccb777f14b9a228",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hero",
+                    "popularity": 2,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a96b2286dd0467cf352636d0da00a9834651ff3d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Marbelle",
+                            "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg",
+                            "genres": [
+                                "popular colombian music",
+                                "ranchera",
+                                "colombian pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
+                        },
+                        "name": "Adicta al Dolor",
+                        "release_date": "2020-01-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273289b7b80334014efae6bccb5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02289b7b80334014efae6bccb5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851289b7b80334014efae6bccb5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Adicta al Dolor",
+                    "popularity": 0,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/616bc01fe5716a1541323241ada0f1c1cbb03829"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rocío Dúrcal",
+                            "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB",
+                            "genres": [
+                                "mariachi",
+                                "ranchera",
+                                "bolero"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+                        },
+                        "name": "Sus 16 Grandes Exitos",
+                        "release_date": "1983-03-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fb7dcf0561411587df105b8f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fb7dcf0561411587df105b8f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fb7dcf0561411587df105b8f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "La Gata Bajo la Lluvia",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/8869d678b93b2a659433f6491f7bb34d37866a8f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Stephen Sondheim",
+                            "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1",
+                            "genres": [
+                                "musicals"
+                            ]
+                        },
+                        {
+                            "name": "Jan Maxwell",
+                            "url": "https://open.spotify.com/artist/4pYkSTmxywZ2ypRzGqYwuy",
+                            "genres": [
+                                "musicals"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7vx2IsGyWN0lim75r1pdau"
+                        },
+                        "name": "Follies: New Broadway Cast Recording",
+                        "release_date": "2011-12-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273295b3240c5d7652cf731a9e4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02295b3240c5d7652cf731a9e4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851295b3240c5d7652cf731a9e4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Could I Leave You?",
+                    "popularity": 28,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7yv1Q16vsyYVgum2EenzmU"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/841c7c0238fe68e4fdb12837f7cd316908715e4b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Ana Gabriel",
+                            "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe",
+                            "genres": [
+                                "ranchera",
+                                "mariachi"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+                        },
+                        "name": "Tierra De Nadie",
+                        "release_date": "1988-11-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737693951c459da05ba896015e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027693951c459da05ba896015e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517693951c459da05ba896015e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Simplemente Amigos",
+                    "popularity": 67,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/81e13366392a4004d4923c7c144241271602cd99"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Juan Gabriel",
+                            "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq",
+                            "genres": [
+                                "mariachi",
+                                "ranchera",
+                                "bolero",
+                                "música mexicana"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4pTqllwyGiIb7kD9Jvg6EP"
+                        },
+                        "name": "10 De Los Grandes De Juan Gabriel",
+                        "release_date": "1975-08-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27346eb5f899aecbff244ba8158",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0246eb5f899aecbff244ba8158",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485146eb5f899aecbff244ba8158",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Cada Quien Su Camino",
+                    "popularity": 23,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0SjQLiCN6JanrcLlkJZWxW"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/92b701d9f0d12c5761e29ab1102ca99043392bbc"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Patti LuPone",
+                            "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944",
+                            "genres": [
+                                "musicals"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6cVS8HE0DLAHwcT1e4qixE"
+                        },
+                        "name": "Company (2018 London Cast Recording)",
+                        "release_date": "2019-02-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273596575564df8160455c2267c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02596575564df8160455c2267c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851596575564df8160455c2267c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "The Ladies Who Lunch",
+                    "popularity": 31,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/22Hnu6M7hvv6L7BWVhnFmx"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/8948f850f6612da7a5ac321deb4073751b127246"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ABBA",
+                            "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+                        },
+                        "name": "Super Trouper",
+                        "release_date": "1980",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048514d08fc99eff4ed52dfce91fa",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "The Winner Takes It All",
+                    "popularity": 87,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a5c0b3c58f991b2b1f492ddb59223bb561a9a787"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Shakira",
+                            "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
+                            "genres": [
+                                "latin pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+                        },
+                        "name": "Donde Estan Los Ladrones",
+                        "release_date": "1998-09-29",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bfcff1dd252b22bba16a2a5d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bfcff1dd252b22bba16a2a5d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Si Te Vas",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6c6079a2b0d2973aa7c2da8d1a67fcc6aa8e6f57"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Alicia Keys",
+                            "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+                            "genres": [
+                                "r&b",
+                                "neo soul"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
+                        },
+                        "name": "No One (Remixes)",
+                        "release_date": "2007-10-09",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b9ce268630bea28fbd453651",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b9ce268630bea28fbd453651",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b9ce268630bea28fbd453651",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "No One",
+                    "popularity": 80,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/291dc55ee456833dd35126d7035bf8a1997cfc6b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Kate Bush",
+                            "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL",
+                            "genres": [
+                                "art pop",
+                                "baroque pop",
+                                "art rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+                        },
+                        "name": "Never for Ever (2018 Remaster)",
+                        "release_date": "1980-09-07",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273de03c19a5b918e22a0f275d8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02de03c19a5b918e22a0f275d8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851de03c19a5b918e22a0f275d8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Babooshka - 2018 Remaster",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/f5e85af569a550de8361a88eea333735aede1d6c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Christina Aguilera",
+                            "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+                            "genres": []
+                        },
+                        {
+                            "name": "Lil' Kim",
+                            "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX",
+                            "genres": [
+                                "east coast hip hop"
+                            ]
+                        },
+                        {
+                            "name": "Mýa",
+                            "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF",
+                            "genres": []
+                        },
+                        {
+                            "name": "P!nk",
+                            "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+                        },
+                        "name": "Lady Marmalade",
+                        "release_date": "2001-06-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733265458c5b7bc115c5054c96",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023265458c5b7bc115c5054c96",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513265458c5b7bc115c5054c96",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Lady Marmalade - Single Edit",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/692734512af3011e2cfba98560dcb140a764b8b6"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Miranda!",
+                            "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY",
+                            "genres": [
+                                "latin pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+                        },
+                        "name": "Miranda Es Imposible!",
+                        "release_date": "2009-07-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737ffa007124cc61a27c9ade2f",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027ffa007124cc61a27c9ade2f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517ffa007124cc61a27c9ade2f",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Tu Misterioso Alguien",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2744c690673d8827a4f9eb0f68896f76af962f60"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "ABBA",
+                            "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+                        },
+                        "name": "Voulez-Vous",
+                        "release_date": "1979",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851aa22899360d8ba6704732dec",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Chiquitita",
+                    "popularity": 77,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4bcd305c73b4f060989624769b1b3c9cd4223eb6"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Cyndi Lauper",
+                            "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+                        },
+                        "name": "She's So Unusual",
+                        "release_date": "1983-10-14",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ce023ce7dfdd5199bcdfd5a1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ce023ce7dfdd5199bcdfd5a1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ce023ce7dfdd5199bcdfd5a1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Girls Just Want to Have Fun",
+                    "popularity": 83,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7f0a39e2981e2dcbf75783cef812e7d84726f650"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "The Weather Girls",
+                            "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt"
+                        },
+                        "name": "Success",
+                        "release_date": "1982",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ce5da542e3aec8325e844311",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ce5da542e3aec8325e844311",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ce5da542e3aec8325e844311",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "It's Raining Men",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/adb84904d9e4e2ada1bc4974f50b8e7da31e369d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Donna Summer",
+                            "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U",
+                            "genres": [
+                                "disco",
+                                "hi-nrg"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+                        },
+                        "name": "Bad Girls",
+                        "release_date": "1979-04-25",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2730c3a44d76807bef665eacfa3",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e020c3a44d76807bef665eacfa3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048510c3a44d76807bef665eacfa3",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Hot Stuff",
+                    "popularity": 71,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/b48b9f29b11d9821fc4f34e1307bf2d94867cc7b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "José Feliciano",
+                            "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF",
+                            "genres": [
+                                "christmas",
+                                "bolero",
+                                "villancicos"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5wDSxbDiNT3iraQnVhWrD0"
+                        },
+                        "name": "Coleccion Original: José Feliciano",
+                        "release_date": "1998-03-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735d7c8056d7851f4453b32565",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025d7c8056d7851f4453b32565",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515d7c8056d7851f4453b32565",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "La Copa Rota",
+                    "popularity": 46,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5IfAlOMySAH08t03DopAoZ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/37391377463ceac2f3ac0108e130db41ff8aa372"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Pimpinela",
+                            "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2yAyAHXqVw1XQWAg2juIlo"
+                        },
+                        "name": "Hermanos",
+                        "release_date": "1983",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735d996d94380b296bb036506d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025d996d94380b296bb036506d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515d996d94380b296bb036506d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "A Esa",
+                    "popularity": 61,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7IJuVH1YPmWEKemtZigmHK"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/dd5de2c508ac339df9bdbe494cb87f282f595436"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Big Brother & The Holding Company",
+                            "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo",
+                            "genres": [
+                                "psychedelic rock",
+                                "acid rock"
+                            ]
+                        },
+                        {
+                            "name": "Janis Joplin",
+                            "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC",
+                            "genres": [
+                                "classic rock",
+                                "acid rock",
+                                "psychedelic rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+                        },
+                        "name": "Cheap Thrills",
+                        "release_date": "1968-08-12",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b6bd5786c0a512ec463f3cb7",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b6bd5786c0a512ec463f3cb7",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b6bd5786c0a512ec463f3cb7",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Piece of My Heart",
+                    "popularity": 67,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/e644693dea5024e8b5babb71be0b1705fbc9885d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "La Quinta Estacion",
+                            "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh",
+                            "genres": [
+                                "latin pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
+                        },
+                        "name": "Flores De Alquiler",
+                        "release_date": "2004-03-02",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731daaff00746344ca90245833",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021daaff00746344ca90245833",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511daaff00746344ca90245833",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "El Sol No Regresa",
+                    "popularity": 78,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2awKQgW88iq9jFM54VaCAp"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3829c17a7890155b43266bc3097cdddd8099a511"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Chenoa",
+                            "url": "https://open.spotify.com/artist/0i3ypO6G38iZmANDHWZxlY",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0VLo0eXrNdALFKbgO58mLL"
+                        },
+                        "name": "Chenoa",
+                        "release_date": "2002-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2733304d3e5e7d9faa08cc0bcdb",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e023304d3e5e7d9faa08cc0bcdb",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048513304d3e5e7d9faa08cc0bcdb",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Cuando Tú Vas",
+                    "popularity": 49,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2bPH3Ph0RHQuugStXcpyRP"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/bcb78b505bcfefad33f3987bc5d056f9ae16308a"
+            }
+        ]
+    }
+}

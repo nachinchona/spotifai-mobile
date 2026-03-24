@@ -1,0 +1,1293 @@
+{
+    "id": 17,
+    "name": "baladas tristonas q se sienten como cuando shrek y burro están en el bar",
+    "description": "por qué esas caras largas?",
+    "genres": [
+        "argentine rock",
+        "art pop",
+        "blues rock",
+        "britpop",
+        "classic rock",
+        "country blues",
+        "dream pop",
+        "emo",
+        "glam metal",
+        "grunge",
+        "hard rock",
+        "industrial",
+        "industrial metal",
+        "industrial rock",
+        "jangle pop",
+        "latin rock",
+        "madchester",
+        "metal",
+        "mexican rock",
+        "modern blues",
+        "new wave",
+        "nu metal",
+        "pop punk",
+        "post-grunge",
+        "punk",
+        "rock",
+        "rock en español",
+        "shoegaze",
+        "slowcore",
+        "soft pop",
+        "soft rock",
+        "southern gothic"
+    ],
+    "images": [
+        {
+            "height": null,
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8454f30c57ccbb900a55a1d4ce",
+            "width": null
+        }
+    ],
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Nick Cave & The Bad Seeds",
+                            "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+                        },
+                        "name": "The Boatman's Call (2011 - Remaster)",
+                        "release_date": "1997-03-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27388f436c4a60e459f793f7b74",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0288f436c4a60e459f793f7b74",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485188f436c4a60e459f793f7b74",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "People Ain't No Good",
+                    "popularity": 55,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7gXDZrCMJ0jV9yAf4hZ0Z3"
+                    },
+                    "explicit": true
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/4cb7516f6cadee4b361627e0926dd97f9c9ae80f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Chris Cornell",
+                            "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I",
+                            "genres": [
+                                "grunge"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0ixYgnczD7ao9weSDlPFnI"
+                        },
+                        "name": "Euphoria Morning",
+                        "release_date": "1999-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bd74dc1cdeeb5c4b57945cab",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bd74dc1cdeeb5c4b57945cab",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bd74dc1cdeeb5c4b57945cab",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "When I'm Down",
+                    "popularity": 36,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/54YhPhJvoqEYnEj7oX9e2Q"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/58f97dd573677df70f4429500a9ea6dbfa610c77"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mitski",
+                            "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+                        },
+                        "name": "The Land Is Inhospitable and So Are We",
+                        "release_date": "2023-09-15",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0234f21d3047d85440dfa37f10",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485134f21d3047d85440dfa37f10",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "My Love Mine All Mine",
+                    "popularity": 87,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/2f90c9a6a2b6e38554d3bc3cf7512c2c70ac67b9"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Chris Cornell",
+                            "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I",
+                            "genres": [
+                                "grunge"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
+                        },
+                        "name": "Chris Cornell (Deluxe Edition)",
+                        "release_date": "2018-11-16",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273384765aca7a4341b9652d29e",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02384765aca7a4341b9652d29e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851384765aca7a4341b9652d29e",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
+                    "popularity": 63,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fdba767982503dc7bca10bfcc5519863cd1ebfac"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Pearl Jam",
+                            "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
+                            "genres": [
+                                "grunge",
+                                "rock",
+                                "post-grunge"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5PY2mZGCOMezmWH7hiCwFH"
+                        },
+                        "name": "Pearl Jam",
+                        "release_date": "2006-05-02",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273abd6980a0f2f2c9cc13581e0",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02abd6980a0f2f2c9cc13581e0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851abd6980a0f2f2c9cc13581e0",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Come Back",
+                    "popularity": 55,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0sHdUji2tWxiRDfShSWHUN"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/0cd118f4727b0e741f69dd7a3184571b64149522"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Billy Joel",
+                            "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
+                            "genres": [
+                                "soft rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+                        },
+                        "name": "52nd Street",
+                        "release_date": "1978-10-13",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738ccac298c81dd975fd266e82",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028ccac298c81dd975fd266e82",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518ccac298c81dd975fd266e82",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Honesty",
+                    "popularity": 66,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/0574f843e3deb85b16ee0aa6d8a2cbd05013cc64"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Marilyn Manson",
+                            "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
+                            "genres": [
+                                "industrial metal",
+                                "industrial rock",
+                                "industrial",
+                                "metal",
+                                "nu metal"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2Ko8Fi9kR8iiuzygvqDXER"
+                        },
+                        "name": "The High End of Low (International Version)",
+                        "release_date": "2009-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273079aa1eaf445a800d1689760",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02079aa1eaf445a800d1689760",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851079aa1eaf445a800d1689760",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Running To The Edge Of The World",
+                    "popularity": 47,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4ap6nHIEnGcl6tkYku3fRx"
+                    },
+                    "explicit": true
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/6d0f49bf6f335965817af2ab48525000e044cd3b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Lana Del Rey",
+                            "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+                            "genres": []
+                        },
+                        {
+                            "name": "Bleachers",
+                            "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+                        },
+                        "name": "Did you know that there's a tunnel under Ocean Blvd",
+                        "release_date": "2023-03-24",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0259ae8cf65d498afdd5585634",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485159ae8cf65d498afdd5585634",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Margaret (feat. Bleachers)",
+                    "popularity": 81,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a7521a0927cea873e4cbf099541e32790f48a102"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Rata Blanca",
+                            "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd",
+                            "genres": [
+                                "rock en español",
+                                "argentine rock",
+                                "latin rock",
+                                "mexican rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5Hm2xAdcU8UALsIUsVgYH6"
+                        },
+                        "name": "Guerrero Del Arco Iris",
+                        "release_date": "1991-01-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273549b97c8e14c60e13813e397",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02549b97c8e14c60e13813e397",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851549b97c8e14c60e13813e397",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Noches Sin Sueño",
+                    "popularity": 53,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6TtmgPSXdsdFImfXe3Rx38"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/96148d485c61a4dc3e45462c46685f6523550b9c"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Simple Plan",
+                            "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ",
+                            "genres": [
+                                "pop punk",
+                                "punk",
+                                "emo"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+                        },
+                        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+                        "release_date": "2002-03-19",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273fbee462a3aa4e7ea05e07aa5",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02fbee462a3aa4e7ea05e07aa5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851fbee462a3aa4e7ea05e07aa5",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Perfect",
+                    "popularity": 73,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4j3X4KX8rURekAVIFUhI23"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/c93e339eefc83c451c830a04494886655819bb8f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Fiona Apple",
+                            "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL",
+                            "genres": [
+                                "art pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+                        },
+                        "name": "When The Pawn...",
+                        "release_date": "1999-11-09",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27370622da427271b0203d7ce79",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0270622da427271b0203d7ce79",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485170622da427271b0203d7ce79",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "I Know",
+                    "popularity": 62,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/3b7c0847a4acbd70a09e8e4621d33214c05ae011"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "The Smiths",
+                            "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+                            "genres": [
+                                "new wave",
+                                "madchester",
+                                "jangle pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+                        },
+                        "name": "Hatful of Hollow",
+                        "release_date": "1984",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851786b44c75ebf915866523f5b",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+                    "popularity": 80,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5ce66bb51b706d64d0c951f0773b0277ffbf3349"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "The Bones of J.R. Jones",
+                            "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn",
+                            "genres": [
+                                "southern gothic",
+                                "blues rock",
+                                "modern blues",
+                                "country blues"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
+                        },
+                        "name": "Slow Lightning (Deluxe)",
+                        "release_date": "2024-02-09",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732e0b971ec4cc562dee9d55f9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022e0b971ec4cc562dee9d55f9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512e0b971ec4cc562dee9d55f9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Out for Blood",
+                    "popularity": 31,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/544bb32fc548628ce257e5770426a2926a30d826"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Richy Mitch & The Coal Miners",
+                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+                        },
+                        "name": "RMCM",
+                        "release_date": "2017-05-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e021cc17bae5ee17cce117e198a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048511cc17bae5ee17cce117e198a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Evergreen",
+                    "popularity": 83,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fca7555fba8261b7ccc0aac1854a86033a12823b"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Adele",
+                            "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+                            "genres": [
+                                "soft pop"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+                        },
+                        "name": "19",
+                        "release_date": "2008-01-28",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0262e62cf225b72fca8d765168",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485162e62cf225b72fca8d765168",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Make You Feel My Love",
+                    "popularity": 72,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/14892d60b1ab7903361225b9661ae7f1f7175e4e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Lana Del Rey",
+                            "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+                        },
+                        "name": "Norman Fucking Rockwell!",
+                        "release_date": "2019-08-30",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02879e9318cb9f4e05ee552ac9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851879e9318cb9f4e05ee552ac9",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Norman fucking Rockwell",
+                    "popularity": 74,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+                    },
+                    "explicit": true
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/836702550f04d961a6f0a8ba500946af175d38d9"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Aerosmith",
+                            "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
+                            "genres": [
+                                "classic rock",
+                                "rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+                        },
+                        "name": "Just Push Play",
+                        "release_date": "2001-03-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27336051875634a4833119cb4b8",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0236051875634a4833119cb4b8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485136051875634a4833119cb4b8",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Fly Away From Here",
+                    "popularity": 62,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5PxQhGYkbGXzjOLaUfAYMf"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/82becf27208bce5dfea7a6bf9f6a93b1c47d91d8"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Coldplay",
+                            "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+                        },
+                        "name": "Parachutes",
+                        "release_date": "2000-07-10",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Trouble",
+                    "popularity": 75,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/06ed55949d3f16769d42fa156d31324cc1524093"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Oasis",
+                            "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
+                            "genres": [
+                                "britpop",
+                                "madchester"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+                        },
+                        "name": "Heathen Chemistry",
+                        "release_date": "2002-02-03",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f687135853a4488b2178d0bf",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f687135853a4488b2178d0bf",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f687135853a4488b2178d0bf",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Stop Crying Your Heart Out",
+                    "popularity": 76,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/1ce09f02790a99323903a72c0c87bfc0bc76d430"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "The Cranberries",
+                            "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
+                        },
+                        "name": "Stars: The Best Of The Cranberries 1992-2002",
+                        "release_date": "2002-09-16",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e026c4efca9f5e949a2f9cc3ac4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048516c4efca9f5e949a2f9cc3ac4",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "When You're Gone",
+                    "popularity": 67,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/9b0ac89120e3841ca8ca93b9aba58da6a925b28f"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Mazzy Star",
+                            "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W",
+                            "genres": [
+                                "dream pop",
+                                "shoegaze",
+                                "slowcore"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+                        },
+                        "name": "So Tonight That I Might See",
+                        "release_date": "1993-10-05",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485189a392107ebd79818022b3ea",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Fade Into You",
+                    "popularity": 87,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/0dcffaf83437720696060e3a836b91eb9f47bba3"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "The Cranberries",
+                            "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+                        },
+                        "name": "Everybody Else Is Doing It, So Why Can't We?",
+                        "release_date": "1993-03-01",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f6325f361d7803ad0d908451",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f6325f361d7803ad0d908451",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Linger",
+                    "popularity": 87,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7b68bf72ebc1138e44a5e285d5698a715ea1d46e"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Slowed Remix DJ",
+                            "url": "https://open.spotify.com/artist/3enC2RjmMGO8UrWChmsx6R",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7uOyh9sreAxx3zpCBscZTA"
+                        },
+                        "name": "Slowed + Reverbed Remix Versions, Vol. 4",
+                        "release_date": "2022-07-29",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273db90faa95eef6f28ace237b1",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02db90faa95eef6f28ace237b1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851db90faa95eef6f28ace237b1",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Say It Right (Slowed Version)",
+                    "popularity": 25,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/6JYSGKl8Trw34VhgcPqKHR"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/5cea86bd4c836cb0bdd31d4e77404897b95c8934"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "SYML",
+                            "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0",
+                            "genres": []
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8"
+                        },
+                        "name": "Hurt for Me",
+                        "release_date": "2016-11-18",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f6825dc22434782b58a5681d",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f6825dc22434782b58a5681d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f6825dc22434782b58a5681d",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Where’s My Love - Alternate Version",
+                    "popularity": 65,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/a6316e109f8df8a85cc99fd16fcc023aef4706a7"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Guns N' Roses",
+                            "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
+                            "genres": [
+                                "rock",
+                                "glam metal",
+                                "hard rock",
+                                "classic rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+                        },
+                        "name": "Use Your Illusion I",
+                        "release_date": "1991-09-17",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e44963b8bb127552ac761873",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Don't Cry (Original)",
+                    "popularity": 78,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/9629f477f594def6531865c7783910a0a85473a0"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Nickelback",
+                            "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF",
+                            "genres": [
+                                "post-grunge",
+                                "rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+                        },
+                        "name": "All the Right Reasons",
+                        "release_date": "2005-09-26",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27307fb7d8037f3962394c493ca",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0207fb7d8037f3962394c493ca",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485107fb7d8037f3962394c493ca",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Savin' Me",
+                    "popularity": 68,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/fe5936cff898b0677b93d01e9f7ad849dacf3432"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Nickelback",
+                            "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF",
+                            "genres": [
+                                "post-grunge",
+                                "rock"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+                        },
+                        "name": "Silver Side Up",
+                        "release_date": "2001-09-11",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02699a422d25adc550dc5aa11c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851699a422d25adc550dc5aa11c",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "How You Remind Me",
+                    "popularity": 87,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/94fd201045f5b682935957a8206075638dc4622d"
+            },
+            {
+                "track": {
+                    "artists": [
+                        {
+                            "name": "Alice In Chains",
+                            "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL",
+                            "genres": [
+                                "grunge",
+                                "post-grunge"
+                            ]
+                        }
+                    ],
+                    "album": {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+                        },
+                        "name": "Jar Of Flies",
+                        "release_date": "1994",
+                        "images": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27325b42be683b8d3c6500db726",
+                                "width": 640,
+                                "height": 640
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0225b42be683b8d3c6500db726",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485125b42be683b8d3c6500db726",
+                                "width": 64,
+                                "height": 64
+                            }
+                        ]
+                    },
+                    "name": "Nutshell",
+                    "popularity": 81,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+                    },
+                    "explicit": false
+                },
+                "preview_url": "https://p.scdn.co/mp3-preview/7a7a6de35de3095714263de7ec65c0bfb00e06ce"
+            }
+        ]
+    }
+}
