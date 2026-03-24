@@ -105,9 +105,10 @@ const actualizarPreviews = async (req, res) => {
                     enrichedTracks.push({
                         track: track.track, preview_url: previewUrl 
                     });
+                    console.log("Canción " + i + " procesada: " + artist + " - " + name)
                 }
                 i++;
-                console.log("Canción " + i + " procesada: " + artist + " - " + name)
+                
                 if (i === LIMIT) break;
             } catch (err) {
                 console.log("Resultado de la librería:", JSON.stringify(result, null, 2));

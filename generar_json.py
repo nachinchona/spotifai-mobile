@@ -11,8 +11,8 @@ load_dotenv()
 SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 IP_ADDRESS = os.getenv('EXPO_PUBLIC_IP_ADDRESS')
-PLAYLIST_ID = '76FVXYDRxyRu1meGRQdi4Q' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
-FOLDER_PATH = './api/public/json/'
+PLAYLIST_ID = '40naW2AaTlbOJ9TFXxNk6Y' # Ejemplo: '37i9dQZF1DXcBWIGoYBM5M'
+FOLDER_PATH = './api/public/playlists/'
 
 def get_next_playlist_id():
     folder = Path(FOLDER_PATH)
@@ -132,13 +132,16 @@ def generar_json_estricto(playlist_id, token):
     
     
     api_url = f"http://{IP_ADDRESS}:3000/api/playlist/refresh"
-    
+   
     try:
        response = requests.post(
+        
             api_url,
             json={'tracks': clean_items},
             timeout=300
         )
+      
+
     except requests.exceptions.Timeout:
         print("Error: La API de Node tardó demasiado en responder.")
         # En caso de error, usamos clean_items localmente para no detener el script
@@ -146,7 +149,7 @@ def generar_json_estricto(playlist_id, token):
     else:
         # Si responde bien, usamos su respuesta
         items_with_audio = response.json().get('items', clean_items)
-
+    print(items_with_audio)
     final_output = {
         "id": new_id,
         "name": raw_data['name'],
@@ -160,11 +163,6 @@ def generar_json_estricto(playlist_id, token):
     
     return final_output
 
-def slugify_filename(text):
-    text = text.lower()
-    text = re.sub(r'[^\w\s-]', '', text)
-    return re.sub(r'[-\s]+', '-', text).strip('-')
-
 if __name__ == "__main__":
     if SPOTIFY_CLIENT_ID is None:
         print("[ALERTA] Edita el archivo y coloca tu CLIENT_ID y CLIENT_SECRET.")
@@ -173,7 +171,7 @@ if __name__ == "__main__":
         if token:
             datos = generar_json_estricto(PLAYLIST_ID, token)
             if datos:
-                nombre_playlist = slugify_filename(datos["name"])+'.json'
+                nombre_playlist = 'playlist-' + str(datos["id"]) + '.json'
                 ruta_final = FOLDER_PATH + nombre_playlist
                 try:
                     with open(ruta_final , 'w', encoding='utf-8') as f:
