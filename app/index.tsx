@@ -74,7 +74,7 @@ export default function PlaylistsScreen() {
     }
   }
 
-  // Al volver a esta pantalla, resetear y re-fetchear todo desde el servidor
+  // Al volver a esta pantalla, resetear y re-fetchear todo desde el servidor|
   useFocusEffect(
     useCallback(() => {
       setPlaylists([]);
@@ -125,12 +125,16 @@ export default function PlaylistsScreen() {
       return result;
     }
 
+    // Filtramos por la propiedad isFavorite
+    if (activeFilterId === "Favoritos") {
+      return result.filter(p => p.isFavorite === true);
+    }
+
     // Filtrado por coincidencia de género
     return result.filter(p =>
       p.genres && p.genres.some(genre => genre.toLowerCase().includes(activeFilterId.toLowerCase())
       )
     );
-
   }, [playlists, activeFilterId]);
 
   const formatGenresList = (genres: string[] | undefined) => {
@@ -146,7 +150,43 @@ export default function PlaylistsScreen() {
     router.push(`/playlist/${playlistID}`);
   }
 
-  const renderItem = ({ item }: { item: Playlist }) => {
+
+
+
+
+const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefined) => {
+    const newState = !currentState;
+    
+    setPlaylists(prev => prev.map(p => 
+      p.id === idPlaylist ? { ...p, isFavorite: newState } : p
+    ));
+
+    try {
+       const response = await fetch(`http://${IP_ADDRESS}/api/playlist/favorites`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          idPlaylist: idPlaylist,
+          isFavorite: newState
+        })
+      });
+
+      if (!response.ok) throw new Error("Error en el servidor");
+      
+    } catch (error) {
+      console.error(error);
+     
+      setPlaylists(prev => prev.map(p => 
+        p.id === idPlaylist ? { ...p, isFavorite: currentState } : p
+      ));
+    }
+  };
+
+
+
+
+
+ const renderItem = ({ item }: { item: Playlist }) => {
     return (
       <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
         <Image
@@ -154,7 +194,25 @@ export default function PlaylistsScreen() {
           style={styles.playlistImage}
         />
         <View style={styles.textContainer}>
-          <Text style={styles.playlistName}>{item.name}</Text>
+          
+          {/* NUEVO: Contenedor en fila para el Título y el Corazón */}
+          <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+            <Text style={[styles.playlistName, { flex: 1 }]} numberOfLines={1}>
+              {item.name}
+            </Text>
+            
+            {/* BOTÓN DE CORAZÓN */}
+            <Pressable 
+              onPress={(e) => {
+                e.stopPropagation(); // Evita que al tocar el corazón se abra la playlist
+                toggleFavorite(item.id, item.isFavorite);
+              }}
+              style={{ paddingLeft: 10, paddingBottom: 5 }}
+            >
+              <Text style={{ fontSize: 20 }}>{item.isFavorite ? '❤️' : '🤍'}</Text>
+            </Pressable>
+          </View>
+
           <Text style={styles.genreTag}>
             {formatGenresList(item.genres)}
           </Text>
@@ -169,8 +227,24 @@ export default function PlaylistsScreen() {
   }
 
 
-  const renderTabs = () => (
-    <View style={styles.tabsContainer}>
+ const renderTabs = () => (
+    <View style={[styles.tabsContainer, { flexDirection: 'row', alignItems: 'center' }]}>
+      
+      {/* BOTÓN FIJO DE FAVORITOS */}
+      <Pressable
+        onPress={() => setActiveFilterId("Favoritos")}
+        style={[
+          styles.tabButton,
+          activeFilterId === "Favoritos" && styles.tabButtonActive,
+          { marginLeft: 5 } // Margen para separarlo del borde
+        ]}
+      >
+        <Text style={[styles.tabText, activeFilterId === "Favoritos" && styles.tabTextActive]}>
+          {activeFilterId === "Favoritos" ? "❤️ Favs" : "🤍 Favs"}
+        </Text>
+      </Pressable>
+
+      {/* SCROLL DE GÉNEROS */}
       <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingHorizontal: 5 }}>
         {dynamicFilters.map((filtro) => (
           <Pressable

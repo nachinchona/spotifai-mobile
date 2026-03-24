@@ -44,4 +44,5 @@ export interface Playlist {
   tracks: {
     items: PlaylistTrackItem[];
   };
+  isFavorite?: boolean;
 }
