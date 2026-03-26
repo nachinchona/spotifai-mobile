@@ -1,6 +1,6 @@
-import { DeleteButton } from '@/components/delete-button';
-import TrackItem from '@/components/TrackPlayer';
-import { IP_ADDRESS } from '@/src/api';
+import { IP_ADDRESS } from '@/src/api-handler';
+import { DeleteButton } from '@/src/components/delete-button';
+import TrackItem from '@/src/components/track-player';
 import { styles } from "@/src/style/playlist-styles";
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { LinearGradient } from 'expo-linear-gradient';

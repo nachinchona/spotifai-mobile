@@ -1,5 +1,5 @@
-import { DeleteContext } from "@/context/deleteContext";
-import { IP_ADDRESS } from "@/src/api";
+import { IP_ADDRESS } from "@/src/api-handler";
+import { DeleteContext } from "@/src/context/delete-context";
 import { AntDesign } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import { useContext } from "react";

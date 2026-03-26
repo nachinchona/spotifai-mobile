@@ -55,6 +55,7 @@ export const styles = StyleSheet.create({
   },
   featureItem: {
     alignItems: "center",
+    width: 90,
   },
   featureIcon: {
     width: 56,

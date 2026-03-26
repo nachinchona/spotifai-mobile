@@ -27,9 +27,7 @@ export const styles = StyleSheet.create({
     color: "white",
     fontSize: 24,
     fontWeight: "bold",
-    flex: 1,
   },
-  
   tabsContainer: {
     marginBottom: 15,
     height: 40,

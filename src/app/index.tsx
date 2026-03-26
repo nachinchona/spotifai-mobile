@@ -1,4 +1,4 @@
-import { IP_ADDRESS } from "@/src/api";
+import { IP_ADDRESS } from "@/src/api-handler";
 import { styles } from "@/src/style/index-styles";
 import { useFocusEffect } from '@react-navigation/native';
 import { useRouter } from "expo-router";
@@ -6,7 +6,7 @@ import { useCallback, useMemo, useState } from "react";
 import { ActivityIndicator, FlatList, Image, Pressable, ScrollView, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Playlist } from '../interfaces/Playlist';
-// Mapeo opcional para traducir nombres si quieres mantenerlo
+
 const GENRE_TRANSLATIONS: Record<string, string> = {
   "argentine rock": "Rock Nacional",
   "pop": "Pop",
@@ -26,7 +26,6 @@ export default function PlaylistsScreen() {
   const [ultimaID, setUltimaID] = useState(0)
   const [error, setError] = useState<string | null>(null)
 
-  // Estados para filtros dinámicos
   const [dynamicFilters, setDynamicFilters] = useState<{ id: string, label: string }[]>([
     { id: "Todos", label: "Todos" },
   ]);
@@ -74,7 +73,6 @@ export default function PlaylistsScreen() {
     }
   }
 
-  // Al volver a esta pantalla, resetear y re-fetchear todo desde el servidor|
   useFocusEffect(
     useCallback(() => {
       setPlaylists([]);
@@ -146,23 +144,18 @@ export default function PlaylistsScreen() {
   };
 
   const handlePress = (playlistID: string) => {
-    console.log(`EN INDEX /playlist/${playlistID}`)
     router.push(`/playlist/${playlistID}`);
   }
 
-
-
-
-
-const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefined) => {
+  const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefined) => {
     const newState = !currentState;
-    
-    setPlaylists(prev => prev.map(p => 
+
+    setPlaylists(prev => prev.map(p =>
       p.id === idPlaylist ? { ...p, isFavorite: newState } : p
     ));
 
     try {
-       const response = await fetch(`http://${IP_ADDRESS}/api/playlist/favorites`, {
+      const response = await fetch(`http://${IP_ADDRESS}/api/playlist/favorites`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -172,11 +165,11 @@ const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefi
       });
 
       if (!response.ok) throw new Error("Error en el servidor");
-      
+
     } catch (error) {
       console.error(error);
-     
-      setPlaylists(prev => prev.map(p => 
+
+      setPlaylists(prev => prev.map(p =>
         p.id === idPlaylist ? { ...p, isFavorite: currentState } : p
       ));
     }
@@ -186,7 +179,7 @@ const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefi
 
 
 
- const renderItem = ({ item }: { item: Playlist }) => {
+  const renderItem = ({ item }: { item: Playlist }) => {
     return (
       <Pressable style={styles.card} onPress={() => { handlePress(String(item.id)); }}>
         <Image
@@ -194,15 +187,15 @@ const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefi
           style={styles.playlistImage}
         />
         <View style={styles.textContainer}>
-          
+
           {/* NUEVO: Contenedor en fila para el Título y el Corazón */}
           <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start' }}>
             <Text style={[styles.playlistName, { flex: 1 }]} numberOfLines={1}>
               {item.name}
             </Text>
-            
+
             {/* BOTÓN DE CORAZÓN */}
-            <Pressable 
+            <Pressable
               onPress={(e) => {
                 e.stopPropagation(); // Evita que al tocar el corazón se abra la playlist
                 toggleFavorite(item.id, item.isFavorite);
@@ -227,9 +220,9 @@ const toggleFavorite = async (idPlaylist: number, currentState: boolean | undefi
   }
 
 
- const renderTabs = () => (
+  const renderTabs = () => (
     <View style={[styles.tabsContainer, { flexDirection: 'row', alignItems: 'center' }]}>
-      
+
       {/* BOTÓN FIJO DE FAVORITOS */}
       <Pressable
         onPress={() => setActiveFilterId("Favoritos")}

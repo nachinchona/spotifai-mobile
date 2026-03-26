@@ -25,7 +25,6 @@ export const styles = StyleSheet.create({
     color: "white",
     fontSize: 24,
     fontWeight: "bold",
-    flex: 1,
   },
   // ESTILOS CARD
   card: {
